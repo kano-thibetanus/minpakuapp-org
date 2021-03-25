@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="ZOF-9t-qWe">
+    <device id="ipad11_0rounded" orientation="landscape">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Search Result View Controller-->
+        <scene sceneID="hy5-85-ERx">
+            <objects>
+                <viewController storyboardIdentifier="SearchResultViewController" id="ZOF-9t-qWe" customClass="SearchResultViewController" customModule="MinpakuMock" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="XiZ-HF-de9">
+                        <rect key="frame" x="0.0" y="0.0" width="1194" height="834"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="background" translatesAutoresizingMaskIntoConstraints="NO" id="wGd-13-Zx3">
+                                <rect key="frame" x="0.0" y="24" width="1194" height="810"/>
+                            </imageView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="8uB-ap-w11" customClass="GeneralHeader" customModule="MinpakuMock" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="24" width="1194" height="108"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="108" id="PCr-y4-kge"/>
+                                </constraints>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="vNs-mp-in1" customClass="SearchHeader" customModule="MinpakuMock" customModuleProvider="target">
+                                <rect key="frame" x="22" y="140" width="1150" height="54"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="54" id="Dyy-m3-bdd"/>
+                                </constraints>
+                            </view>
+                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="g2s-ay-6kf">
+                                <rect key="frame" x="0.0" y="202" width="1194" height="612"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="Pss-bQ-gIe">
+                                    <size key="itemSize" width="50" height="50"/>
+                                    <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                                    <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                                    <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                </collectionViewFlowLayout>
+                                <cells/>
+                            </collectionView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="vNs-mp-in1" firstAttribute="centerX" secondItem="XiZ-HF-de9" secondAttribute="centerX" id="4eS-pe-D2j"/>
+                            <constraint firstItem="vNs-mp-in1" firstAttribute="leading" secondItem="bDa-CI-f1f" secondAttribute="leading" constant="22" id="Ebs-Nb-Yyb"/>
+                            <constraint firstItem="wGd-13-Zx3" firstAttribute="leading" secondItem="bDa-CI-f1f" secondAttribute="leading" id="LB7-zz-F4Z"/>
+                            <constraint firstItem="g2s-ay-6kf" firstAttribute="trailing" secondItem="bDa-CI-f1f" secondAttribute="trailing" id="OoL-gt-QfQ"/>
+                            <constraint firstItem="g2s-ay-6kf" firstAttribute="bottom" secondItem="bDa-CI-f1f" secondAttribute="bottom" id="ReO-rA-6rJ"/>
+                            <constraint firstItem="8uB-ap-w11" firstAttribute="top" secondItem="bDa-CI-f1f" secondAttribute="top" id="S3Q-Al-i82"/>
+                            <constraint firstItem="8uB-ap-w11" firstAttribute="trailing" secondItem="bDa-CI-f1f" secondAttribute="trailing" id="SnO-jS-07M"/>
+                            <constraint firstItem="8uB-ap-w11" firstAttribute="leading" secondItem="bDa-CI-f1f" secondAttribute="leading" id="WIN-7C-cHJ"/>
+                            <constraint firstAttribute="bottom" secondItem="wGd-13-Zx3" secondAttribute="bottom" id="c83-nS-LBx"/>
+                            <constraint firstItem="bDa-CI-f1f" firstAttribute="trailing" secondItem="vNs-mp-in1" secondAttribute="trailing" constant="22" id="ca3-aH-hUM"/>
+                            <constraint firstItem="g2s-ay-6kf" firstAttribute="leading" secondItem="bDa-CI-f1f" secondAttribute="leading" id="h7W-5I-77w"/>
+                            <constraint firstItem="g2s-ay-6kf" firstAttribute="top" secondItem="vNs-mp-in1" secondAttribute="bottom" constant="8" id="lzp-3D-4UB"/>
+                            <constraint firstItem="wGd-13-Zx3" firstAttribute="top" secondItem="bDa-CI-f1f" secondAttribute="top" id="mhT-F7-T47"/>
+                            <constraint firstItem="wGd-13-Zx3" firstAttribute="trailing" secondItem="bDa-CI-f1f" secondAttribute="trailing" id="sN2-oE-A6d"/>
+                            <constraint firstItem="vNs-mp-in1" firstAttribute="top" secondItem="8uB-ap-w11" secondAttribute="bottom" constant="8" id="zCi-0f-IGq"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="bDa-CI-f1f"/>
+                    </view>
+                    <connections>
+                        <outlet property="collectionView" destination="g2s-ay-6kf" id="3Ru-SG-col"/>
+                        <outlet property="header" destination="8uB-ap-w11" id="yFd-Ux-oWe"/>
+                        <outlet property="searchHeader" destination="vNs-mp-in1" id="5ZJ-TO-c8L"/>
+                        <outlet property="searchHeaderConstraintHeight" destination="Dyy-m3-bdd" id="BoW-6J-5fZ"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="KIY-sF-Cbg" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="110.55276381909547" y="126.61870503597123"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="background" width="1194" height="790"/>
+    </resources>
+</document>

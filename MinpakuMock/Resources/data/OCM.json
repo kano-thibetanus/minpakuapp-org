@@ -1,0 +1,3672 @@
+[
+  {
+    "code": 100,
+    "en_name": "ORIENTATION",
+    "ja_name": "オリエンテーション"
+  },
+  {
+    "code": 101,
+    "en_name": "IDENTIFICATION",
+    "ja_name": "識別"
+  },
+  {
+    "code": 102,
+    "en_name": "MAPS",
+    "ja_name": "地図"
+  },
+  {
+    "code": 103,
+    "en_name": "PLACE NAMES",
+    "ja_name": "地名"
+  },
+  {
+    "code": 104,
+    "en_name": "GLOSSARY",
+    "ja_name": "用語集"
+  },
+  {
+    "code": 105,
+    "en_name": "CULTURE SUMMARY",
+    "ja_name": "文化要約"
+  },
+  {
+    "code": 106,
+    "en_name": "CODED DATA",
+    "ja_name": "コード化されたデータ"
+  },
+  {
+    "code": 107,
+    "en_name": "DIAGNOSTIC MATERIAL ATTRIBUTES",
+    "ja_name": "特徴材料の属性"
+  },
+  {
+    "code": 110,
+    "en_name": "INFORMATION SOURCES",
+    "ja_name": "情報源"
+  },
+  {
+    "code": 111,
+    "en_name": "CITATIONS OF DOCUMENTS IN THE HRAF COLLECTION",
+    "ja_name": "HRAFコレクション内の参照文献"
+  },
+  {
+    "code": 112,
+    "en_name": "ADDITIONAL BIBLIOGRAPHY",
+    "ja_name": "追加の書誌情報"
+  },
+  {
+    "code": 113,
+    "en_name": "BIBLIOGRAPHIES IN SOURCES",
+    "ja_name": "出典"
+  },
+  {
+    "code": 114,
+    "en_name": "REVIEWS AND CRITIQUES",
+    "ja_name": "レビューと批評"
+  },
+  {
+    "code": 115,
+    "en_name": "INFORMANTS",
+    "ja_name": "情報提供者"
+  },
+  {
+    "code": 116,
+    "en_name": "COMPLETE TEXTS OF HRAF DOCUMENTS",
+    "ja_name": "HRAF文書の完全な文章"
+  },
+  {
+    "code": 117,
+    "en_name": "FIELD DATA",
+    "ja_name": "フィールドデータ"
+  },
+  {
+    "code": 118,
+    "en_name": "FICTION",
+    "ja_name": "フィクション"
+  },
+  {
+    "code": 119,
+    "en_name": "ARTIFACT AND ARCHIVE COLLECTIONS",
+    "ja_name": "作品とアーカイブのコレクション"
+  },
+  {
+    "code": 120,
+    "en_name": "RESEARCH METHODS",
+    "ja_name": "調査手法"
+  },
+  {
+    "code": 121,
+    "en_name": "THEORETICAL ORIENTATION",
+    "ja_name": "理論的方向づけ"
+  },
+  {
+    "code": 122,
+    "en_name": "PRACTICAL PREPARATIONS OF FIELDWORK",
+    "ja_name": "フィールドワークにおける具体的な準備"
+  },
+  {
+    "code": 123,
+    "en_name": "OBSERVATION IN RESEARCH",
+    "ja_name": "調査における観察"
+  },
+  {
+    "code": 124,
+    "en_name": "INTERVIEWING IN RESEARCH",
+    "ja_name": "調査におけるインタビュー"
+  },
+  {
+    "code": 125,
+    "en_name": "TESTS AND SCHEDULES IN THE FIELD",
+    "ja_name": "現場でのテストとスケジュール"
+  },
+  {
+    "code": 126,
+    "en_name": "RECORDING AND COLLECTING IN THE FIELD",
+    "ja_name": "現場での録音と収集物"
+  },
+  {
+    "code": 127,
+    "en_name": "HISTORICAL AND ARCHIVAL RESEARCH",
+    "ja_name": "歴史的および過去の研究"
+  },
+  {
+    "code": 128,
+    "en_name": "ORGANIZATION AND ANALYSIS OF RESULTS",
+    "ja_name": "結果の整理と分析"
+  },
+  {
+    "code": 129,
+    "en_name": "ARCHAEOLOGICAL SURVEY METHODS",
+    "ja_name": "考古学的調査方法"
+  },
+  {
+    "code": 130,
+    "en_name": "GEOGRAPHY",
+    "ja_name": "地理"
+  },
+  {
+    "code": 131,
+    "en_name": "LOCATION",
+    "ja_name": "場所"
+  },
+  {
+    "code": 132,
+    "en_name": "CLIMATE",
+    "ja_name": "天候"
+  },
+  {
+    "code": 133,
+    "en_name": "TOPOGRAPHY AND GEOLOGY",
+    "ja_name": "地形と地質"
+  },
+  {
+    "code": 134,
+    "en_name": "SOIL",
+    "ja_name": "土壌"
+  },
+  {
+    "code": 135,
+    "en_name": "MINERAL RESOURCES",
+    "ja_name": "鉱物資源"
+  },
+  {
+    "code": 136,
+    "en_name": "FAUNA",
+    "ja_name": "動物区系"
+  },
+  {
+    "code": 137,
+    "en_name": "FLORA",
+    "ja_name": "植物区系"
+  },
+  {
+    "code": 138,
+    "en_name": "POST DEPOSITIONAL PROCESSES",
+    "ja_name": "堆積後の過程"
+  },
+  {
+    "code": 140,
+    "en_name": "HUMAN BIOLOGY",
+    "ja_name": "ヒトの生物学"
+  },
+  {
+    "code": 141,
+    "en_name": "ANTHROPOMETRY",
+    "ja_name": "人体測定学"
+  },
+  {
+    "code": 142,
+    "en_name": "DESCRIPTIVE SOMATOLOGY",
+    "ja_name": "記述的発生学"
+  },
+  {
+    "code": 143,
+    "en_name": "GENETICS",
+    "ja_name": "遺伝学"
+  },
+  {
+    "code": 144,
+    "en_name": "RACIAL IDENTIFICATION",
+    "ja_name": "人種の特定"
+  },
+  {
+    "code": 145,
+    "en_name": "ONTOGENETIC DATA",
+    "ja_name": "個体発生データ"
+  },
+  {
+    "code": 146,
+    "en_name": "NUTRITION",
+    "ja_name": "栄養学"
+  },
+  {
+    "code": 147,
+    "en_name": "PHYSIOLOGICAL DATA",
+    "ja_name": "生理データ"
+  },
+  {
+    "code": 150,
+    "en_name": "BEHAVIOR PROCESSES AND PERSONALITY",
+    "ja_name": "行動プロセスと人格"
+  },
+  {
+    "code": 151,
+    "en_name": "SENSATION AND PERCEPTION",
+    "ja_name": "感覚と知覚"
+  },
+  {
+    "code": 152,
+    "en_name": "DRIVES AND EMOTIONS",
+    "ja_name": "本能と感情"
+  },
+  {
+    "code": 153,
+    "en_name": "MODIFICATION OF BEHAVIOR",
+    "ja_name": "行動の修正"
+  },
+  {
+    "code": 154,
+    "en_name": "ADJUSTMENT PROCESSES",
+    "ja_name": "適合過程"
+  },
+  {
+    "code": 155,
+    "en_name": "PERSONALITY DEVELOPMENT",
+    "ja_name": "人格形成"
+  },
+  {
+    "code": 156,
+    "en_name": "SOCIAL PERSONALITY",
+    "ja_name": "社会的人格"
+  },
+  {
+    "code": 157,
+    "en_name": "PERSONALITY TRAITS",
+    "ja_name": "性格特性"
+  },
+  {
+    "code": 158,
+    "en_name": "PERSONALITY DISORDERS",
+    "ja_name": "人格障碍"
+  },
+  {
+    "code": 159,
+    "en_name": "LIFE HISTORY MATERIALS",
+    "ja_name": "生活史資料"
+  },
+  {
+    "code": 160,
+    "en_name": "DEMOGRAPHY",
+    "ja_name": "人口統計学"
+  },
+  {
+    "code": 161,
+    "en_name": "POPULATION",
+    "ja_name": "人口"
+  },
+  {
+    "code": 162,
+    "en_name": "COMPOSITION OF POPULATION",
+    "ja_name": "人口構造"
+  },
+  {
+    "code": 163,
+    "en_name": "BIRTH STATISTICS",
+    "ja_name": "出生統計"
+  },
+  {
+    "code": 164,
+    "en_name": "MORBIDITY",
+    "ja_name": "罹患率"
+  },
+  {
+    "code": 165,
+    "en_name": "MORTALITY",
+    "ja_name": "死亡"
+  },
+  {
+    "code": 166,
+    "en_name": "INTERNAL MIGRATION",
+    "ja_name": "内方移動"
+  },
+  {
+    "code": 167,
+    "en_name": "EXTERNAL MIGRATION",
+    "ja_name": "外方移動"
+  },
+  {
+    "code": 168,
+    "en_name": "POPULATION POLICY",
+    "ja_name": "人口政策"
+  },
+  {
+    "code": 170,
+    "en_name": "HISTORY AND CULTURE CHANGE",
+    "ja_name": "歴史と文化の変化"
+  },
+  {
+    "code": 171,
+    "en_name": "COMPARATIVE EVIDENCE",
+    "ja_name": "比較資料"
+  },
+  {
+    "code": 172,
+    "en_name": "PREHISTORY",
+    "ja_name": "先史"
+  },
+  {
+    "code": 173,
+    "en_name": "TRADITIONAL HISTORY",
+    "ja_name": "伝統的な歴史"
+  },
+  {
+    "code": 174,
+    "en_name": "HISTORICAL RECONSTRUCTION",
+    "ja_name": "歴史の再構成"
+  },
+  {
+    "code": 175,
+    "en_name": "HISTORY",
+    "ja_name": "歴史"
+  },
+  {
+    "code": 176,
+    "en_name": "INNOVATION",
+    "ja_name": "革新"
+  },
+  {
+    "code": 177,
+    "en_name": "ACCULTURATION AND CULTURE CONTACT",
+    "ja_name": "文化間の接点"
+  },
+  {
+    "code": 178,
+    "en_name": "SOCIOCULTURAL TRENDS",
+    "ja_name": "社会の傾向"
+  },
+  {
+    "code": 179,
+    "en_name": "ECONOMIC PLANNING AND DEVELOPMENT",
+    "ja_name": "経済計画と経済発展"
+  },
+  {
+    "code": 180,
+    "en_name": "TOTAL CULTURE",
+    "ja_name": "総文化"
+  },
+  {
+    "code": 181,
+    "en_name": "ETHOS",
+    "ja_name": "気風・思潮"
+  },
+  {
+    "code": 182,
+    "en_name": "FUNCTIONAL/ADAPTATIONAL INTERPRETATIONS",
+    "ja_name": "機能性による解釈/適合性による解釈"
+  },
+  {
+    "code": 183,
+    "en_name": "NORMS",
+    "ja_name": "規範"
+  },
+  {
+    "code": 184,
+    "en_name": "CULTURAL PARTICIPATION",
+    "ja_name": null
+  },
+  {
+    "code": 185,
+    "en_name": "CULTURAL GOALS",
+    "ja_name": "文化的な目標"
+  },
+  {
+    "code": 186,
+    "en_name": "CULTURAL IDENTITY AND PRIDE",
+    "ja_name": "文化的アイデンティティとプライド"
+  },
+  {
+    "code": 190,
+    "en_name": "LANGUAGE",
+    "ja_name": "言語"
+  },
+  {
+    "code": 191,
+    "en_name": "SPEECH",
+    "ja_name": "発言"
+  },
+  {
+    "code": 192,
+    "en_name": "VOCABULARY",
+    "ja_name": "語彙"
+  },
+  {
+    "code": 193,
+    "en_name": "GRAMMAR",
+    "ja_name": "文法"
+  },
+  {
+    "code": 194,
+    "en_name": "PHONOLOGY",
+    "ja_name": "音韻論"
+  },
+  {
+    "code": 195,
+    "en_name": "SOCIOLINGUISTICS",
+    "ja_name": "社会言語学"
+  },
+  {
+    "code": 196,
+    "en_name": "SEMANTICS",
+    "ja_name": "意味"
+  },
+  {
+    "code": 197,
+    "en_name": "LINGUISTIC IDENTIFICATION",
+    "ja_name": "言語一致"
+  },
+  {
+    "code": 198,
+    "en_name": "SPECIAL LANGUAGES",
+    "ja_name": "特別な言語"
+  },
+  {
+    "code": 200,
+    "en_name": "COMMUNICATION",
+    "ja_name": "情報伝達"
+  },
+  {
+    "code": 201,
+    "en_name": "GESTURES AND SIGNS",
+    "ja_name": "ジェスチャーとサイン"
+  },
+  {
+    "code": 202,
+    "en_name": "TRANSMISSION OF MESSAGES",
+    "ja_name": "メッセージの送信"
+  },
+  {
+    "code": 203,
+    "en_name": "DISSEMINATION OF NEWS AND INFORMATION",
+    "ja_name": "ニュースと情報の宣伝"
+  },
+  {
+    "code": 204,
+    "en_name": "PRESS",
+    "ja_name": "出版"
+  },
+  {
+    "code": 205,
+    "en_name": "MAIL",
+    "ja_name": "メール"
+  },
+  {
+    "code": 206,
+    "en_name": "TELEPHONE AND TELEGRAPH",
+    "ja_name": "電話と電信機"
+  },
+  {
+    "code": 207,
+    "en_name": "RADIO AND TELEVISION",
+    "ja_name": "ラジオとテレビ"
+  },
+  {
+    "code": 208,
+    "en_name": "PUBLIC OPINION",
+    "ja_name": "世論"
+  },
+  {
+    "code": 209,
+    "en_name": "PROXEMICS",
+    "ja_name": "近接学"
+  },
+  {
+    "code": 210,
+    "en_name": "RECORDS",
+    "ja_name": "レコード"
+  },
+  {
+    "code": 211,
+    "en_name": "MNEMONIC DEVICES",
+    "ja_name": "記録媒体"
+  },
+  {
+    "code": 212,
+    "en_name": "WRITING",
+    "ja_name": "執筆"
+  },
+  {
+    "code": 213,
+    "en_name": "PRINTING",
+    "ja_name": "\t印刷"
+  },
+  {
+    "code": 214,
+    "en_name": "PUBLISHING",
+    "ja_name": "出版"
+  },
+  {
+    "code": 215,
+    "en_name": "PHOTOGRAPHY",
+    "ja_name": "写真"
+  },
+  {
+    "code": 216,
+    "en_name": "AUDIOVISUAL RECORDS AND EQUIPMENT",
+    "ja_name": "視聴覚記録および装置"
+  },
+  {
+    "code": 217,
+    "en_name": "ARCHIVES",
+    "ja_name": "記事"
+  },
+  {
+    "code": 218,
+    "en_name": "WRITING AND PRINTING SUPPLIES",
+    "ja_name": "執筆および印刷用具"
+  },
+  {
+    "code": 220,
+    "en_name": "FOOD QUEST",
+    "ja_name": "フードクエスト"
+  },
+  {
+    "code": 221,
+    "en_name": "ANNUAL CYCLE",
+    "ja_name": "年周期"
+  },
+  {
+    "code": 222,
+    "en_name": "COLLECTING",
+    "ja_name": "収集"
+  },
+  {
+    "code": 223,
+    "en_name": "FOWLING",
+    "ja_name": "家禽"
+  },
+  {
+    "code": 224,
+    "en_name": "HUNTING AND TRAPPING",
+    "ja_name": "狩猟と罠"
+  },
+  {
+    "code": 225,
+    "en_name": "MARINE HUNTING",
+    "ja_name": "マリンハンティング"
+  },
+  {
+    "code": 226,
+    "en_name": "FISHING",
+    "ja_name": "漁"
+  },
+  {
+    "code": 227,
+    "en_name": "FISHING GEAR",
+    "ja_name": "漁具"
+  },
+  {
+    "code": 228,
+    "en_name": "MARINE INDUSTRIES",
+    "ja_name": "海産業"
+  },
+  {
+    "code": 230,
+    "en_name": "ANIMAL HUSBANDRY",
+    "ja_name": "畜産"
+  },
+  {
+    "code": 231,
+    "en_name": "DOMESTICATED ANIMALS",
+    "ja_name": "家畜動物"
+  },
+  {
+    "code": 232,
+    "en_name": "APPLIED ANIMAL SCIENCE",
+    "ja_name": "応用動物科学"
+  },
+  {
+    "code": 233,
+    "en_name": "PASTORAL ACTIVITIES",
+    "ja_name": "牧畜活動"
+  },
+  {
+    "code": 234,
+    "en_name": "DAIRYING",
+    "ja_name": "酪農"
+  },
+  {
+    "code": 235,
+    "en_name": "POULTRY RAISING",
+    "ja_name": "家禽の飼育"
+  },
+  {
+    "code": 236,
+    "en_name": "WOOL PRODUCTION",
+    "ja_name": "羊毛生産"
+  },
+  {
+    "code": 237,
+    "en_name": "ANIMAL BY-PRODUCTS",
+    "ja_name": "動物副産物"
+  },
+  {
+    "code": 240,
+    "en_name": "AGRICULTURE",
+    "ja_name": "農業"
+  },
+  {
+    "code": 241,
+    "en_name": "TILLAGE",
+    "ja_name": "耕作"
+  },
+  {
+    "code": 242,
+    "en_name": "AGRICULTURAL SCIENCE",
+    "ja_name": "農業科学"
+  },
+  {
+    "code": 243,
+    "en_name": "CEREAL AGRICULTURE",
+    "ja_name": "穀物農業"
+  },
+  {
+    "code": 244,
+    "en_name": "VEGETABLE PRODUCTION",
+    "ja_name": "野菜生産"
+  },
+  {
+    "code": 245,
+    "en_name": "ARBORICULTURE",
+    "ja_name": "樹芸"
+  },
+  {
+    "code": 246,
+    "en_name": "FORAGE CROPS",
+    "ja_name": "飼料作物"
+  },
+  {
+    "code": 247,
+    "en_name": "FLORICULTURE",
+    "ja_name": "花卉(かき)園芸"
+  },
+  {
+    "code": 248,
+    "en_name": "TEXTILE AGRICULTURE",
+    "ja_name": "繊維産業"
+  },
+  {
+    "code": 249,
+    "en_name": "SPECIAL CROPS",
+    "ja_name": "特定農作物"
+  },
+  {
+    "code": 250,
+    "en_name": "FOOD PROCESSING",
+    "ja_name": "食品加工"
+  },
+  {
+    "code": 251,
+    "en_name": "PRESERVATION AND STORAGE OF FOOD",
+    "ja_name": "食品保存と備蓄"
+  },
+  {
+    "code": 252,
+    "en_name": "FOOD PREPARATION",
+    "ja_name": "食事の用意"
+  },
+  {
+    "code": 253,
+    "en_name": "MEAT PACKING INDUSTRY",
+    "ja_name": "食肉加工業"
+  },
+  {
+    "code": 254,
+    "en_name": "REFRIGERATION INDUSTRY",
+    "ja_name": "冷凍産業"
+  },
+  {
+    "code": 255,
+    "en_name": "CANNING INDUSTRY",
+    "ja_name": "缶詰工業"
+  },
+  {
+    "code": 256,
+    "en_name": "CEREAL INDUSTRY",
+    "ja_name": "穀物産業"
+  },
+  {
+    "code": 257,
+    "en_name": "CONFECTIONERY INDUSTRIES",
+    "ja_name": "菓子産業"
+  },
+  {
+    "code": 258,
+    "en_name": "OTHER FOOD PROCESSING INDUSTRIES",
+    "ja_name": "その他の食品加工産業"
+  },
+  {
+    "code": 260,
+    "en_name": "FOOD CONSUMPTION",
+    "ja_name": "食品消費"
+  },
+  {
+    "code": 261,
+    "en_name": "GRATIFICATION AND CONTROL OF HUNGER",
+    "ja_name": "満服感と空腹のコントロール"
+  },
+  {
+    "code": 262,
+    "en_name": "DIET",
+    "ja_name": "ダイエット"
+  },
+  {
+    "code": 263,
+    "en_name": "CONDIMENTS",
+    "ja_name": "調味料"
+  },
+  {
+    "code": 264,
+    "en_name": "EATING",
+    "ja_name": "食事"
+  },
+  {
+    "code": 265,
+    "en_name": "FOOD SERVICE INDUSTRIES",
+    "ja_name": "飲食業"
+  },
+  {
+    "code": 266,
+    "en_name": "CANNIBALISM",
+    "ja_name": "人肉を食べる風習"
+  },
+  {
+    "code": 270,
+    "en_name": "DRINK AND DRUGS",
+    "ja_name": "飲酒と麻薬摂取"
+  },
+  {
+    "code": 271,
+    "en_name": "WATER AND THIRST",
+    "ja_name": "水と渇き"
+  },
+  {
+    "code": 272,
+    "en_name": "NONALCOHOLIC BEVERAGES",
+    "ja_name": "ノンアルコール飲料"
+  },
+  {
+    "code": 273,
+    "en_name": "ALCOHOLIC BEVERAGES",
+    "ja_name": "アルコール飲料"
+  },
+  {
+    "code": 274,
+    "en_name": "BEVERAGE INDUSTRIES",
+    "ja_name": "飲料産業"
+  },
+  {
+    "code": 275,
+    "en_name": "DRINKING ESTABLISHMENTS",
+    "ja_name": "酒場"
+  },
+  {
+    "code": 276,
+    "en_name": "RECREATIONAL AND NON-THERAPEUTIC DRUGS",
+    "ja_name": "レクリエーションおよび非治療薬"
+  },
+  {
+    "code": 277,
+    "en_name": "TOBACCO INDUSTRY",
+    "ja_name": "タバコ産業"
+  },
+  {
+    "code": 278,
+    "en_name": "PHARMACEUTICALS",
+    "ja_name": "医薬品"
+  },
+  {
+    "code": 280,
+    "en_name": "LEATHER  TEXTILES  AND FABRICS",
+    "ja_name": "レザーテキスタイルとファブリック"
+  },
+  {
+    "code": 281,
+    "en_name": "WORK IN SKINS",
+    "ja_name": null
+  },
+  {
+    "code": 282,
+    "en_name": "LEATHER INDUSTRY",
+    "ja_name": "皮革産業"
+  },
+  {
+    "code": 283,
+    "en_name": "CORDAGE",
+    "ja_name": "(船の)索具"
+  },
+  {
+    "code": 284,
+    "en_name": "KNOTS AND LASHINGS",
+    "ja_name": null
+  },
+  {
+    "code": 285,
+    "en_name": "MATS AND BASKETRY",
+    "ja_name": "マットとバスケット"
+  },
+  {
+    "code": 286,
+    "en_name": "WOVEN AND OTHER INTERWORKED FABRICS",
+    "ja_name": "織布およびその他の織物"
+  },
+  {
+    "code": 287,
+    "en_name": "FELTED AND OTHER NON-INTERWORKED FABRICS",
+    "ja_name": "他の非織り交ぜられた布地"
+  },
+  {
+    "code": 288,
+    "en_name": "TEXTILE INDUSTRIES",
+    "ja_name": "織物産業"
+  },
+  {
+    "code": 289,
+    "en_name": "PAPER INDUSTRY",
+    "ja_name": "製紙産業"
+  },
+  {
+    "code": 290,
+    "en_name": "CLOTHING",
+    "ja_name": "衣類"
+  },
+  {
+    "code": 291,
+    "en_name": "NORMAL GARB",
+    "ja_name": "通常の毛皮"
+  },
+  {
+    "code": 292,
+    "en_name": "SPECIAL GARMENTS",
+    "ja_name": "特別な服装"
+  },
+  {
+    "code": 293,
+    "en_name": "PARAPHERNALIA",
+    "ja_name": "装備がらくた"
+  },
+  {
+    "code": 294,
+    "en_name": "CLOTHING MANUFACTURE",
+    "ja_name": "衣料品の製造"
+  },
+  {
+    "code": 295,
+    "en_name": "SPECIAL CLOTHING INDUSTRIES",
+    "ja_name": "特別な衣料品産業"
+  },
+  {
+    "code": 296,
+    "en_name": "GARMENT CARE",
+    "ja_name": null
+  },
+  {
+    "code": 300,
+    "en_name": "ADORNMENT",
+    "ja_name": "装飾品"
+  },
+  {
+    "code": 301,
+    "en_name": "ORNAMENT",
+    "ja_name": "装飾"
+  },
+  {
+    "code": 302,
+    "en_name": "PERSONAL GROOMING",
+    "ja_name": "身繕い"
+  },
+  {
+    "code": 303,
+    "en_name": "MAKING OF GROOMING ACCESSORIES",
+    "ja_name": "グルーミングアクセサリーの製作"
+  },
+  {
+    "code": 304,
+    "en_name": "BODY ALTERATIONS",
+    "ja_name": null
+  },
+  {
+    "code": 305,
+    "en_name": "BEAUTY SPECIALISTS",
+    "ja_name": null
+  },
+  {
+    "code": 306,
+    "en_name": "JEWELRY MANUFACTURE",
+    "ja_name": "ジュエリー産業"
+  },
+  {
+    "code": 310,
+    "en_name": "EXPLOITATIVE ACTIVITIES",
+    "ja_name": "探索的活動"
+  },
+  {
+    "code": 311,
+    "en_name": "LAND USE",
+    "ja_name": "土地利用"
+  },
+  {
+    "code": 312,
+    "en_name": "WATER SUPPLY",
+    "ja_name": "水道(設置)"
+  },
+  {
+    "code": 313,
+    "en_name": "LUMBERING",
+    "ja_name": "伐採"
+  },
+  {
+    "code": 314,
+    "en_name": "FOREST PRODUCTS",
+    "ja_name": "林産物"
+  },
+  {
+    "code": 315,
+    "en_name": "OIL AND GAS WELLS",
+    "ja_name": "油とガスの供給"
+  },
+  {
+    "code": 316,
+    "en_name": "MINING AND QUARRYING",
+    "ja_name": "鉱業および採石業"
+  },
+  {
+    "code": 317,
+    "en_name": "SPECIAL DEPOSITS",
+    "ja_name": "特別寄託"
+  },
+  {
+    "code": 318,
+    "en_name": "ENVIRONMENTAL QUALITY",
+    "ja_name": "環境質"
+  },
+  {
+    "code": 320,
+    "en_name": "PROCESSING OF BASIC MATERIALS",
+    "ja_name": "基礎材料の処理"
+  },
+  {
+    "code": 321,
+    "en_name": "BONE  HORN  AND SHELL TECHNOLOGY",
+    "ja_name": "骨の角と殻の加工技術"
+  },
+  {
+    "code": 322,
+    "en_name": "WOODWORKING",
+    "ja_name": "木工"
+  },
+  {
+    "code": 323,
+    "en_name": "CERAMIC TECHNOLOGY",
+    "ja_name": "セラミック産業"
+  },
+  {
+    "code": 324,
+    "en_name": "LITHIC INDUSTRIES",
+    "ja_name": "石工"
+  },
+  {
+    "code": 325,
+    "en_name": "METALLURGY",
+    "ja_name": "冶金"
+  },
+  {
+    "code": 326,
+    "en_name": "SMITHS AND THEIR CRAFTS",
+    "ja_name": null
+  },
+  {
+    "code": 327,
+    "en_name": "IRON AND STEEL INDUSTRY",
+    "ja_name": "鉄鋼業"
+  },
+  {
+    "code": 328,
+    "en_name": "NONFERROUS METAL INDUSTRIES",
+    "ja_name": "非鉄金属工業"
+  },
+  {
+    "code": 330,
+    "en_name": "BUILDING AND CONSTRUCTION",
+    "ja_name": "建物と建設"
+  },
+  {
+    "code": 331,
+    "en_name": "CONSTRUCTION",
+    "ja_name": "建設業、建築業"
+  },
+  {
+    "code": 332,
+    "en_name": "EARTH MOVING",
+    "ja_name": "土運搬"
+  },
+  {
+    "code": 333,
+    "en_name": "MASONRY",
+    "ja_name": "石工職"
+  },
+  {
+    "code": 334,
+    "en_name": "STRUCTURAL STEEL WORK",
+    "ja_name": "鉄骨構造物"
+  },
+  {
+    "code": 335,
+    "en_name": "CARPENTRY",
+    "ja_name": "大工職"
+  },
+  {
+    "code": 336,
+    "en_name": "PLUMBING",
+    "ja_name": "配管(工事)"
+  },
+  {
+    "code": 337,
+    "en_name": "ELECTRICAL INSTALLATION",
+    "ja_name": "電気設備"
+  },
+  {
+    "code": 338,
+    "en_name": "MISCELLANEOUS BUILDING TRADES",
+    "ja_name": "その他の建造物取引"
+  },
+  {
+    "code": 339,
+    "en_name": "BUILDING SUPPLIES INDUSTRIES",
+    "ja_name": "ビルディングサプライ産業"
+  },
+  {
+    "code": 340,
+    "en_name": "STRUCTURES",
+    "ja_name": "構造"
+  },
+  {
+    "code": 341,
+    "en_name": "ARCHITECTURE",
+    "ja_name": "建築"
+  },
+  {
+    "code": 342,
+    "en_name": "DWELLINGS",
+    "ja_name": "住まい"
+  },
+  {
+    "code": 343,
+    "en_name": "OUTBUILDINGS",
+    "ja_name": "外出"
+  },
+  {
+    "code": 344,
+    "en_name": "PUBLIC STRUCTURES",
+    "ja_name": "公共の構造"
+  },
+  {
+    "code": 345,
+    "en_name": "RECREATIONAL STRUCTURES",
+    "ja_name": "レクリエーション構造"
+  },
+  {
+    "code": 346,
+    "en_name": "RELIGIOUS AND EDUCATIONAL STRUCTURES",
+    "ja_name": "宗教的で教育的な構造"
+  },
+  {
+    "code": 347,
+    "en_name": "BUSINESS STRUCTURES",
+    "ja_name": "ビジネス構造"
+  },
+  {
+    "code": 348,
+    "en_name": "INDUSTRIAL STRUCTURES",
+    "ja_name": "産業構造"
+  },
+  {
+    "code": 349,
+    "en_name": "MISCELLANEOUS STRUCTURES",
+    "ja_name": "その他の構造"
+  },
+  {
+    "code": 350,
+    "en_name": "EQUIPMENT AND MAINTENANCE OF BUILDINGS",
+    "ja_name": "建物の設備とメンテナンス"
+  },
+  {
+    "code": 351,
+    "en_name": "GROUNDS",
+    "ja_name": "グラウンド"
+  },
+  {
+    "code": 352,
+    "en_name": "FURNITURE",
+    "ja_name": "家具"
+  },
+  {
+    "code": 353,
+    "en_name": "BUILDING INTERIORS AND ARRANGEMENT",
+    "ja_name": "建物のインテリアと配置"
+  },
+  {
+    "code": 354,
+    "en_name": "HEATING AND LIGHTING EQUIPMENT",
+    "ja_name": "加熱および照明機器"
+  },
+  {
+    "code": 355,
+    "en_name": "MISCELLANEOUS BUILDING EQUIPMENT",
+    "ja_name": "その他の建築用機器"
+  },
+  {
+    "code": 356,
+    "en_name": "HOUSEKEEPING",
+    "ja_name": "ハウスキーピング"
+  },
+  {
+    "code": 357,
+    "en_name": "DOMESTIC SERVICE",
+    "ja_name": "国内サービス"
+  },
+  {
+    "code": 358,
+    "en_name": "MAINTENANCE OF NON-DOMESTIC BUILDINGS",
+    "ja_name": "非国内建物のメンテナンス"
+  },
+  {
+    "code": 360,
+    "en_name": "SETTLEMENTS",
+    "ja_name": "決済"
+  },
+  {
+    "code": 361,
+    "en_name": "SETTLEMENT PATTERNS",
+    "ja_name": "決済パターン"
+  },
+  {
+    "code": 362,
+    "en_name": "HOUSING",
+    "ja_name": "ハウジング"
+  },
+  {
+    "code": 363,
+    "en_name": "STREETS AND TRAFFIC",
+    "ja_name": "通りと交通"
+  },
+  {
+    "code": 364,
+    "en_name": "REFUSE DISPOSAL AND SANITARY FACILITIES",
+    "ja_name": "ごみ処理施設および衛生施設"
+  },
+  {
+    "code": 365,
+    "en_name": "PUBLIC UTILITIES",
+    "ja_name": "公益ユーティリティ"
+  },
+  {
+    "code": 366,
+    "en_name": "COMMERCIAL FACILITIES",
+    "ja_name": "商業施設"
+  },
+  {
+    "code": 367,
+    "en_name": "PARKS",
+    "ja_name": "公園"
+  },
+  {
+    "code": 368,
+    "en_name": "MISCELLANEOUS FACILITIES",
+    "ja_name": "その他の施設"
+  },
+  {
+    "code": 369,
+    "en_name": "URBAN AND RURAL LIFE",
+    "ja_name": "都市と農村の生活"
+  },
+  {
+    "code": 370,
+    "en_name": "ENERGY AND POWER",
+    "ja_name": "エネルギーと電力"
+  },
+  {
+    "code": 371,
+    "en_name": "POWER DEVELOPMENT",
+    "ja_name": null
+  },
+  {
+    "code": 372,
+    "en_name": "FIRE",
+    "ja_name": "火災"
+  },
+  {
+    "code": 373,
+    "en_name": "LIGHT",
+    "ja_name": "光"
+  },
+  {
+    "code": 374,
+    "en_name": "HEAT",
+    "ja_name": "熱"
+  },
+  {
+    "code": 375,
+    "en_name": "THERMAL POWER",
+    "ja_name": "熱出力"
+  },
+  {
+    "code": 376,
+    "en_name": "WATER POWER",
+    "ja_name": "水力"
+  },
+  {
+    "code": 377,
+    "en_name": "ELECTRIC POWER",
+    "ja_name": "電力"
+  },
+  {
+    "code": 378,
+    "en_name": "ATOMIC ENERGY",
+    "ja_name": "原子力"
+  },
+  {
+    "code": 379,
+    "en_name": "MISCELLANEOUS POWER PRODUCTION",
+    "ja_name": "その他の電力生産"
+  },
+  {
+    "code": 380,
+    "en_name": "CHEMICAL INDUSTRIES",
+    "ja_name": "化学工業"
+  },
+  {
+    "code": 381,
+    "en_name": "CHEMICAL ENGINEERING",
+    "ja_name": "化学エンジニアリング"
+  },
+  {
+    "code": 382,
+    "en_name": "PETROLEUM AND COAL PRODUCTS INDUSTRIES",
+    "ja_name": "石油および石炭製品工業"
+  },
+  {
+    "code": 383,
+    "en_name": "RUBBER INDUSTRY",
+    "ja_name": "ゴム工業"
+  },
+  {
+    "code": 384,
+    "en_name": "SYNTHETICS INDUSTRY",
+    "ja_name": "合成産業"
+  },
+  {
+    "code": 385,
+    "en_name": "INDUSTRIAL CHEMICALS",
+    "ja_name": "工業用化学薬品"
+  },
+  {
+    "code": 386,
+    "en_name": "PAINT AND DYE MANUFACTURE",
+    "ja_name": "塗料および染料の製造"
+  },
+  {
+    "code": 387,
+    "en_name": "FERTILIZER INDUSTRY",
+    "ja_name": "肥料産業"
+  },
+  {
+    "code": 388,
+    "en_name": "SOAP AND ALLIED PRODUCTS",
+    "ja_name": "SOAPとその関連製品"
+  },
+  {
+    "code": 389,
+    "en_name": "MANUFACTURE OF EXPLOSIVES",
+    "ja_name": "爆発物の製造"
+  },
+  {
+    "code": 390,
+    "en_name": "CAPITAL GOODS INDUSTRIES",
+    "ja_name": "資本財産業"
+  },
+  {
+    "code": 391,
+    "en_name": "HARDWARE MANUFACTURE",
+    "ja_name": "ハードウェア製造"
+  },
+  {
+    "code": 392,
+    "en_name": "MACHINE INDUSTRIES",
+    "ja_name": "工作機械"
+  },
+  {
+    "code": 393,
+    "en_name": "ELECTRICAL SUPPLIES INDUSTRY",
+    "ja_name": "電気用品産業"
+  },
+  {
+    "code": 394,
+    "en_name": "MAKING OF HEATING",
+    "ja_name": "暖房の製造"
+  },
+  {
+    "code": 395,
+    "en_name": "MAKING OF OPTICAL AND PHOTO EQUIPMENT",
+    "ja_name": "光学機器および写真機器の製作"
+  },
+  {
+    "code": 396,
+    "en_name": "SHIPBUILDING",
+    "ja_name": "造船"
+  },
+  {
+    "code": 397,
+    "en_name": "RAILWAY EQUIPMENT INDUSTRY",
+    "ja_name": "鉄道機器産業"
+  },
+  {
+    "code": 398,
+    "en_name": "MANUFACTURE OF VEHICLES",
+    "ja_name": "車両の製造"
+  },
+  {
+    "code": 399,
+    "en_name": "AIRCRAFT INDUSTRY",
+    "ja_name": "航空機産業"
+  },
+  {
+    "code": 400,
+    "en_name": "MACHINES",
+    "ja_name": "機械"
+  },
+  {
+    "code": 401,
+    "en_name": "MECHANICS",
+    "ja_name": "力学"
+  },
+  {
+    "code": 402,
+    "en_name": "INDUSTRIAL MACHINERY",
+    "ja_name": "産業機械"
+  },
+  {
+    "code": 403,
+    "en_name": "ELECTRICAL MACHINES AND APPLIANCES",
+    "ja_name": "電気機械とその応用"
+  },
+  {
+    "code": 404,
+    "en_name": "HOUSEHOLD MACHINES AND APPLIANCES",
+    "ja_name": "家庭用機械および器具"
+  },
+  {
+    "code": 405,
+    "en_name": "MEASURING AND RECORDING DEVICES",
+    "ja_name": "測定装置および記録装置"
+  },
+  {
+    "code": 406,
+    "en_name": "WEIGHT-MOVING MACHINERY",
+    "ja_name": "重量移動機械"
+  },
+  {
+    "code": 407,
+    "en_name": "AGRICULTURAL MACHINERY",
+    "ja_name": "農業機械"
+  },
+  {
+    "code": 408,
+    "en_name": "COMPUTER TECHNOLOGY",
+    "ja_name": "コンピューターテクノロジー"
+  },
+  {
+    "code": 410,
+    "en_name": "TOOLS AND APPLIANCES",
+    "ja_name": "ツールとアプリケーション"
+  },
+  {
+    "code": 411,
+    "en_name": "WEAPONS",
+    "ja_name": "武器"
+  },
+  {
+    "code": 412,
+    "en_name": "GENERAL TOOLS",
+    "ja_name": "一般的なツール"
+  },
+  {
+    "code": 413,
+    "en_name": "SPECIAL TOOLS",
+    "ja_name": "特別なツール"
+  },
+  {
+    "code": 414,
+    "en_name": "MISCELLANEOUS HARDWARE",
+    "ja_name": "その他のハードウェア"
+  },
+  {
+    "code": 415,
+    "en_name": "UTENSILS",
+    "ja_name": "家庭用品"
+  },
+  {
+    "code": 416,
+    "en_name": "APPLIANCES",
+    "ja_name": "電気製品"
+  },
+  {
+    "code": 417,
+    "en_name": "APPARATUS",
+    "ja_name": "装置"
+  },
+  {
+    "code": 420,
+    "en_name": "PROPERTY",
+    "ja_name": "性質"
+  },
+  {
+    "code": 421,
+    "en_name": "PROPERTY SYSTEM",
+    "ja_name": "資産システム"
+  },
+  {
+    "code": 422,
+    "en_name": "PROPERTY IN MOVABLES",
+    "ja_name": "携帯電話のプロパティ"
+  },
+  {
+    "code": 423,
+    "en_name": "REAL PROPERTY",
+    "ja_name": "不動産"
+  },
+  {
+    "code": 424,
+    "en_name": "INCORPOREAL PROPERTY",
+    "ja_name": "社内財産"
+  },
+  {
+    "code": 425,
+    "en_name": "CHANGES IN PROPERTY RIGHTS",
+    "ja_name": "財産権の変更"
+  },
+  {
+    "code": 426,
+    "en_name": "BORROWING AND LENDING",
+    "ja_name": "借り入れ"
+  },
+  {
+    "code": 427,
+    "en_name": "RENTING AND LEASING",
+    "ja_name": "レンタルとリース"
+  },
+  {
+    "code": 428,
+    "en_name": "INHERITANCE",
+    "ja_name": "継承"
+  },
+  {
+    "code": 429,
+    "en_name": "ADMINISTRATION",
+    "ja_name": "投与"
+  },
+  {
+    "code": 430,
+    "en_name": "EXCHANGE AND TRANSFERS",
+    "ja_name": "交換と転送"
+  },
+  {
+    "code": 431,
+    "en_name": "GIFT GIVING",
+    "ja_name": "ギフトを与えます"
+  },
+  {
+    "code": 432,
+    "en_name": "BUYING AND SELLING",
+    "ja_name": "売買"
+  },
+  {
+    "code": 433,
+    "en_name": "PRODUCTION AND SUPPLY",
+    "ja_name": "生産と供給"
+  },
+  {
+    "code": 434,
+    "en_name": "INCOME AND DEMAND",
+    "ja_name": "所得と需要"
+  },
+  {
+    "code": 435,
+    "en_name": "PRICE AND VALUE",
+    "ja_name": "価格と価値"
+  },
+  {
+    "code": 436,
+    "en_name": "MEDIUM OF EXCHANGE",
+    "ja_name": "交換手段"
+  },
+  {
+    "code": 437,
+    "en_name": "EXCHANGE TRANSACTIONS",
+    "ja_name": "取引の交換"
+  },
+  {
+    "code": 438,
+    "en_name": "INTERNAL TRADE",
+    "ja_name": "内部貿易"
+  },
+  {
+    "code": 439,
+    "en_name": "EXTERNAL TRADE",
+    "ja_name": "外部貿易"
+  },
+  {
+    "code": 440,
+    "en_name": "MARKETING",
+    "ja_name": "市場"
+  },
+  {
+    "code": 441,
+    "en_name": "MERCANTILE BUSINESS",
+    "ja_name": "商品ビジネス"
+  },
+  {
+    "code": 442,
+    "en_name": "WHOLESALE MARKETING",
+    "ja_name": "卸売りマーケティング"
+  },
+  {
+    "code": 443,
+    "en_name": "RETAIL MARKETING",
+    "ja_name": "小売マーケティング"
+  },
+  {
+    "code": 444,
+    "en_name": "RETAIL BUSINESSES",
+    "ja_name": "小売事業"
+  },
+  {
+    "code": 445,
+    "en_name": "SERVICE INDUSTRIES",
+    "ja_name": "サービス業"
+  },
+  {
+    "code": 446,
+    "en_name": "SALES PROMOTION",
+    "ja_name": "セールスプロモーション"
+  },
+  {
+    "code": 447,
+    "en_name": "ADVERTISING",
+    "ja_name": "広告業"
+  },
+  {
+    "code": 450,
+    "en_name": "FINANCE",
+    "ja_name": "財政学"
+  },
+  {
+    "code": 451,
+    "en_name": "ACCOUNTING",
+    "ja_name": "会計(学)"
+  },
+  {
+    "code": 452,
+    "en_name": "CREDIT",
+    "ja_name": "クレジット"
+  },
+  {
+    "code": 453,
+    "en_name": "BANKING",
+    "ja_name": "銀行業"
+  },
+  {
+    "code": 454,
+    "en_name": "SAVING AND INVESTMENT",
+    "ja_name": "貯蓄と投資"
+  },
+  {
+    "code": 455,
+    "en_name": "SPECULATION",
+    "ja_name": null
+  },
+  {
+    "code": 456,
+    "en_name": "INSURANCE",
+    "ja_name": "保険"
+  },
+  {
+    "code": 457,
+    "en_name": "FOREIGN EXCHANGE",
+    "ja_name": "外貨"
+  },
+  {
+    "code": 458,
+    "en_name": "BUSINESS CYCLES",
+    "ja_name": null
+  },
+  {
+    "code": 460,
+    "en_name": "LABOR",
+    "ja_name": "労働者"
+  },
+  {
+    "code": 461,
+    "en_name": "LABOR AND LEISURE",
+    "ja_name": "労働と損害"
+  },
+  {
+    "code": 462,
+    "en_name": "DIVISION OF LABOR BY GENDER",
+    "ja_name": "性別による労働役割分担"
+  },
+  {
+    "code": 463,
+    "en_name": "OCCUPATIONAL SPECIALIZATION",
+    "ja_name": null
+  },
+  {
+    "code": 464,
+    "en_name": "LABOR SUPPLY AND EMPLOYMENT",
+    "ja_name": "労働供給および雇用"
+  },
+  {
+    "code": 465,
+    "en_name": "WAGES AND SALARIES",
+    "ja_name": "収入と所得"
+  },
+  {
+    "code": 466,
+    "en_name": "LABOR RELATIONS",
+    "ja_name": "労働関係"
+  },
+  {
+    "code": 467,
+    "en_name": "LABOR ORGANIZATION",
+    "ja_name": "労働組織"
+  },
+  {
+    "code": 468,
+    "en_name": "COLLECTIVE BARGAINING",
+    "ja_name": "団体交渉"
+  },
+  {
+    "code": 470,
+    "en_name": "BUSINESS AND INDUSTRIAL ORGANIZATION",
+    "ja_name": "ビジネスと産業組織"
+  },
+  {
+    "code": 471,
+    "en_name": "OWNERSHIP AND CONTROL OF CAPITAL",
+    "ja_name": "首都の所有権と管理"
+  },
+  {
+    "code": 472,
+    "en_name": "INDIVIDUAL ENTERPRISE",
+    "ja_name": "個人企業"
+  },
+  {
+    "code": 473,
+    "en_name": "CORPORATE ORGANIZATION",
+    "ja_name": "コーポレート・オーガニゼーション"
+  },
+  {
+    "code": 474,
+    "en_name": "COOPERATIVE ORGANIZATION",
+    "ja_name": "協力的な組織"
+  },
+  {
+    "code": 475,
+    "en_name": "STATE ENTERPRISE",
+    "ja_name": "国営企業"
+  },
+  {
+    "code": 476,
+    "en_name": "MUTUAL AID",
+    "ja_name": "共済"
+  },
+  {
+    "code": 477,
+    "en_name": "COMPETITION",
+    "ja_name": "コンペ"
+  },
+  {
+    "code": 480,
+    "en_name": "TRAVEL AND TRANSPORTATION",
+    "ja_name": "旅行と輸送"
+  },
+  {
+    "code": 481,
+    "en_name": "LOCOMOTION",
+    "ja_name": "移動"
+  },
+  {
+    "code": 482,
+    "en_name": "BURDEN CARRYING",
+    "ja_name": "バーンキャリング"
+  },
+  {
+    "code": 483,
+    "en_name": "WEIGHT MOVING",
+    "ja_name": "重量移送"
+  },
+  {
+    "code": 484,
+    "en_name": "TRAVEL",
+    "ja_name": "旅行"
+  },
+  {
+    "code": 485,
+    "en_name": "TRAVEL SERVICES",
+    "ja_name": "旅行サービス"
+  },
+  {
+    "code": 486,
+    "en_name": "REGULATION OF TRAVEL",
+    "ja_name": "旅行規制"
+  },
+  {
+    "code": 487,
+    "en_name": "ROUTES",
+    "ja_name": "ルート"
+  },
+  {
+    "code": 488,
+    "en_name": "WAREHOUSING",
+    "ja_name": "倉庫"
+  },
+  {
+    "code": 489,
+    "en_name": "TRANSPORTATION",
+    "ja_name": "交通手段"
+  },
+  {
+    "code": 490,
+    "en_name": "LAND TRANSPORT",
+    "ja_name": "陸上交通"
+  },
+  {
+    "code": 491,
+    "en_name": "HIGHWAYS AND BRIDGES",
+    "ja_name": "高速道路と橋"
+  },
+  {
+    "code": 492,
+    "en_name": "ANIMAL TRANSPORT",
+    "ja_name": "動物輸送"
+  },
+  {
+    "code": 493,
+    "en_name": "VEHICLES",
+    "ja_name": "乗り物"
+  },
+  {
+    "code": 494,
+    "en_name": "HIGHWAY TRANSPORT",
+    "ja_name": "道路輸送"
+  },
+  {
+    "code": 495,
+    "en_name": "AUXILIARY HIGHWAY SERVICES",
+    "ja_name": "補助高速輸送"
+  },
+  {
+    "code": 496,
+    "en_name": "RAILWAYS",
+    "ja_name": "線路"
+  },
+  {
+    "code": 497,
+    "en_name": "RAIL TRANSPORT",
+    "ja_name": "鉄道輸送"
+  },
+  {
+    "code": 498,
+    "en_name": "TERMINAL FACILITIES",
+    "ja_name": "駅施設"
+  },
+  {
+    "code": 499,
+    "en_name": "HIGHWAY AND RAILWAY CONSTRUCTION",
+    "ja_name": "高速道路および鉄道の建設"
+  },
+  {
+    "code": 500,
+    "en_name": "WATER  AIR  AND SPACE TRANSPORT",
+    "ja_name": null
+  },
+  {
+    "code": 501,
+    "en_name": "BOATS",
+    "ja_name": "ボート"
+  },
+  {
+    "code": 502,
+    "en_name": "NAVIGATION",
+    "ja_name": "(船舶・航空機などの)交通"
+  },
+  {
+    "code": 503,
+    "en_name": "WATERWAYS IMPROVEMENTS",
+    "ja_name": "水路の改善"
+  },
+  {
+    "code": 504,
+    "en_name": "PORT FACILITIES",
+    "ja_name": "港施設"
+  },
+  {
+    "code": 505,
+    "en_name": "WATER TRANSPORT",
+    "ja_name": "海上輸送"
+  },
+  {
+    "code": 506,
+    "en_name": "AIRCRAFT",
+    "ja_name": "航空機"
+  },
+  {
+    "code": 507,
+    "en_name": "AVIATION",
+    "ja_name": "航空"
+  },
+  {
+    "code": 508,
+    "en_name": "AIRPORT FACILITIES",
+    "ja_name": "空港施設"
+  },
+  {
+    "code": 509,
+    "en_name": "AIR TRANSPORT",
+    "ja_name": "航空輸送"
+  },
+  {
+    "code": 510,
+    "en_name": "LIVING STANDARDS AND ROUTINES",
+    "ja_name": "生活水準と慣習"
+  },
+  {
+    "code": 511,
+    "en_name": "STANDARD OF LIVING",
+    "ja_name": "生活水準"
+  },
+  {
+    "code": 512,
+    "en_name": "DAILY ROUTINE",
+    "ja_name": "日々の慣習"
+  },
+  {
+    "code": 513,
+    "en_name": "SLEEPING",
+    "ja_name": "睡眠"
+  },
+  {
+    "code": 514,
+    "en_name": "ELIMINATION",
+    "ja_name": "排除"
+  },
+  {
+    "code": 515,
+    "en_name": "PERSONAL HYGIENE",
+    "ja_name": "対人保健"
+  },
+  {
+    "code": 516,
+    "en_name": "POSTURES",
+    "ja_name": "姿勢"
+  },
+  {
+    "code": 517,
+    "en_name": "LEISURE TIME ACTIVITIES",
+    "ja_name": "余暇中の活動"
+  },
+  {
+    "code": 520,
+    "en_name": "RECREATION",
+    "ja_name": "レクリエーション"
+  },
+  {
+    "code": 521,
+    "en_name": "CONVERSATION",
+    "ja_name": "会話"
+  },
+  {
+    "code": 522,
+    "en_name": "HUMOR",
+    "ja_name": "ユーモア"
+  },
+  {
+    "code": 523,
+    "en_name": "HOBBIES",
+    "ja_name": "趣味"
+  },
+  {
+    "code": 524,
+    "en_name": "GAMES",
+    "ja_name": "ゲーム"
+  },
+  {
+    "code": 525,
+    "en_name": "GAMBLING",
+    "ja_name": "ギャンブル"
+  },
+  {
+    "code": 526,
+    "en_name": "ATHLETIC SPORTS",
+    "ja_name": "競技スポーツ"
+  },
+  {
+    "code": 527,
+    "en_name": "REST DAYS AND HOLIDAYS",
+    "ja_name": "余暇と休日"
+  },
+  {
+    "code": 528,
+    "en_name": "VACATIONS",
+    "ja_name": "休暇"
+  },
+  {
+    "code": 529,
+    "en_name": "RECREATIONAL FACILITIES",
+    "ja_name": "レクリエーション施設"
+  },
+  {
+    "code": 530,
+    "en_name": "ART",
+    "ja_name": "芸術"
+  },
+  {
+    "code": 531,
+    "en_name": "DECORATIVE ART",
+    "ja_name": "装飾アート"
+  },
+  {
+    "code": 532,
+    "en_name": "REPRESENTATIVE ART",
+    "ja_name": null
+  },
+  {
+    "code": 533,
+    "en_name": "MUSIC",
+    "ja_name": "音楽"
+  },
+  {
+    "code": 534,
+    "en_name": "MUSICAL INSTRUMENTS",
+    "ja_name": "楽器"
+  },
+  {
+    "code": 535,
+    "en_name": "DANCE",
+    "ja_name": "踊り"
+  },
+  {
+    "code": 536,
+    "en_name": "DRAMA",
+    "ja_name": "戯曲、演劇"
+  },
+  {
+    "code": 537,
+    "en_name": "ORATORY",
+    "ja_name": "修辞"
+  },
+  {
+    "code": 538,
+    "en_name": "LITERATURE",
+    "ja_name": "文学"
+  },
+  {
+    "code": 539,
+    "en_name": "LITERARY TEXTS",
+    "ja_name": "文学テキスト"
+  },
+  {
+    "code": 540,
+    "en_name": "COMMERCIALIZED ENTERTAINMENT",
+    "ja_name": "商業エンターテイメント"
+  },
+  {
+    "code": 541,
+    "en_name": "SPECTACLES",
+    "ja_name": "ショー"
+  },
+  {
+    "code": 542,
+    "en_name": "COMMERCIALIZED SPORTS",
+    "ja_name": "商業スポーツ"
+  },
+  {
+    "code": 543,
+    "en_name": "EXHIBITIONS",
+    "ja_name": "展示会"
+  },
+  {
+    "code": 544,
+    "en_name": "PUBLIC LECTURES",
+    "ja_name": "市民講座"
+  },
+  {
+    "code": 545,
+    "en_name": "MUSICAL AND THEATRICAL PRODUCTIONS",
+    "ja_name": "ミュージカルと映画製作"
+  },
+  {
+    "code": 546,
+    "en_name": "MOTION PICTURE INDUSTRY",
+    "ja_name": "映画産業"
+  },
+  {
+    "code": 547,
+    "en_name": "NIGHT CLUBS AND CABARETS",
+    "ja_name": "ナイトクラブ・キャバレー"
+  },
+  {
+    "code": 548,
+    "en_name": "ILLEGAL ENTERTAINMENT",
+    "ja_name": "非合法エンターテイメント"
+  },
+  {
+    "code": 549,
+    "en_name": "ART AND RECREATIONAL SUPPLIES INDUSTRIES",
+    "ja_name": "アート＆レクリエーション用品業界"
+  },
+  {
+    "code": 550,
+    "en_name": "NAMING  PRESTIGE AND STATUS MOBILITY",
+    "ja_name": "命名法とステータスモビリティ"
+  },
+  {
+    "code": 551,
+    "en_name": "PERSONAL NAMES",
+    "ja_name": "個人名"
+  },
+  {
+    "code": 552,
+    "en_name": "NAMES OF ANIMALS AND THINGS",
+    "ja_name": "動物と物の故障"
+  },
+  {
+    "code": 553,
+    "en_name": "NAMING",
+    "ja_name": "ネーミング"
+  },
+  {
+    "code": 554,
+    "en_name": "STATUS  ROLE  AND PRESTIGE",
+    "ja_name": "社会的地位と名声"
+  },
+  {
+    "code": 555,
+    "en_name": "TALENT MOBILITY",
+    "ja_name": null
+  },
+  {
+    "code": 556,
+    "en_name": "ACCUMULATION OF WEALTH",
+    "ja_name": "蓄財"
+  },
+  {
+    "code": 557,
+    "en_name": "MANIPULATIVE MOBILITY",
+    "ja_name": "操作性"
+  },
+  {
+    "code": 558,
+    "en_name": "DOWNWARD MOBILITY",
+    "ja_name": "下方移動性"
+  },
+  {
+    "code": 560,
+    "en_name": "SOCIAL STRATIFICATION",
+    "ja_name": "社会階層化"
+  },
+  {
+    "code": 561,
+    "en_name": "AGE STRATIFICATION",
+    "ja_name": "年齢階層化"
+  },
+  {
+    "code": 562,
+    "en_name": "GENDER STATUS",
+    "ja_name": "性別"
+  },
+  {
+    "code": 563,
+    "en_name": "ETHNIC STRATIFICATION",
+    "ja_name": "民族階層化"
+  },
+  {
+    "code": 564,
+    "en_name": "CASTES",
+    "ja_name": "排他的階級"
+  },
+  {
+    "code": 565,
+    "en_name": "CLASSES",
+    "ja_name": "階級"
+  },
+  {
+    "code": 566,
+    "en_name": "SERFDOM AND PEONAGE",
+    "ja_name": "農奴制と労働債務者"
+  },
+  {
+    "code": 567,
+    "en_name": "SLAVERY",
+    "ja_name": "奴隷"
+  },
+  {
+    "code": 570,
+    "en_name": "INTERPERSONAL RELATIONS",
+    "ja_name": "対人関係"
+  },
+  {
+    "code": 571,
+    "en_name": "SOCIAL RELATIONSHIPS AND GROUPS",
+    "ja_name": "社交と集団"
+  },
+  {
+    "code": 572,
+    "en_name": "FRIENDSHIPS",
+    "ja_name": "友情"
+  },
+  {
+    "code": 573,
+    "en_name": "CLIQUES",
+    "ja_name": "派閥"
+  },
+  {
+    "code": 574,
+    "en_name": "VISITING AND HOSPITALITY",
+    "ja_name": "見舞いと看病"
+  },
+  {
+    "code": 575,
+    "en_name": "SODALITIES",
+    "ja_name": "組合"
+  },
+  {
+    "code": 576,
+    "en_name": "ETIQUETTE",
+    "ja_name": "礼儀作法"
+  },
+  {
+    "code": 577,
+    "en_name": "ETHICS",
+    "ja_name": "倫理"
+  },
+  {
+    "code": 578,
+    "en_name": "INGROUP ANTAGONISMS",
+    "ja_name": "集団の拮抗作用"
+  },
+  {
+    "code": 579,
+    "en_name": "BRAWLS  RIOTS  AND BANDITRY",
+    "ja_name": "口論、暴動および山賊行為"
+  },
+  {
+    "code": 580,
+    "en_name": "MARRIAGE",
+    "ja_name": "結婚"
+  },
+  {
+    "code": 581,
+    "en_name": "BASIS OF MARRIAGE",
+    "ja_name": "結婚の基礎"
+  },
+  {
+    "code": 582,
+    "en_name": "REGULATION OF MARRIAGE",
+    "ja_name": "婚姻の制限"
+  },
+  {
+    "code": 583,
+    "en_name": "MODE OF MARRIAGE",
+    "ja_name": "結婚の様式"
+  },
+  {
+    "code": 584,
+    "en_name": "ARRANGING A MARRIAGE",
+    "ja_name": "結婚の準備"
+  },
+  {
+    "code": 585,
+    "en_name": "NUPTIALS",
+    "ja_name": "結婚式"
+  },
+  {
+    "code": 586,
+    "en_name": "TERMINATION OF MARRIAGE",
+    "ja_name": "結婚の満了、離婚？"
+  },
+  {
+    "code": 587,
+    "en_name": "SECONDARY MARRIAGES",
+    "ja_name": "２回目の結婚"
+  },
+  {
+    "code": 588,
+    "en_name": "SPECIAL UNIONS AND MARRIAGES",
+    "ja_name": null
+  },
+  {
+    "code": 589,
+    "en_name": "CELIBACY",
+    "ja_name": "独身生活"
+  },
+  {
+    "code": 590,
+    "en_name": "FAMILY",
+    "ja_name": "家族"
+  },
+  {
+    "code": 591,
+    "en_name": "RESIDENCE",
+    "ja_name": "住宅"
+  },
+  {
+    "code": 592,
+    "en_name": "HOUSEHOLD",
+    "ja_name": "家族"
+  },
+  {
+    "code": 593,
+    "en_name": "FAMILY RELATIONSHIPS",
+    "ja_name": "家族関係"
+  },
+  {
+    "code": 594,
+    "en_name": "NUCLEAR FAMILY",
+    "ja_name": "核家族"
+  },
+  {
+    "code": 595,
+    "en_name": "POLYGAMY",
+    "ja_name": "重婚"
+  },
+  {
+    "code": 596,
+    "en_name": "EXTENDED FAMILIES",
+    "ja_name": "大家族"
+  },
+  {
+    "code": 597,
+    "en_name": "ADOPTION",
+    "ja_name": "堕胎"
+  },
+  {
+    "code": 600,
+    "en_name": "KINSHIP",
+    "ja_name": "血縁関係"
+  },
+  {
+    "code": 601,
+    "en_name": "KINSHIP TERMINOLOGY",
+    "ja_name": "血縁用語"
+  },
+  {
+    "code": 602,
+    "en_name": "KIN RELATIONSHIPS",
+    "ja_name": "血縁関係"
+  },
+  {
+    "code": 603,
+    "en_name": "GRANDPARENTS AND GRANDCHILDREN",
+    "ja_name": "祖父母と孫"
+  },
+  {
+    "code": 604,
+    "en_name": "AVUNCULAR AND NEPOTIC RELATIVES",
+    "ja_name": "おじと"
+  },
+  {
+    "code": 605,
+    "en_name": "COUSINS",
+    "ja_name": "いとこ"
+  },
+  {
+    "code": 606,
+    "en_name": "PARENTS-IN-LAW AND CHILDREN-IN-LAW",
+    "ja_name": "法的な親子関係"
+  },
+  {
+    "code": 607,
+    "en_name": "SIBLINGS-IN-LAW",
+    "ja_name": "法的な兄弟姉妹"
+  },
+  {
+    "code": 608,
+    "en_name": "ARTIFICIAL KIN RELATIONSHIPS",
+    "ja_name": "人為的な血縁関係"
+  },
+  {
+    "code": 609,
+    "en_name": "BEHAVIOR TOWARD NON-RELATIVES",
+    "ja_name": "無関心への行動"
+  },
+  {
+    "code": 610,
+    "en_name": "KIN GROUPS",
+    "ja_name": "血縁集団"
+  },
+  {
+    "code": 611,
+    "en_name": "RULE OF DESCENT",
+    "ja_name": null
+  },
+  {
+    "code": 612,
+    "en_name": "KINDREDS AND RAMAGES",
+    "ja_name": "家系とラメージ"
+  },
+  {
+    "code": 613,
+    "en_name": "LINEAGES",
+    "ja_name": "血統"
+  },
+  {
+    "code": 614,
+    "en_name": "CLANS",
+    "ja_name": "氏族"
+  },
+  {
+    "code": 615,
+    "en_name": "PHRATRIES",
+    "ja_name": "薬局"
+  },
+  {
+    "code": 616,
+    "en_name": "MOIETIES",
+    "ja_name": "半分"
+  },
+  {
+    "code": 617,
+    "en_name": "BILINEAL KIN GROUPS",
+    "ja_name": null
+  },
+  {
+    "code": 618,
+    "en_name": "LOCALIZED KIN GROUPS",
+    "ja_name": "地域別の血縁グループ"
+  },
+  {
+    "code": 619,
+    "en_name": "TRIBE AND NATION",
+    "ja_name": "民族と国家"
+  },
+  {
+    "code": 620,
+    "en_name": "COMMUNITY",
+    "ja_name": "コミュニティ"
+  },
+  {
+    "code": 621,
+    "en_name": "COMMUNITY STRUCTURE",
+    "ja_name": "コミュニティ構造"
+  },
+  {
+    "code": 622,
+    "en_name": "COMMUNITY HEADS",
+    "ja_name": "コミュニティヘッド"
+  },
+  {
+    "code": 623,
+    "en_name": "COMMUNITY COUNCILS",
+    "ja_name": "コミュニティ協議会"
+  },
+  {
+    "code": 624,
+    "en_name": "LOCAL OFFICIALS",
+    "ja_name": "ローカルオフィシャル"
+  },
+  {
+    "code": 625,
+    "en_name": "POLICE",
+    "ja_name": "警察"
+  },
+  {
+    "code": 626,
+    "en_name": "SOCIAL CONTROL",
+    "ja_name": "社会的な統制"
+  },
+  {
+    "code": 627,
+    "en_name": "INFORMAL IN-GROUP JUSTICE",
+    "ja_name": "非公式審判グループ"
+  },
+  {
+    "code": 628,
+    "en_name": "INTER-COMMUNITY RELATIONS",
+    "ja_name": "コミュニティ間の関係"
+  },
+  {
+    "code": 629,
+    "en_name": "INTER-ETHNIC RELATIONS",
+    "ja_name": "民族間の関係"
+  },
+  {
+    "code": 630,
+    "en_name": "TERRITORIAL ORGANIZATION",
+    "ja_name": "領土組織"
+  },
+  {
+    "code": 631,
+    "en_name": "TERRITORIAL HIERARCHY",
+    "ja_name": "領域階層"
+  },
+  {
+    "code": 632,
+    "en_name": "TOWNS",
+    "ja_name": "町"
+  },
+  {
+    "code": 633,
+    "en_name": "CITIES",
+    "ja_name": "都市群"
+  },
+  {
+    "code": 634,
+    "en_name": "DISTRICTS",
+    "ja_name": "地区"
+  },
+  {
+    "code": 635,
+    "en_name": "PROVINCES",
+    "ja_name": "地域"
+  },
+  {
+    "code": 636,
+    "en_name": "DEPENDENCIES",
+    "ja_name": "依存性"
+  },
+  {
+    "code": 640,
+    "en_name": "GOVERNMENT INSTITUTIONS",
+    "ja_name": "政府機関"
+  },
+  {
+    "code": 641,
+    "en_name": "CITIZENSHIP",
+    "ja_name": "市民権"
+  },
+  {
+    "code": 642,
+    "en_name": "FORM AND RULES OF GOVERNMENT",
+    "ja_name": "政府の形成とルール"
+  },
+  {
+    "code": 643,
+    "en_name": "CHIEF EXECUTIVE",
+    "ja_name": "最高経営責任者"
+  },
+  {
+    "code": 644,
+    "en_name": "EXECUTIVE HOUSEHOLD",
+    "ja_name": "執行部局"
+  },
+  {
+    "code": 645,
+    "en_name": "ADVISERS TO THE CHIEF EXECUTIVE",
+    "ja_name": "政府顧問"
+  },
+  {
+    "code": 646,
+    "en_name": "DELIBERATIVE COUNCILS",
+    "ja_name": "審議協議会"
+  },
+  {
+    "code": 647,
+    "en_name": "ADMINISTRATIVE AGENCIES",
+    "ja_name": "管理機関"
+  },
+  {
+    "code": 648,
+    "en_name": "EXTERNAL RELATIONS",
+    "ja_name": "外交"
+  },
+  {
+    "code": 650,
+    "en_name": "GOVERNMENT ACTIVITIES",
+    "ja_name": "政府活動"
+  },
+  {
+    "code": 651,
+    "en_name": "TAXATION AND PUBLIC INCOME",
+    "ja_name": "税収と公共収入"
+  },
+  {
+    "code": 652,
+    "en_name": "PUBLIC FINANCE",
+    "ja_name": "公共財政"
+  },
+  {
+    "code": 653,
+    "en_name": "PUBLIC WORKS",
+    "ja_name": "公共事業"
+  },
+  {
+    "code": 654,
+    "en_name": "RESEARCH AND DEVELOPMENT",
+    "ja_name": "研究開発"
+  },
+  {
+    "code": 655,
+    "en_name": "GOVERNMENT ENTERPRISES",
+    "ja_name": "政府機関"
+  },
+  {
+    "code": 656,
+    "en_name": "GOVERNMENT REGULATION",
+    "ja_name": "政府規制"
+  },
+  {
+    "code": 657,
+    "en_name": "PUBLIC WELFARE",
+    "ja_name": "厚生"
+  },
+  {
+    "code": 658,
+    "en_name": "PUBLIC EDUCATION",
+    "ja_name": "公教育"
+  },
+  {
+    "code": 659,
+    "en_name": "MISCELLANEOUS GOVERNMENT ACTIVITIES",
+    "ja_name": "その他の政府の活動"
+  },
+  {
+    "code": 660,
+    "en_name": "POLITICAL BEHAVIOR",
+    "ja_name": "政治行動"
+  },
+  {
+    "code": 661,
+    "en_name": "EXPLOITATION",
+    "ja_name": "搾取"
+  },
+  {
+    "code": 662,
+    "en_name": "POLITICAL INTRIGUE",
+    "ja_name": "政治見解"
+  },
+  {
+    "code": 663,
+    "en_name": "PUBLIC SERVICE",
+    "ja_name": "公共サービス"
+  },
+  {
+    "code": 664,
+    "en_name": "PRESSURE POLITICS",
+    "ja_name": "プレッシャーポリティックス"
+  },
+  {
+    "code": 665,
+    "en_name": "POLITICAL PARTIES",
+    "ja_name": "政党"
+  },
+  {
+    "code": 666,
+    "en_name": "ELECTIONS",
+    "ja_name": "選挙"
+  },
+  {
+    "code": 667,
+    "en_name": "POLITICAL MACHINES",
+    "ja_name": "ポリティカルマシン"
+  },
+  {
+    "code": 668,
+    "en_name": "POLITICAL MOVEMENTS",
+    "ja_name": "政治運動"
+  },
+  {
+    "code": 669,
+    "en_name": "REVOLUTION",
+    "ja_name": "革命"
+  },
+  {
+    "code": 670,
+    "en_name": "LAW",
+    "ja_name": "法律"
+  },
+  {
+    "code": 671,
+    "en_name": "LEGAL NORMS",
+    "ja_name": "法規範"
+  },
+  {
+    "code": 672,
+    "en_name": "LIABILITY",
+    "ja_name": "自由"
+  },
+  {
+    "code": 673,
+    "en_name": "WRONGS",
+    "ja_name": "不正"
+  },
+  {
+    "code": 674,
+    "en_name": "CRIME",
+    "ja_name": "犯罪"
+  },
+  {
+    "code": 675,
+    "en_name": "CONTRACTS",
+    "ja_name": "契約"
+  },
+  {
+    "code": 676,
+    "en_name": "AGENCY",
+    "ja_name": "緊急"
+  },
+  {
+    "code": 677,
+    "en_name": "ORGANIZED CRIME",
+    "ja_name": "組織的犯罪"
+  },
+  {
+    "code": 680,
+    "en_name": "OFFENSES AND SANCTIONS",
+    "ja_name": "違反と制裁"
+  },
+  {
+    "code": 681,
+    "en_name": "SANCTIONS",
+    "ja_name": "処罰"
+  },
+  {
+    "code": 682,
+    "en_name": "OFFENSES AGAINST LIFE",
+    "ja_name": "個人生活に対する侵害"
+  },
+  {
+    "code": 683,
+    "en_name": "OFFENSES AGAINST THE PERSON",
+    "ja_name": "個人に対する権利の侵害"
+  },
+  {
+    "code": 684,
+    "en_name": "SEX AND MARITAL OFFENSES",
+    "ja_name": "性や夫婦間での権利侵害"
+  },
+  {
+    "code": 685,
+    "en_name": "PROPERTY OFFENSES",
+    "ja_name": "財産に対する侵害"
+  },
+  {
+    "code": 686,
+    "en_name": "NONFULFILLMENT OF OBLIGATIONS",
+    "ja_name": "義務の不履行"
+  },
+  {
+    "code": 687,
+    "en_name": "OFFENSES AGAINST THE STATE",
+    "ja_name": "州に対する違反"
+  },
+  {
+    "code": 688,
+    "en_name": "RELIGIOUS OFFENSES",
+    "ja_name": "宗教的な犯罪"
+  },
+  {
+    "code": 689,
+    "en_name": "SOCIAL OFFENSES",
+    "ja_name": "社会的犯罪"
+  },
+  {
+    "code": 690,
+    "en_name": "JUSTICE",
+    "ja_name": "正義"
+  },
+  {
+    "code": 691,
+    "en_name": "LITIGATION",
+    "ja_name": "訴訟"
+  },
+  {
+    "code": 692,
+    "en_name": "JUDICIAL AUTHORITY",
+    "ja_name": "司法機関"
+  },
+  {
+    "code": 693,
+    "en_name": "LEGAL AND JUDICIAL PERSONNEL",
+    "ja_name": "法的および司法の担当者"
+  },
+  {
+    "code": 694,
+    "en_name": "INITIATION OF JUDICIAL PROCEEDINGS",
+    "ja_name": "司法手続きの開始"
+  },
+  {
+    "code": 695,
+    "en_name": "TRIAL PROCEDURE",
+    "ja_name": null
+  },
+  {
+    "code": 696,
+    "en_name": "EXECUTION OF JUSTICE",
+    "ja_name": "司法の執行"
+  },
+  {
+    "code": 697,
+    "en_name": "PRISONS AND JAILS",
+    "ja_name": "刑務所と刑務所"
+  },
+  {
+    "code": 698,
+    "en_name": "SPECIAL COURTS",
+    "ja_name": null
+  },
+  {
+    "code": 700,
+    "en_name": "ARMED FORCES",
+    "ja_name": "武装勢力"
+  },
+  {
+    "code": 701,
+    "en_name": "MILITARY ORGANIZATION",
+    "ja_name": "陸軍組織"
+  },
+  {
+    "code": 702,
+    "en_name": "RECRUITMENT AND TRAINING",
+    "ja_name": "リクルートと職業訓練"
+  },
+  {
+    "code": 703,
+    "en_name": "DISCIPLINE AND MORALE",
+    "ja_name": "学問とモラル"
+  },
+  {
+    "code": 704,
+    "en_name": "GROUND COMBAT FORCES",
+    "ja_name": "地上戦闘力"
+  },
+  {
+    "code": 705,
+    "en_name": "SUPPLY AND COMMISSARIAT",
+    "ja_name": "供給と委員会"
+  },
+  {
+    "code": 706,
+    "en_name": "NAVY",
+    "ja_name": "海軍"
+  },
+  {
+    "code": 707,
+    "en_name": "AIR FORCES",
+    "ja_name": "空軍"
+  },
+  {
+    "code": 708,
+    "en_name": "AUXILIARY CORPS",
+    "ja_name": "予備の穀物"
+  },
+  {
+    "code": 710,
+    "en_name": "MILITARY TECHNOLOGY",
+    "ja_name": "軍事技術"
+  },
+  {
+    "code": 711,
+    "en_name": "MILITARY ENGINEERING",
+    "ja_name": "軍事工学"
+  },
+  {
+    "code": 712,
+    "en_name": "MILITARY INSTALLATIONS",
+    "ja_name": "軍事設備"
+  },
+  {
+    "code": 713,
+    "en_name": "ORDNANCE",
+    "ja_name": "兵器"
+  },
+  {
+    "code": 714,
+    "en_name": "UNIFORM AND ACCOUTERMENT",
+    "ja_name": "軍服および従装具"
+  },
+  {
+    "code": 715,
+    "en_name": "MILITARY VEHICLES",
+    "ja_name": "軍用車"
+  },
+  {
+    "code": 716,
+    "en_name": "NAVAL VESSELS",
+    "ja_name": "艦艇"
+  },
+  {
+    "code": 717,
+    "en_name": "MILITARY AIRCRAFT",
+    "ja_name": "軍用航空機"
+  },
+  {
+    "code": 718,
+    "en_name": "SPECIAL MILITARY EQUIPMENT",
+    "ja_name": "特別な軍事聞き"
+  },
+  {
+    "code": 719,
+    "en_name": "MUNITIONS INDUSTRIES",
+    "ja_name": "弾薬産業"
+  },
+  {
+    "code": 720,
+    "en_name": "WAR",
+    "ja_name": "戦争"
+  },
+  {
+    "code": 721,
+    "en_name": "INSTIGATION OF WAR",
+    "ja_name": "軍事教唆"
+  },
+  {
+    "code": 722,
+    "en_name": "WARTIME ADJUSTMENTS",
+    "ja_name": "戦時調整"
+  },
+  {
+    "code": 723,
+    "en_name": "STRATEGY",
+    "ja_name": "戦略"
+  },
+  {
+    "code": 724,
+    "en_name": "LOGISTICS",
+    "ja_name": "兵站(へいたん)学"
+  },
+  {
+    "code": 725,
+    "en_name": "TACTICS",
+    "ja_name": "戦術"
+  },
+  {
+    "code": 726,
+    "en_name": "WARFARE",
+    "ja_name": "交戦状態"
+  },
+  {
+    "code": 727,
+    "en_name": "AFTERMATH OF COMBAT",
+    "ja_name": "戦闘余波"
+  },
+  {
+    "code": 728,
+    "en_name": "PEACEMAKING",
+    "ja_name": "調停"
+  },
+  {
+    "code": 729,
+    "en_name": "WAR VETERANS",
+    "ja_name": "老兵"
+  },
+  {
+    "code": 730,
+    "en_name": "SOCIAL PROBLEMS",
+    "ja_name": "社会問題"
+  },
+  {
+    "code": 731,
+    "en_name": "DISASTERS",
+    "ja_name": "大惨事"
+  },
+  {
+    "code": 732,
+    "en_name": "DISABILITIES",
+    "ja_name": "無能"
+  },
+  {
+    "code": 733,
+    "en_name": "ALCOHOLISM AND DRUG ADDICTION",
+    "ja_name": "アルコール依存および薬物依存"
+  },
+  {
+    "code": 734,
+    "en_name": "INVALIDISM",
+    "ja_name": "病弱"
+  },
+  {
+    "code": 735,
+    "en_name": "POVERTY",
+    "ja_name": "貧困"
+  },
+  {
+    "code": 736,
+    "en_name": "DEPENDENCY",
+    "ja_name": "依存"
+  },
+  {
+    "code": 737,
+    "en_name": "OLD AGE DEPENDENCY",
+    "ja_name": "高齢者扶養"
+  },
+  {
+    "code": 738,
+    "en_name": "DELINQUENCY",
+    "ja_name": "過失"
+  },
+  {
+    "code": 740,
+    "en_name": "HEALTH AND WELFARE",
+    "ja_name": "保健福祉"
+  },
+  {
+    "code": 741,
+    "en_name": "PHILANTHROPIC FOUNDATIONS",
+    "ja_name": "慈善基金"
+  },
+  {
+    "code": 742,
+    "en_name": "MEDICAL RESEARCH",
+    "ja_name": "医学研究"
+  },
+  {
+    "code": 743,
+    "en_name": "HOSPITALS AND CLINICS",
+    "ja_name": "病院と個人病院"
+  },
+  {
+    "code": 744,
+    "en_name": "PUBLIC HEALTH AND SANITATION",
+    "ja_name": "公的病院と医療ステーション"
+  },
+  {
+    "code": 745,
+    "en_name": "SOCIAL INSURANCE",
+    "ja_name": "社会保障"
+  },
+  {
+    "code": 746,
+    "en_name": "PUBLIC ASSISTANCE",
+    "ja_name": "公的扶助"
+  },
+  {
+    "code": 747,
+    "en_name": "PRIVATE WELFARE AGENCIES",
+    "ja_name": "個人福祉代理"
+  },
+  {
+    "code": 748,
+    "en_name": "SOCIAL WORK",
+    "ja_name": "社会福祉事業"
+  },
+  {
+    "code": 750,
+    "en_name": "SICKNESS",
+    "ja_name": "病気"
+  },
+  {
+    "code": 751,
+    "en_name": "PREVENTIVE MEDICINE",
+    "ja_name": "個人の服用薬"
+  },
+  {
+    "code": 752,
+    "en_name": "BODILY INJURIES",
+    "ja_name": "外傷"
+  },
+  {
+    "code": 753,
+    "en_name": "THEORY OF DISEASE",
+    "ja_name": "病気の理論"
+  },
+  {
+    "code": 754,
+    "en_name": "SORCERY",
+    "ja_name": "そり"
+  },
+  {
+    "code": 755,
+    "en_name": "MAGICAL AND MENTAL THERAPY",
+    "ja_name": "精神的および精神的な治療"
+  },
+  {
+    "code": 756,
+    "en_name": "SHAMANS AND PSYCHOTHERAPISTS",
+    "ja_name": "シャーマンと心理療法"
+  },
+  {
+    "code": 757,
+    "en_name": "MEDICAL THERAPY",
+    "ja_name": "医学療法"
+  },
+  {
+    "code": 758,
+    "en_name": "MEDICAL CARE",
+    "ja_name": "医療"
+  },
+  {
+    "code": 759,
+    "en_name": "MEDICAL PERSONNEL",
+    "ja_name": "医療従事者"
+  },
+  {
+    "code": 760,
+    "en_name": "DEATH",
+    "ja_name": "死"
+  },
+  {
+    "code": 761,
+    "en_name": "LIFE AND DEATH",
+    "ja_name": "生死"
+  },
+  {
+    "code": 762,
+    "en_name": "SUICIDE",
+    "ja_name": "自殺"
+  },
+  {
+    "code": 763,
+    "en_name": "DYING",
+    "ja_name": "死んでいる"
+  },
+  {
+    "code": 764,
+    "en_name": "BURIAL PRACTICES AND FUNERALS",
+    "ja_name": "埋葬実習および葬儀"
+  },
+  {
+    "code": 765,
+    "en_name": "MOURNING",
+    "ja_name": "喪服"
+  },
+  {
+    "code": 766,
+    "en_name": "SPECIAL BURIAL PRACTICES AND FUNERALS",
+    "ja_name": "特別な埋葬の実践と葬儀"
+  },
+  {
+    "code": 767,
+    "en_name": "MORTUARY SPECIALISTS",
+    "ja_name": "埋葬業者"
+  },
+  {
+    "code": 768,
+    "en_name": "SOCIAL READJUSTMENTS TO DEATH",
+    "ja_name": "社会的制裁としての死"
+  },
+  {
+    "code": 769,
+    "en_name": "CULT OF THE DEAD",
+    "ja_name": "資料礼拝者"
+  },
+  {
+    "code": 770,
+    "en_name": "RELIGIOUS BELIEFS",
+    "ja_name": "宗教的信条"
+  },
+  {
+    "code": 771,
+    "en_name": "GENERAL CHARACTER OF RELIGION",
+    "ja_name": "宗教の一般的特徴"
+  },
+  {
+    "code": 772,
+    "en_name": "COSMOLOGY",
+    "ja_name": "宇宙論"
+  },
+  {
+    "code": 773,
+    "en_name": "MYTHOLOGY",
+    "ja_name": "神秘学"
+  },
+  {
+    "code": 774,
+    "en_name": "ANIMISM",
+    "ja_name": "精霊信仰"
+  },
+  {
+    "code": 775,
+    "en_name": "ESCHATOLOGY",
+    "ja_name": "終末論"
+  },
+  {
+    "code": 776,
+    "en_name": "SPIRITS AND GODS",
+    "ja_name": "精霊と神々"
+  },
+  {
+    "code": 777,
+    "en_name": "LUCK AND CHANCE",
+    "ja_name": "幸運と機会"
+  },
+  {
+    "code": 778,
+    "en_name": "SACRED OBJECTS AND PLACES",
+    "ja_name": "神器と神聖な場所"
+  },
+  {
+    "code": 779,
+    "en_name": "THEOLOGICAL SYSTEMS",
+    "ja_name": "神学システム"
+  },
+  {
+    "code": 780,
+    "en_name": "RELIGIOUS PRACTICES",
+    "ja_name": "宗教的な慣行"
+  },
+  {
+    "code": 781,
+    "en_name": "RELIGIOUS EXPERIENCE",
+    "ja_name": "宗教的な経験"
+  },
+  {
+    "code": 782,
+    "en_name": "PRAYERS AND SACRIFICES",
+    "ja_name": "祈りと捧げ物"
+  },
+  {
+    "code": 783,
+    "en_name": "PURIFICATION AND ATONEMENT",
+    "ja_name": "浄化と償い"
+  },
+  {
+    "code": 784,
+    "en_name": "AVOIDANCE AND TABOO",
+    "ja_name": "禁忌とタブー"
+  },
+  {
+    "code": 785,
+    "en_name": "ASCETICISM",
+    "ja_name": "禁欲主義"
+  },
+  {
+    "code": 786,
+    "en_name": "ECSTATIC RELIGIOUS PRACTICES",
+    "ja_name": "楽観的な宗教的実践"
+  },
+  {
+    "code": 787,
+    "en_name": "REVELATION AND DIVINATION",
+    "ja_name": "啓示と占い"
+  },
+  {
+    "code": 788,
+    "en_name": "RITUAL",
+    "ja_name": "儀式"
+  },
+  {
+    "code": 789,
+    "en_name": "MAGIC",
+    "ja_name": "魔法"
+  },
+  {
+    "code": 790,
+    "en_name": "ECCLESIASTICAL ORGANIZATION",
+    "ja_name": "教会組織"
+  },
+  {
+    "code": 791,
+    "en_name": "MAGICIANS AND DIVINERS",
+    "ja_name": "魔導師と占い師"
+  },
+  {
+    "code": 792,
+    "en_name": "PROPHETS AND ASCETICS",
+    "ja_name": "預言者と行者"
+  },
+  {
+    "code": 793,
+    "en_name": "PRIESTHOOD",
+    "ja_name": "聖職"
+  },
+  {
+    "code": 794,
+    "en_name": "CONGREGATIONS",
+    "ja_name": "会合"
+  },
+  {
+    "code": 795,
+    "en_name": "RELIGIOUS DENOMINATIONS",
+    "ja_name": "宗派"
+  },
+  {
+    "code": 796,
+    "en_name": "ORGANIZED CEREMONIAL",
+    "ja_name": "組織化された儀式"
+  },
+  {
+    "code": 797,
+    "en_name": "MISSIONS",
+    "ja_name": "使命"
+  },
+  {
+    "code": 798,
+    "en_name": "RELIGIOUS INTOLERANCE AND MARTYRS",
+    "ja_name": "宗教的不寛容と殉教者"
+  },
+  {
+    "code": 800,
+    "en_name": "NUMBERS AND MEASURES",
+    "ja_name": "数と尺度"
+  },
+  {
+    "code": 801,
+    "en_name": "NUMEROLOGY",
+    "ja_name": "数理"
+  },
+  {
+    "code": 802,
+    "en_name": "NUMERATION",
+    "ja_name": "数"
+  },
+  {
+    "code": 803,
+    "en_name": "MATHEMATICS",
+    "ja_name": "数学"
+  },
+  {
+    "code": 804,
+    "en_name": "WEIGHTS AND MEASURES",
+    "ja_name": "度量衡"
+  },
+  {
+    "code": 805,
+    "en_name": "ORDERING OF TIME",
+    "ja_name": "時系列"
+  },
+  {
+    "code": 810,
+    "en_name": "SCIENCES AND HUMANITIES",
+    "ja_name": "科学と人文学"
+  },
+  {
+    "code": 811,
+    "en_name": "LOGIC",
+    "ja_name": "論理学"
+  },
+  {
+    "code": 812,
+    "en_name": "PHILOSOPHY",
+    "ja_name": "哲学"
+  },
+  {
+    "code": 813,
+    "en_name": "SCIENTIFIC METHOD",
+    "ja_name": "科学的手法"
+  },
+  {
+    "code": 814,
+    "en_name": "HUMANISTIC STUDIES",
+    "ja_name": "人文研究"
+  },
+  {
+    "code": 815,
+    "en_name": "SCIENCE",
+    "ja_name": "科学"
+  },
+  {
+    "code": 816,
+    "en_name": "APPLIED SCIENCE",
+    "ja_name": "応用科学"
+  },
+  {
+    "code": 820,
+    "en_name": "IDEAS ABOUT NATURE AND PEOPLE",
+    "ja_name": "自然と人々についての考え"
+  },
+  {
+    "code": 821,
+    "en_name": "ETHNOMETEOROLOGY",
+    "ja_name": "比較人類学"
+  },
+  {
+    "code": 822,
+    "en_name": "ETHNOPHYSICS",
+    "ja_name": "民族物理学"
+  },
+  {
+    "code": 823,
+    "en_name": "ETHNOGEOGRAPHY",
+    "ja_name": "民族地理学"
+  },
+  {
+    "code": 824,
+    "en_name": "ETHNOBOTANY",
+    "ja_name": "民族植物学"
+  },
+  {
+    "code": 825,
+    "en_name": "ETHNOZOOLOGY",
+    "ja_name": "民族動物学"
+  },
+  {
+    "code": 826,
+    "en_name": "ETHNOANATOMY",
+    "ja_name": "民族解剖学"
+  },
+  {
+    "code": 827,
+    "en_name": "ETHNOPHYSIOLOGY",
+    "ja_name": "民族生理学"
+  },
+  {
+    "code": 828,
+    "en_name": "ETHNOPSYCHOLOGY",
+    "ja_name": "民族心理学"
+  },
+  {
+    "code": 829,
+    "en_name": "ETHNOSOCIOLOGY",
+    "ja_name": "民族社会学"
+  },
+  {
+    "code": 830,
+    "en_name": "SEX",
+    "ja_name": "性別"
+  },
+  {
+    "code": 831,
+    "en_name": "SEXUALITY",
+    "ja_name": "性的欲求"
+  },
+  {
+    "code": 832,
+    "en_name": "SEXUAL STIMULATION",
+    "ja_name": "性的刺激"
+  },
+  {
+    "code": 833,
+    "en_name": "SEXUAL INTERCOURSE",
+    "ja_name": "性交"
+  },
+  {
+    "code": 834,
+    "en_name": "GENERAL SEX RESTRICTIONS",
+    "ja_name": "一般的な性的制限"
+  },
+  {
+    "code": 835,
+    "en_name": "KINSHIP REGULATION OF SEX",
+    "ja_name": "血縁関係における性的な制限"
+  },
+  {
+    "code": 836,
+    "en_name": "PREMARITAL SEX RELATIONS",
+    "ja_name": "婚前性的交渉の制限"
+  },
+  {
+    "code": 837,
+    "en_name": "EXTRAMARITAL SEX RELATIONS",
+    "ja_name": "婚姻関係外の性的交渉"
+  },
+  {
+    "code": 838,
+    "en_name": "HOMOSEXUALITY",
+    "ja_name": "ホモセクシャル"
+  },
+  {
+    "code": 839,
+    "en_name": "MISCELLANEOUS SEX BEHAVIOR",
+    "ja_name": "雑多な性的行為"
+  },
+  {
+    "code": 840,
+    "en_name": "REPRODUCTION",
+    "ja_name": "再生"
+  },
+  {
+    "code": 841,
+    "en_name": "MENSTRUATION",
+    "ja_name": "月経"
+  },
+  {
+    "code": 842,
+    "en_name": "CONCEPTION",
+    "ja_name": "妊娠"
+  },
+  {
+    "code": 843,
+    "en_name": "PREGNANCY",
+    "ja_name": "妊娠"
+  },
+  {
+    "code": 844,
+    "en_name": "CHILDBIRTH",
+    "ja_name": "出産"
+  },
+  {
+    "code": 845,
+    "en_name": "DIFFICULT AND UNUSUAL BIRTHS",
+    "ja_name": "困難と異常な出生"
+  },
+  {
+    "code": 846,
+    "en_name": "POSTNATAL CARE",
+    "ja_name": null
+  },
+  {
+    "code": 847,
+    "en_name": "ABORTION AND INFANTICIDE",
+    "ja_name": "困難と異常な出生"
+  },
+  {
+    "code": 848,
+    "en_name": "ILLEGITIMACY",
+    "ja_name": "非嫡出"
+  },
+  {
+    "code": 850,
+    "en_name": "INFANCY AND CHILDHOOD",
+    "ja_name": "非嫡出と子供"
+  },
+  {
+    "code": 851,
+    "en_name": "SOCIAL PLACEMENT",
+    "ja_name": "社会的な場所"
+  },
+  {
+    "code": 852,
+    "en_name": "CEREMONIAL DURING INFANCY AND CHILDHOOD",
+    "ja_name": "幼児と幼児の間の儀式"
+  },
+  {
+    "code": 853,
+    "en_name": "INFANT FEEDING",
+    "ja_name": "幼児授乳"
+  },
+  {
+    "code": 854,
+    "en_name": "INFANT CARE",
+    "ja_name": "育児"
+  },
+  {
+    "code": 855,
+    "en_name": "CHILD CARE",
+    "ja_name": "保育"
+  },
+  {
+    "code": 856,
+    "en_name": "DEVELOPMENT AND MATURATION",
+    "ja_name": "発達と成熟"
+  },
+  {
+    "code": 857,
+    "en_name": "CHILDHOOD ACTIVITIES",
+    "ja_name": "幼少時代の活動"
+  },
+  {
+    "code": 858,
+    "en_name": "STATUS OF CHILDREN",
+    "ja_name": "子供の状態"
+  },
+  {
+    "code": 860,
+    "en_name": "SOCIALIZATION",
+    "ja_name": "社会適応"
+  },
+  {
+    "code": 861,
+    "en_name": "TECHNIQUES OF SOCIALIZATION",
+    "ja_name": "社会適応の技術"
+  },
+  {
+    "code": 862,
+    "en_name": "WEANING AND FOOD TRAINING",
+    "ja_name": "着用と食事の訓練"
+  },
+  {
+    "code": 863,
+    "en_name": "CLEANLINESS TRAINING",
+    "ja_name": "清掃の訓練"
+  },
+  {
+    "code": 864,
+    "en_name": "SEX TRAINING",
+    "ja_name": "性的行為の訓練"
+  },
+  {
+    "code": 865,
+    "en_name": "AGGRESSION TRAINING",
+    "ja_name": "進学の訓練"
+  },
+  {
+    "code": 866,
+    "en_name": "INDEPENDENCE TRAINING",
+    "ja_name": "独立の訓練"
+  },
+  {
+    "code": 867,
+    "en_name": "TRANSMISSION OF CULTURAL NORMS",
+    "ja_name": "文化の継承"
+  },
+  {
+    "code": 868,
+    "en_name": "TRANSMISSION OF SKILLS",
+    "ja_name": "技術の継承"
+  },
+  {
+    "code": 869,
+    "en_name": "TRANSMISSION OF BELIEFS",
+    "ja_name": "信仰の継承"
+  },
+  {
+    "code": 870,
+    "en_name": "EDUCATION",
+    "ja_name": "教育"
+  },
+  {
+    "code": 871,
+    "en_name": "EDUCATION SYSTEM",
+    "ja_name": "教育システム"
+  },
+  {
+    "code": 872,
+    "en_name": "ELEMENTARY EDUCATION",
+    "ja_name": "初等教育"
+  },
+  {
+    "code": 873,
+    "en_name": "LIBERAL ARTS EDUCATION",
+    "ja_name": "リベラルアーツの教育"
+  },
+  {
+    "code": 874,
+    "en_name": "VOCATIONAL EDUCATION",
+    "ja_name": "職業教育"
+  },
+  {
+    "code": 875,
+    "en_name": "TEACHERS",
+    "ja_name": "教師"
+  },
+  {
+    "code": 876,
+    "en_name": "EDUCATIONAL THEORY AND METHODS",
+    "ja_name": "教育理論と教育手法"
+  },
+  {
+    "code": 877,
+    "en_name": "STUDENTS",
+    "ja_name": "学生"
+  },
+  {
+    "code": 880,
+    "en_name": "ADOLESCENCE  ADULTHOOD  AND OLD AGE",
+    "ja_name": "青年期成人期および老年期"
+  },
+  {
+    "code": 881,
+    "en_name": "PUBERTY AND INITIATION",
+    "ja_name": "思春期と成人"
+  },
+  {
+    "code": 882,
+    "en_name": "STATUS OF ADOLESCENTS",
+    "ja_name": "青少年の状態"
+  },
+  {
+    "code": 883,
+    "en_name": "ADOLESCENT ACTIVITIES",
+    "ja_name": "青少年の活動"
+  },
+  {
+    "code": 884,
+    "en_name": "MAJORITY",
+    "ja_name": "青年期成人期および老年期"
+  },
+  {
+    "code": 885,
+    "en_name": "ADULTHOOD",
+    "ja_name": "成人期"
+  },
+  {
+    "code": 886,
+    "en_name": "SENESCENCE",
+    "ja_name": "感覚"
+  },
+  {
+    "code": 887,
+    "en_name": "ACTIVITIES OF THE AGED",
+    "ja_name": "各年齢での活動"
+  },
+  {
+    "code": 888,
+    "en_name": "STATUS AND TREATMENT OF THE AGED",
+    "ja_name": "各年齢での取り扱いと状態"
+  },
+  {
+    "code": 890,
+    "en_name": "GENDER ROLES AND ISSUES",
+    "ja_name": "性的な役割と諸問題"
+  },
+  {
+    "code": 900,
+    "en_name": "TEXTS",
+    "ja_name": "教科書"
+  },
+  {
+    "code": 901,
+    "en_name": "TEXTS IN THE SPEAKER\\u2019S LANGUAGE",
+    "ja_name": null
+  },
+  {
+    "code": 902,
+    "en_name": "TEXTS TRANSLATED INTO ENGLISH",
+    "ja_name": "英語に翻訳された文書"
+  },
+  {
+    "code": 903,
+    "en_name": "INTERLINEAR TRANSLATIONS",
+    "ja_name": "行間の解釈"
+  },
+  {
+    "code": 910,
+    "en_name": "ARCHAEOLOGICAL ANALYSES",
+    "ja_name": "考古学的分析"
+  },
+  {
+    "code": 911,
+    "en_name": "CHRONOLOGIES AND CULTURE SEQUENCES",
+    "ja_name": "文化年表"
+  },
+  {
+    "code": 912,
+    "en_name": "CULTURAL STRATIGRAPHY",
+    "ja_name": "文化的戦略"
+  },
+  {
+    "code": 913,
+    "en_name": "FUNCTIONAL SPECIALIZATION AREAS",
+    "ja_name": null
+  },
+  {
+    "code": 914,
+    "en_name": "TYPOLOGIES AND CLASSIFICATIONS",
+    "ja_name": "タイプと分類"
+  },
+  {
+    "code": 915,
+    "en_name": "ARCHAEOLOGICAL INVENTORIES\"",
+    "ja_name": null
+  }
+]

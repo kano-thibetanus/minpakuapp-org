@@ -1,0 +1,62 @@
+[
+  {
+    "category_big_id": 0,
+    "category_big_name": "None"
+  },
+  {
+    "category_big_id": 1,
+    "category_big_name": "オセアニア"
+  },
+  {
+    "category_big_id": 2,
+    "category_big_name": "アメリカ"
+  },
+  {
+    "category_big_id": 3,
+    "category_big_name": "ヨーロッパ"
+  },
+  {
+    "category_big_id": 4,
+    "category_big_name": "アフリカ"
+  },
+  {
+    "category_big_id": 5,
+    "category_big_name": "西アジア"
+  },
+  {
+    "category_big_id": 6,
+    "category_big_name": "南アジア"
+  },
+  {
+    "category_big_id": 7,
+    "category_big_name": "東南アジア"
+  },
+  {
+    "category_big_id": 8,
+    "category_big_name": "朝鮮半島の文化"
+  },
+  {
+    "category_big_id": 9,
+    "category_big_name": "中国地域の文化"
+  },
+  {
+    "category_big_id": 10,
+    "category_big_name": "中央・北アジア"
+  },
+  {
+    "category_big_id": 11,
+    "category_big_name": "アイヌの文化"
+  },
+  {
+    "category_big_id": 12,
+    "category_big_name": "日本の文化"
+  },
+  {
+    "category_big_id": 13,
+    "category_big_name": "音楽"
+  },
+  {
+    "category_big_id": 14,
+    "category_big_name": "言語"
+  }
+]

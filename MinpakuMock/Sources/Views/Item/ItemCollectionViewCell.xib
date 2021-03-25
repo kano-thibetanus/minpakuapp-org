@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="ipad11_0rounded" orientation="landscape">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" restorationIdentifier="ItemCollectionViewCell" reuseIdentifier="ItemCollectionViewCell" id="gTV-IL-0wX" customClass="ItemCollectionViewCell" customModule="MinpakuMock" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="197" height="174"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="197" height="174"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="UpY-xY-srZ">
+                        <rect key="frame" x="0.0" y="0.0" width="197" height="174"/>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="psd-et-FWX">
+                        <rect key="frame" x="8" y="87" width="181" height="0.0"/>
+                        <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+            </view>
+            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.84705882352941175" colorSpace="custom" customColorSpace="displayP3"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="psd-et-FWX" secondAttribute="trailing" constant="8" id="6L5-me-FCl"/>
+                <constraint firstAttribute="bottom" secondItem="UpY-xY-srZ" secondAttribute="bottom" id="CnK-iD-SDz"/>
+                <constraint firstItem="UpY-xY-srZ" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="LT4-Kz-WWB"/>
+                <constraint firstAttribute="trailing" secondItem="UpY-xY-srZ" secondAttribute="trailing" id="Yjh-Eo-2GB"/>
+                <constraint firstItem="psd-et-FWX" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="8" id="Zfw-fB-Zmf"/>
+                <constraint firstItem="psd-et-FWX" firstAttribute="centerY" secondItem="gTV-IL-0wX" secondAttribute="centerY" id="gKD-fi-bcK"/>
+                <constraint firstItem="UpY-xY-srZ" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="oZs-70-TUW"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <size key="customSize" width="197" height="174"/>
+            <userDefinedRuntimeAttributes>
+                <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                    <integer key="value" value="5"/>
+                </userDefinedRuntimeAttribute>
+            </userDefinedRuntimeAttributes>
+            <connections>
+                <outlet property="fullImageView" destination="UpY-xY-srZ" id="Z98-8l-62b"/>
+                <outlet property="titleLbl" destination="psd-et-FWX" id="rtf-JG-Mzy"/>
+            </connections>
+            <point key="canvasLocation" x="258.39999999999998" y="121.4392803598201"/>
+        </collectionViewCell>
+    </objects>
+</document>

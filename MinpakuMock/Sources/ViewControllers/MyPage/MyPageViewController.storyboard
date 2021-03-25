@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="SJz-uH-ZuH">
+    <device id="ipad11_0rounded" orientation="landscape">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--My Page View Controller-->
+        <scene sceneID="0j2-uV-val">
+            <objects>
+                <viewController storyboardIdentifier="MyPageViewController" id="SJz-uH-ZuH" customClass="MyPageViewController" customModule="MinpakuMock" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="COi-gN-sAx">
+                        <rect key="frame" x="0.0" y="0.0" width="1194" height="834"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="background" translatesAutoresizingMaskIntoConstraints="NO" id="iLH-0n-MMm">
+                                <rect key="frame" x="0.0" y="24" width="1194" height="790"/>
+                            </imageView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="MLp-va-E2K" customClass="GeneralHeader" customModule="MinpakuMock" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="24" width="1194" height="108"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="108" id="2vx-er-EQ2"/>
+                                </constraints>
+                            </view>
+                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="dIl-Ry-gtY">
+                                <rect key="frame" x="0.0" y="132" width="1194" height="682"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="IDI-Ge-CQb">
+                                    <size key="itemSize" width="50" height="50"/>
+                                    <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                                    <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                                    <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                </collectionViewFlowLayout>
+                                <cells/>
+                            </collectionView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="iLH-0n-MMm" firstAttribute="trailing" secondItem="MRA-SZ-QgD" secondAttribute="trailing" id="EF0-oD-DiA"/>
+                            <constraint firstItem="iLH-0n-MMm" firstAttribute="top" secondItem="MRA-SZ-QgD" secondAttribute="top" id="GSX-ou-Cz1"/>
+                            <constraint firstItem="iLH-0n-MMm" firstAttribute="leading" secondItem="MRA-SZ-QgD" secondAttribute="leading" id="HMW-pN-fDA"/>
+                            <constraint firstItem="dIl-Ry-gtY" firstAttribute="leading" secondItem="MRA-SZ-QgD" secondAttribute="leading" id="f8b-mF-VR4"/>
+                            <constraint firstItem="MLp-va-E2K" firstAttribute="top" secondItem="MRA-SZ-QgD" secondAttribute="top" id="idS-sC-kdY"/>
+                            <constraint firstItem="iLH-0n-MMm" firstAttribute="bottom" secondItem="MRA-SZ-QgD" secondAttribute="bottom" id="l6e-ry-By8"/>
+                            <constraint firstItem="MLp-va-E2K" firstAttribute="leading" secondItem="MRA-SZ-QgD" secondAttribute="leading" id="qdq-wI-OHT"/>
+                            <constraint firstItem="dIl-Ry-gtY" firstAttribute="top" secondItem="MLp-va-E2K" secondAttribute="bottom" id="qzn-xD-SoG"/>
+                            <constraint firstItem="dIl-Ry-gtY" firstAttribute="trailing" secondItem="MRA-SZ-QgD" secondAttribute="trailing" id="sMF-Ce-NyM"/>
+                            <constraint firstItem="MRA-SZ-QgD" firstAttribute="bottom" secondItem="dIl-Ry-gtY" secondAttribute="bottom" id="u8X-zO-VYP"/>
+                            <constraint firstItem="MRA-SZ-QgD" firstAttribute="trailing" secondItem="MLp-va-E2K" secondAttribute="trailing" id="xeq-tz-XUg"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="MRA-SZ-QgD"/>
+                    </view>
+                    <connections>
+                        <outlet property="collectionView" destination="dIl-Ry-gtY" id="UD5-tO-5F7"/>
+                        <outlet property="header" destination="MLp-va-E2K" id="rv0-fS-xj7"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="AsR-gl-bjm" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="214.57286432160805" y="209.35251798561151"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="background" width="2388" height="1580"/>
+    </resources>
+</document>

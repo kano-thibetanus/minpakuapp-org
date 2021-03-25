@@ -1,0 +1,837 @@
+[
+  {
+    "category_small_id": 0,
+    "category_small_name": "None",
+    "category_middle_id": 0
+  },
+  {
+    "category_small_id": 10000,
+    "category_small_name": "オセアニア",
+    "category_middle_id": 100
+  },
+  {
+    "category_small_id": 10100,
+    "category_small_name": "移動と拡散",
+    "category_middle_id": 101
+  },
+  {
+    "category_small_id": 10101,
+    "category_small_name": "空から見たオセアニア",
+    "category_middle_id": 101
+  },
+  {
+    "category_small_id": 10102,
+    "category_small_name": "伝統的航海術",
+    "category_middle_id": 101
+  },
+  {
+    "category_small_id": 10103,
+    "category_small_name": "人の移動と定住",
+    "category_middle_id": 101
+  },
+  {
+    "category_small_id": 10200,
+    "category_small_name": "海での暮らし",
+    "category_middle_id": 102
+  },
+  {
+    "category_small_id": 10201,
+    "category_small_name": "航海用具",
+    "category_middle_id": 102
+  },
+  {
+    "category_small_id": 10202,
+    "category_small_name": "漁具",
+    "category_middle_id": 102
+  },
+  {
+    "category_small_id": 10300,
+    "category_small_name": "島での暮らし",
+    "category_middle_id": 103
+  },
+  {
+    "category_small_id": 10301,
+    "category_small_name": "交易",
+    "category_middle_id": 103
+  },
+  {
+    "category_small_id": 10400,
+    "category_small_name": "外部世界との接触",
+    "category_middle_id": 104
+  },
+  {
+    "category_small_id": 10401,
+    "category_small_name": "教会の衣装",
+    "category_middle_id": 104
+  },
+  {
+    "category_small_id": 10500,
+    "category_small_name": "先住民のアイデンティティ表現",
+    "category_middle_id": 105
+  },
+  {
+    "category_small_id": 10501,
+    "category_small_name": "先住民の文化運動",
+    "category_middle_id": 105
+  },
+  {
+    "category_small_id": 10502,
+    "category_small_name": "アオテアロアの芸術",
+    "category_middle_id": 105
+  },
+  {
+    "category_small_id": 10503,
+    "category_small_name": "オーストラリア・アボリジニ",
+    "category_middle_id": 105
+  },
+  {
+    "category_small_id": 20000,
+    "category_small_name": "アメリカ",
+    "category_middle_id": 200
+  },
+  {
+    "category_small_id": 20100,
+    "category_small_name": "出会う",
+    "category_middle_id": 201
+  },
+  {
+    "category_small_id": 20200,
+    "category_small_name": "食べる",
+    "category_middle_id": 202
+  },
+  {
+    "category_small_id": 20201,
+    "category_small_name": "世界の食生活を変えた農作物",
+    "category_middle_id": 202
+  },
+  {
+    "category_small_id": 20202,
+    "category_small_name": "中南米を変えたサトウキビ",
+    "category_middle_id": 202
+  },
+  {
+    "category_small_id": 20300,
+    "category_small_name": "着る",
+    "category_middle_id": 203
+  },
+  {
+    "category_small_id": 20301,
+    "category_small_name": "多様性",
+    "category_middle_id": 203
+  },
+  {
+    "category_small_id": 20302,
+    "category_small_name": "衣服の歴史的変化",
+    "category_middle_id": 203
+  },
+  {
+    "category_small_id": 20303,
+    "category_small_name": "素材と技術",
+    "category_middle_id": 203
+  },
+  {
+    "category_small_id": 20400,
+    "category_small_name": "祈る",
+    "category_middle_id": 204
+  },
+  {
+    "category_small_id": 20401,
+    "category_small_name": "異界との交流",
+    "category_middle_id": 204
+  },
+  {
+    "category_small_id": 20402,
+    "category_small_name": "キリスト教信仰",
+    "category_middle_id": 204
+  },
+  {
+    "category_small_id": 20403,
+    "category_small_name": "カーニバル",
+    "category_middle_id": 204
+  },
+  {
+    "category_small_id": 20404,
+    "category_small_name": "グローバル時代の諸宗教",
+    "category_middle_id": 204
+  },
+  {
+    "category_small_id": 20500,
+    "category_small_name": "創る",
+    "category_middle_id": 205
+  },
+  {
+    "category_small_id": 20501,
+    "category_small_name": "メキシコの木彫アレブリヘ",
+    "category_middle_id": 205
+  },
+  {
+    "category_small_id": 20502,
+    "category_small_name": "イヌイット版画",
+    "category_middle_id": 205
+  },
+  {
+    "category_small_id": 20503,
+    "category_small_name": "米国南西部先住民の宝飾品",
+    "category_middle_id": 205
+  },
+  {
+    "category_small_id": 20504,
+    "category_small_name": "チュルカナスのやきもの",
+    "category_middle_id": 205
+  },
+  {
+    "category_small_id": 30000,
+    "category_small_name": "ヨーロッパ",
+    "category_middle_id": 300
+  },
+  {
+    "category_small_id": 30100,
+    "category_small_name": "生業と一年",
+    "category_middle_id": 301
+  },
+  {
+    "category_small_id": 30101,
+    "category_small_name": "パン",
+    "category_middle_id": 301
+  },
+  {
+    "category_small_id": 30102,
+    "category_small_name": "秋から冬へ",
+    "category_middle_id": 301
+  },
+  {
+    "category_small_id": 30103,
+    "category_small_name": "冬から春へ",
+    "category_middle_id": 301
+  },
+  {
+    "category_small_id": 30104,
+    "category_small_name": "夏から秋へ",
+    "category_middle_id": 301
+  },
+  {
+    "category_small_id": 30105,
+    "category_small_name": "酪農",
+    "category_middle_id": 301
+  },
+  {
+    "category_small_id": 30200,
+    "category_small_name": "宗教・信仰",
+    "category_middle_id": 302
+  },
+  {
+    "category_small_id": 30201,
+    "category_small_name": "陽気な墓",
+    "category_middle_id": 302
+  },
+  {
+    "category_small_id": 30202,
+    "category_small_name": "村で暮らす",
+    "category_middle_id": 302
+  },
+  {
+    "category_small_id": 30203,
+    "category_small_name": "巡礼にいく",
+    "category_middle_id": 302
+  },
+  {
+    "category_small_id": 30204,
+    "category_small_name": "板イコンとガラスイコン",
+    "category_middle_id": 302
+  },
+  {
+    "category_small_id": 30300,
+    "category_small_name": "産業化とともに",
+    "category_middle_id": 303
+  },
+  {
+    "category_small_id": 30301,
+    "category_small_name": "農村の家内労働―亜麻からリネンまで",
+    "category_middle_id": 303
+  },
+  {
+    "category_small_id": 30302,
+    "category_small_name": "大都市の家内労働―既製服産業",
+    "category_middle_id": 303
+  },
+  {
+    "category_small_id": 30303,
+    "category_small_name": "市民階級家族の生活",
+    "category_middle_id": 303
+  },
+  {
+    "category_small_id": 30400,
+    "category_small_name": "変動するヨーロッパ",
+    "category_middle_id": 304
+  },
+  {
+    "category_small_id": 30401,
+    "category_small_name": "移民増加と統合政策",
+    "category_middle_id": 304
+  },
+  {
+    "category_small_id": 30402,
+    "category_small_name": "移民の暮らしと文化",
+    "category_middle_id": 304
+  },
+  {
+    "category_small_id": 30403,
+    "category_small_name": "拡大するEU",
+    "category_middle_id": 304
+  },
+  {
+    "category_small_id": 40000,
+    "category_small_name": "アフリカ",
+    "category_middle_id": 400
+  },
+  {
+    "category_small_id": 40100,
+    "category_small_name": "歴史を掘り起こす",
+    "category_middle_id": 401
+  },
+  {
+    "category_small_id": 40200,
+    "category_small_name": "都市に集う",
+    "category_middle_id": 402
+  },
+  {
+    "category_small_id": 40300,
+    "category_small_name": "働く",
+    "category_middle_id": 403
+  },
+  {
+    "category_small_id": 40400,
+    "category_small_name": "装う",
+    "category_middle_id": 404
+  },
+  {
+    "category_small_id": 40500,
+    "category_small_name": "祈る",
+    "category_middle_id": 405
+  },
+  {
+    "category_small_id": 40600,
+    "category_small_name": "アフリカの今",
+    "category_middle_id": 406
+  },
+  {
+    "category_small_id": 50000,
+    "category_small_name": "西アジア",
+    "category_middle_id": 500
+  },
+  {
+    "category_small_id": 50100,
+    "category_small_name": "信仰",
+    "category_middle_id": 501
+  },
+  {
+    "category_small_id": 50200,
+    "category_small_name": "砂漠のくらし",
+    "category_middle_id": 502
+  },
+  {
+    "category_small_id": 50300,
+    "category_small_name": "パレスチナ・ディアスポラ",
+    "category_middle_id": 503
+  },
+  {
+    "category_small_id": 50400,
+    "category_small_name": "日本人と中東",
+    "category_middle_id": 504
+  },
+  {
+    "category_small_id": 50500,
+    "category_small_name": "音文化とポップカルチャー",
+    "category_middle_id": 505
+  },
+  {
+    "category_small_id": 60000,
+    "category_small_name": "南アジア",
+    "category_middle_id": 600
+  },
+  {
+    "category_small_id": 60100,
+    "category_small_name": "躍動する南アジア",
+    "category_middle_id": 601
+  },
+  {
+    "category_small_id": 60200,
+    "category_small_name": "宗教文化-伝統と多様性",
+    "category_middle_id": 602
+  },
+  {
+    "category_small_id": 60300,
+    "category_small_name": "生態となりわい",
+    "category_middle_id": 603
+  },
+  {
+    "category_small_id": 60400,
+    "category_small_name": "都市の大衆文化",
+    "category_middle_id": 604
+  },
+  {
+    "category_small_id": 60500,
+    "category_small_name": "染織の伝統と現代",
+    "category_middle_id": 605
+  },
+  {
+    "category_small_id": 70000,
+    "category_small_name": "東南アジア",
+    "category_middle_id": 700
+  },
+  {
+    "category_small_id": 70100,
+    "category_small_name": "生業",
+    "category_middle_id": 701
+  },
+  {
+    "category_small_id": 70200,
+    "category_small_name": "村の日常",
+    "category_middle_id": 702
+  },
+  {
+    "category_small_id": 70300,
+    "category_small_name": "都市の風景",
+    "category_middle_id": 703
+  },
+  {
+    "category_small_id": 70400,
+    "category_small_name": "芸能と娯楽",
+    "category_middle_id": 704
+  },
+  {
+    "category_small_id": 80000,
+    "category_small_name": "朝鮮半島の文化",
+    "category_middle_id": 800
+  },
+  {
+    "category_small_id": 80100,
+    "category_small_name": "精神世界",
+    "category_middle_id": 801
+  },
+  {
+    "category_small_id": 80101,
+    "category_small_name": "巫俗文化",
+    "category_middle_id": 801
+  },
+  {
+    "category_small_id": 80102,
+    "category_small_name": "仏教文化",
+    "category_middle_id": 801
+  },
+  {
+    "category_small_id": 80103,
+    "category_small_name": "儒教文化",
+    "category_middle_id": 801
+  },
+  {
+    "category_small_id": 80104,
+    "category_small_name": "キリスト教文化",
+    "category_middle_id": 801
+  },
+  {
+    "category_small_id": 80200,
+    "category_small_name": "住の文化",
+    "category_middle_id": 802
+  },
+  {
+    "category_small_id": 80300,
+    "category_small_name": "食の文化",
+    "category_middle_id": 803
+  },
+  {
+    "category_small_id": 80301,
+    "category_small_name": "伝統的な農具と食器",
+    "category_middle_id": 803
+  },
+  {
+    "category_small_id": 80302,
+    "category_small_name": "食の近代化、外来料理の浸透",
+    "category_middle_id": 803
+  },
+  {
+    "category_small_id": 80303,
+    "category_small_name": "食にまつわるテクノロジー",
+    "category_middle_id": 803
+  },
+  {
+    "category_small_id": 80400,
+    "category_small_name": "衣の文化",
+    "category_middle_id": 804
+  },
+  {
+    "category_small_id": 80401,
+    "category_small_name": "人生儀礼の伝統衣装",
+    "category_middle_id": 804
+  },
+  {
+    "category_small_id": 80402,
+    "category_small_name": "近代化のなかの衣装",
+    "category_middle_id": 804
+  },
+  {
+    "category_small_id": 80403,
+    "category_small_name": "伝統の再解釈と近代の残像",
+    "category_middle_id": 804
+  },
+  {
+    "category_small_id": 80500,
+    "category_small_name": "あそびの文化",
+    "category_middle_id": 805
+  },
+  {
+    "category_small_id": 80501,
+    "category_small_name": "伝統社会における余暇生活",
+    "category_middle_id": 805
+  },
+  {
+    "category_small_id": 80502,
+    "category_small_name": "産業の広域化と博覧会",
+    "category_middle_id": 805
+  },
+  {
+    "category_small_id": 80503,
+    "category_small_name": "現代のポピュラーカルチャー",
+    "category_middle_id": 805
+  },
+  {
+    "category_small_id": 80600,
+    "category_small_name": "知の文化",
+    "category_middle_id": 806
+  },
+  {
+    "category_small_id": 80601,
+    "category_small_name": "伝統知の世界",
+    "category_middle_id": 806
+  },
+  {
+    "category_small_id": 80602,
+    "category_small_name": "生活改善運動とセマウル運動",
+    "category_middle_id": 806
+  },
+  {
+    "category_small_id": 80603,
+    "category_small_name": "現代を「より良く生きる」ために",
+    "category_middle_id": 806
+  },
+  {
+    "category_small_id": 90000,
+    "category_small_name": "中国地域の文化",
+    "category_middle_id": 900
+  },
+  {
+    "category_small_id": 90100,
+    "category_small_name": "生業",
+    "category_middle_id": 901
+  },
+  {
+    "category_small_id": 90200,
+    "category_small_name": "民族楽器",
+    "category_middle_id": 902
+  },
+  {
+    "category_small_id": 90300,
+    "category_small_name": "チワン族の高床式住居",
+    "category_middle_id": 903
+  },
+  {
+    "category_small_id": 90400,
+    "category_small_name": "装い",
+    "category_middle_id": 904
+  },
+  {
+    "category_small_id": 90500,
+    "category_small_name": "工芸",
+    "category_middle_id": 905
+  },
+  {
+    "category_small_id": 90600,
+    "category_small_name": "台湾原住民族",
+    "category_middle_id": 906
+  },
+  {
+    "category_small_id": 90700,
+    "category_small_name": "宗教と文字",
+    "category_middle_id": 907
+  },
+  {
+    "category_small_id": 90800,
+    "category_small_name": "華僑・華人",
+    "category_middle_id": 908
+  },
+  {
+    "category_small_id": 90900,
+    "category_small_name": "継承される伝統中国",
+    "category_middle_id": 909
+  },
+  {
+    "category_small_id": 100000,
+    "category_small_name": "中央・北アジア",
+    "category_middle_id": 1000
+  },
+  {
+    "category_small_id": 100100,
+    "category_small_name": "自然との共生",
+    "category_middle_id": 1001
+  },
+  {
+    "category_small_id": 100200,
+    "category_small_name": "中央アジア",
+    "category_middle_id": 1002
+  },
+  {
+    "category_small_id": 100300,
+    "category_small_name": "社会主義の時代",
+    "category_middle_id": 1003
+  },
+  {
+    "category_small_id": 100400,
+    "category_small_name": "モンゴル",
+    "category_middle_id": 1004
+  },
+  {
+    "category_small_id": 100500,
+    "category_small_name": "シベリア・極北",
+    "category_middle_id": 1005
+  },
+  {
+    "category_small_id": 110000,
+    "category_small_name": "アイヌの文化",
+    "category_middle_id": 1100
+  },
+  {
+    "category_small_id": 110100,
+    "category_small_name": "アイヌとは",
+    "category_middle_id": 1101
+  },
+  {
+    "category_small_id": 110101,
+    "category_small_name": "アイヌ文化の成り立ち",
+    "category_middle_id": 1101
+  },
+  {
+    "category_small_id": 110102,
+    "category_small_name": "同時代を生きる",
+    "category_middle_id": 1101
+  },
+  {
+    "category_small_id": 110103,
+    "category_small_name": "民族の交わり",
+    "category_middle_id": 1101
+  },
+  {
+    "category_small_id": 110200,
+    "category_small_name": "カムイと自然",
+    "category_middle_id": 1102
+  },
+  {
+    "category_small_id": 110201,
+    "category_small_name": "住文化",
+    "category_middle_id": 1102
+  },
+  {
+    "category_small_id": 110202,
+    "category_small_name": "衣文化",
+    "category_middle_id": 1102
+  },
+  {
+    "category_small_id": 110203,
+    "category_small_name": "信仰",
+    "category_middle_id": 1102
+  },
+  {
+    "category_small_id": 110204,
+    "category_small_name": "食文化",
+    "category_middle_id": 1102
+  },
+  {
+    "category_small_id": 110205,
+    "category_small_name": "生業",
+    "category_middle_id": 1102
+  },
+  {
+    "category_small_id": 110300,
+    "category_small_name": "現代そして未来",
+    "category_middle_id": 1103
+  },
+  {
+    "category_small_id": 110301,
+    "category_small_name": "民族の復権をめざして",
+    "category_middle_id": 1103
+  },
+  {
+    "category_small_id": 110302,
+    "category_small_name": "世界をひろげる",
+    "category_middle_id": 1103
+  },
+  {
+    "category_small_id": 110303,
+    "category_small_name": "誇りを伝える",
+    "category_middle_id": 1103
+  },
+  {
+    "category_small_id": 120000,
+    "category_small_name": "日本の文化",
+    "category_middle_id": 1200
+  },
+  {
+    "category_small_id": 120100,
+    "category_small_name": "祭りと芸能",
+    "category_middle_id": 1201
+  },
+  {
+    "category_small_id": 120101,
+    "category_small_name": "ハレのかたち",
+    "category_middle_id": 1201
+  },
+  {
+    "category_small_id": 120102,
+    "category_small_name": "ハレのこころ",
+    "category_middle_id": 1201
+  },
+  {
+    "category_small_id": 120103,
+    "category_small_name": "ハレのすがた",
+    "category_middle_id": 1201
+  },
+  {
+    "category_small_id": 120104,
+    "category_small_name": "ハレを使う",
+    "category_middle_id": 1201
+  },
+  {
+    "category_small_id": 120105,
+    "category_small_name": "ハレの意匠",
+    "category_middle_id": 1201
+  },
+  {
+    "category_small_id": 120200,
+    "category_small_name": "日々のくらし",
+    "category_middle_id": 1202
+  },
+  {
+    "category_small_id": 120201,
+    "category_small_name": "里のくらし",
+    "category_middle_id": 1202
+  },
+  {
+    "category_small_id": 120202,
+    "category_small_name": "海のくらし",
+    "category_middle_id": 1202
+  },
+  {
+    "category_small_id": 120203,
+    "category_small_name": "町のくらし",
+    "category_middle_id": 1202
+  },
+  {
+    "category_small_id": 120204,
+    "category_small_name": "山のくらし",
+    "category_middle_id": 1202
+  },
+  {
+    "category_small_id": 120205,
+    "category_small_name": "東北地方のくらし",
+    "category_middle_id": 1202
+  },
+  {
+    "category_small_id": 120300,
+    "category_small_name": "沖縄のくらし",
+    "category_middle_id": 1203
+  },
+  {
+    "category_small_id": 120301,
+    "category_small_name": "シマのくらし",
+    "category_middle_id": 1203
+  },
+  {
+    "category_small_id": 120302,
+    "category_small_name": "町のくらし",
+    "category_middle_id": 1203
+  },
+  {
+    "category_small_id": 120303,
+    "category_small_name": "海のくらし",
+    "category_middle_id": 1203
+  },
+  {
+    "category_small_id": 120304,
+    "category_small_name": "戦後のくらし",
+    "category_middle_id": 1203
+  },
+  {
+    "category_small_id": 120305,
+    "category_small_name": "野山のくらし",
+    "category_middle_id": 1203
+  },
+  {
+    "category_small_id": 120400,
+    "category_small_name": "多みんぞくニホン",
+    "category_middle_id": 1204
+  },
+  {
+    "category_small_id": 120401,
+    "category_small_name": "移民と日本",
+    "category_middle_id": 1204
+  },
+  {
+    "category_small_id": 120402,
+    "category_small_name": "日本に生きる",
+    "category_middle_id": 1204
+  },
+  {
+    "category_small_id": 120403,
+    "category_small_name": "心のよりどころ",
+    "category_middle_id": 1204
+  },
+  {
+    "category_small_id": 120404,
+    "category_small_name": "多文化をになう子どもたち",
+    "category_middle_id": 1204
+  },
+  {
+    "category_small_id": 130000,
+    "category_small_name": "音楽",
+    "category_middle_id": 1300
+  },
+  {
+    "category_small_id": 130100,
+    "category_small_name": "太鼓－荒ぶる音－",
+    "category_middle_id": 1301
+  },
+  {
+    "category_small_id": 130200,
+    "category_small_name": "ゴング－伝え交わる音－",
+    "category_middle_id": 1302
+  },
+  {
+    "category_small_id": 130300,
+    "category_small_name": "チャルメラ－演じる音－",
+    "category_middle_id": 1303
+  },
+  {
+    "category_small_id": 130400,
+    "category_small_name": "ギター－歴史の中の音－",
+    "category_middle_id": 1304
+  },
+  {
+    "category_small_id": 140000,
+    "category_small_name": "言語",
+    "category_middle_id": 1400
+  },
+  {
+    "category_small_id": 140100,
+    "category_small_name": "言葉を構成する要素",
+    "category_middle_id": 1401
+  },
+  {
+    "category_small_id": 140200,
+    "category_small_name": "言語の多様性",
+    "category_middle_id": 1402
+  },
+  {
+    "category_small_id": 140300,
+    "category_small_name": "世界の文字",
+    "category_middle_id": 1403
+  }
+]

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="3eO-RD-ksk">
+    <device id="ipad11_0rounded" orientation="landscape" layout="fullscreen" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Recommended View Controller-->
+        <scene sceneID="9o1-7n-Nez">
+            <objects>
+                <viewController storyboardIdentifier="RecommendedViewController" id="3eO-RD-ksk" customClass="RecommendedViewController" customModule="MinpakuMock" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="LbG-rv-S2s">
+                        <rect key="frame" x="0.0" y="0.0" width="1194" height="834"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="background" translatesAutoresizingMaskIntoConstraints="NO" id="Qlb-dd-tqu">
+                                <rect key="frame" x="0.0" y="0.0" width="1194" height="814"/>
+                            </imageView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="nvl-iM-CUU" customClass="GeneralHeader" customModule="MinpakuMock" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="0.0" width="1194" height="108"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="108" id="bzW-2v-EUL"/>
+                                </constraints>
+                            </view>
+                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="LQL-U7-GI6">
+                                <rect key="frame" x="0.0" y="108" width="1194" height="706"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="aqw-u4-f1w">
+                                    <size key="itemSize" width="50" height="50"/>
+                                    <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                                    <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                                    <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                </collectionViewFlowLayout>
+                                <cells/>
+                            </collectionView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="LQL-U7-GI6" firstAttribute="leading" secondItem="NWs-f9-PKf" secondAttribute="leading" id="0z5-ef-T7W"/>
+                            <constraint firstItem="NWs-f9-PKf" firstAttribute="trailing" secondItem="Qlb-dd-tqu" secondAttribute="trailing" id="AnJ-CU-F4p"/>
+                            <constraint firstItem="NWs-f9-PKf" firstAttribute="bottom" secondItem="LQL-U7-GI6" secondAttribute="bottom" id="FnV-s4-FWD"/>
+                            <constraint firstItem="NWs-f9-PKf" firstAttribute="trailing" secondItem="LQL-U7-GI6" secondAttribute="trailing" id="IO1-qo-tXT"/>
+                            <constraint firstItem="Qlb-dd-tqu" firstAttribute="leading" secondItem="NWs-f9-PKf" secondAttribute="leading" id="gde-aJ-ZJ1"/>
+                            <constraint firstItem="LQL-U7-GI6" firstAttribute="top" secondItem="nvl-iM-CUU" secondAttribute="bottom" id="haM-0M-DZ0"/>
+                            <constraint firstItem="NWs-f9-PKf" firstAttribute="bottom" secondItem="Qlb-dd-tqu" secondAttribute="bottom" id="m3P-YV-NeB"/>
+                            <constraint firstItem="Qlb-dd-tqu" firstAttribute="top" secondItem="NWs-f9-PKf" secondAttribute="top" id="n6W-zb-DVw"/>
+                            <constraint firstItem="nvl-iM-CUU" firstAttribute="leading" secondItem="NWs-f9-PKf" secondAttribute="leading" id="p6J-SA-GKL"/>
+                            <constraint firstItem="NWs-f9-PKf" firstAttribute="trailing" secondItem="nvl-iM-CUU" secondAttribute="trailing" id="w7b-xs-1Fe"/>
+                            <constraint firstItem="nvl-iM-CUU" firstAttribute="top" secondItem="NWs-f9-PKf" secondAttribute="top" id="wu9-AM-Rqt"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="NWs-f9-PKf"/>
+                    </view>
+                    <connections>
+                        <outlet property="collectionView" destination="LQL-U7-GI6" id="l5A-ng-ubD"/>
+                        <outlet property="header" destination="nvl-iM-CUU" id="Bjk-Y4-tES"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="kvc-Kc-ab9" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="217.58793969849248" y="239.56834532374103"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="background" width="1194" height="790"/>
+    </resources>
+</document>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="Swb-3f-XPm">
+    <device id="ipad11_0rounded" orientation="landscape">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Nearby View Controller-->
+        <scene sceneID="reN-T1-Ovr">
+            <objects>
+                <viewController storyboardIdentifier="NearbyViewController" id="Swb-3f-XPm" customClass="NearbyViewController" customModule="MinpakuMock" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="EKk-Ur-LM8">
+                        <rect key="frame" x="0.0" y="0.0" width="1194" height="834"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="background" translatesAutoresizingMaskIntoConstraints="NO" id="6xI-RL-Tv3">
+                                <rect key="frame" x="0.0" y="24" width="1194" height="790"/>
+                            </imageView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="vn6-c8-8wb" customClass="GeneralHeader" customModule="MinpakuMock" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="24" width="1194" height="108"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="108" id="t44-w4-57x"/>
+                                </constraints>
+                            </view>
+                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="d79-WK-mNv">
+                                <rect key="frame" x="0.0" y="132" width="1194" height="682"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="5W7-gB-roi">
+                                    <size key="itemSize" width="50" height="50"/>
+                                    <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                                    <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                                    <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                </collectionViewFlowLayout>
+                                <cells/>
+                            </collectionView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="6xI-RL-Tv3" firstAttribute="trailing" secondItem="AYV-DZ-rzr" secondAttribute="trailing" id="11w-SQ-yWm"/>
+                            <constraint firstItem="d79-WK-mNv" firstAttribute="bottom" secondItem="AYV-DZ-rzr" secondAttribute="bottom" id="2sR-wt-eL7"/>
+                            <constraint firstItem="6xI-RL-Tv3" firstAttribute="leading" secondItem="AYV-DZ-rzr" secondAttribute="leading" id="D8f-Np-19J"/>
+                            <constraint firstItem="AYV-DZ-rzr" firstAttribute="trailing" secondItem="vn6-c8-8wb" secondAttribute="trailing" id="FtK-bD-aBr"/>
+                            <constraint firstItem="6xI-RL-Tv3" firstAttribute="bottom" secondItem="AYV-DZ-rzr" secondAttribute="bottom" id="LRS-wf-3G1"/>
+                            <constraint firstItem="6xI-RL-Tv3" firstAttribute="top" secondItem="AYV-DZ-rzr" secondAttribute="top" id="MHR-f4-KRg"/>
+                            <constraint firstItem="d79-WK-mNv" firstAttribute="trailing" secondItem="AYV-DZ-rzr" secondAttribute="trailing" id="bkq-qJ-5Eg"/>
+                            <constraint firstItem="vn6-c8-8wb" firstAttribute="top" secondItem="AYV-DZ-rzr" secondAttribute="top" id="cfz-cc-tnJ"/>
+                            <constraint firstItem="d79-WK-mNv" firstAttribute="leading" secondItem="AYV-DZ-rzr" secondAttribute="leading" id="hrE-bP-nEH"/>
+                            <constraint firstItem="vn6-c8-8wb" firstAttribute="leading" secondItem="AYV-DZ-rzr" secondAttribute="leading" id="ogL-IA-3Je"/>
+                            <constraint firstItem="d79-WK-mNv" firstAttribute="top" secondItem="vn6-c8-8wb" secondAttribute="bottom" id="pne-Yl-pRc"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="AYV-DZ-rzr"/>
+                    </view>
+                    <connections>
+                        <outlet property="collectionView" destination="d79-WK-mNv" id="1gU-U9-ES6"/>
+                        <outlet property="header" destination="vn6-c8-8wb" id="11E-4h-7J8"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Yf2-3T-z2e" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="214.57286432160805" y="209.35251798561151"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="background" width="2388" height="1580"/>
+    </resources>
+</document>

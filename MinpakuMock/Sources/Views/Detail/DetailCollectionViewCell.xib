@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" restorationIdentifier="DetailCollectionViewCell" id="gTV-IL-0wX" customClass="DetailCollectionViewCell" customModule="MinpakuMock" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="150" height="150"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="150" height="150"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="5QO-BU-twl">
+                        <rect key="frame" x="0.0" y="0.0" width="150" height="150"/>
+                    </imageView>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="btn_play" translatesAutoresizingMaskIntoConstraints="NO" id="4vo-Mq-E2a">
+                        <rect key="frame" x="53" y="53" width="44" height="44"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="44" id="56G-b4-h0A"/>
+                            <constraint firstAttribute="width" constant="44" id="7Dj-cI-o9Y"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="4vo-Mq-E2a" firstAttribute="centerY" secondItem="gTV-IL-0wX" secondAttribute="centerY" id="0GL-xv-qzY"/>
+                <constraint firstItem="5QO-BU-twl" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="ADq-hb-J9Q"/>
+                <constraint firstItem="5QO-BU-twl" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="RwK-Aj-yHC"/>
+                <constraint firstAttribute="bottom" secondItem="5QO-BU-twl" secondAttribute="bottom" id="lXN-a8-JjW"/>
+                <constraint firstItem="4vo-Mq-E2a" firstAttribute="centerX" secondItem="gTV-IL-0wX" secondAttribute="centerX" id="xhJ-sY-vqa"/>
+                <constraint firstAttribute="trailing" secondItem="5QO-BU-twl" secondAttribute="trailing" id="z75-Wo-AUc"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <size key="customSize" width="150" height="151"/>
+            <connections>
+                <outlet property="imageView" destination="5QO-BU-twl" id="fBG-hm-zOV"/>
+                <outlet property="playImageView" destination="4vo-Mq-E2a" id="p1J-RF-K0r"/>
+            </connections>
+            <point key="canvasLocation" x="217.59999999999999" y="108.39580209895054"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="btn_play" width="138" height="138"/>
+    </resources>
+</document>

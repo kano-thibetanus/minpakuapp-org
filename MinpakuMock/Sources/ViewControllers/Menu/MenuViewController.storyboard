@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="3RA-5M-QfU">
+    <device id="ipad10_2" orientation="landscape" layout="fullscreen" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Menu View Controller-->
+        <scene sceneID="lJr-83-H9W">
+            <objects>
+                <viewController storyboardIdentifier="MenuViewController" modalPresentationStyle="overCurrentContext" id="3RA-5M-QfU" customClass="MenuViewController" customModule="MinpakuMock" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="QLq-XR-7gY">
+                        <rect key="frame" x="0.0" y="0.0" width="1080" height="810"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZxQ-am-eW9">
+                                <rect key="frame" x="951" y="8" width="121" height="121"/>
+                                <state key="normal" image="close"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zBd-cE-YAh">
+                                <rect key="frame" x="67" y="399" width="400" height="232"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="232" id="c50-Nc-Y73"/>
+                                </constraints>
+                                <state key="normal" image="btn_menu_search"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4i2-2S-LdT">
+                                <rect key="frame" x="-60.5" y="650" width="761" height="211"/>
+                                <state key="normal" image="btn_photo"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="D6c-sj-lsu">
+                                <rect key="frame" x="545" y="120" width="506" height="232"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="400" id="cOn-9L-2wL"/>
+                                </constraints>
+                                <state key="normal" image="btn_menu_neighborhood"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8u3-Fj-jtW">
+                                <rect key="frame" x="949" y="679" width="131" height="131"/>
+                                <state key="normal" image="btn_exit"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kh2-GH-Zgu">
+                                <rect key="frame" x="67" y="120" width="400" height="232"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="400" id="8a6-Jd-CcU"/>
+                                    <constraint firstAttribute="height" constant="232" id="JCc-Xq-lQ2"/>
+                                </constraints>
+                                <state key="normal" image="btn_menu_map"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xTe-Da-uyn">
+                                <rect key="frame" x="5" y="8" width="130" height="130"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="130" id="ect-eF-hmq"/>
+                                    <constraint firstAttribute="width" constant="130" id="iPG-xw-OMl"/>
+                                </constraints>
+                                <state key="normal" image="btn_backtotop"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mYP-CC-ykK">
+                                <rect key="frame" x="608" y="650" width="380" height="106"/>
+                                <state key="normal" image="btn_memo"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jZO-Hq-7PC">
+                                <rect key="frame" x="545" y="399" width="506" height="234"/>
+                                <state key="normal" image="btn_menu_mypage"/>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.59999999999999998" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="4i2-2S-LdT" firstAttribute="centerX" secondItem="zBd-cE-YAh" secondAttribute="centerX" id="0OO-dV-SdF"/>
+                            <constraint firstItem="zBd-cE-YAh" firstAttribute="top" secondItem="kh2-GH-Zgu" secondAttribute="bottom" constant="47" id="4xn-vE-W2g"/>
+                            <constraint firstItem="xTe-Da-uyn" firstAttribute="top" secondItem="JDF-Li-6QJ" secondAttribute="top" constant="8" id="5UR-IL-J1u"/>
+                            <constraint firstItem="kh2-GH-Zgu" firstAttribute="trailing" secondItem="zBd-cE-YAh" secondAttribute="trailing" id="5qF-oZ-P5C"/>
+                            <constraint firstItem="kh2-GH-Zgu" firstAttribute="leading" secondItem="zBd-cE-YAh" secondAttribute="leading" id="6oJ-23-3U9"/>
+                            <constraint firstItem="kh2-GH-Zgu" firstAttribute="top" secondItem="D6c-sj-lsu" secondAttribute="top" id="7MY-Jg-pHh"/>
+                            <constraint firstItem="kh2-GH-Zgu" firstAttribute="bottom" secondItem="D6c-sj-lsu" secondAttribute="bottom" id="HqE-kv-EVR"/>
+                            <constraint firstItem="4i2-2S-LdT" firstAttribute="top" secondItem="zBd-cE-YAh" secondAttribute="bottom" constant="19" id="Jb6-eZ-p08"/>
+                            <constraint firstItem="mYP-CC-ykK" firstAttribute="top" secondItem="4i2-2S-LdT" secondAttribute="top" id="LWa-Jc-3sx"/>
+                            <constraint firstItem="xTe-Da-uyn" firstAttribute="top" secondItem="ZxQ-am-eW9" secondAttribute="top" id="XLE-YK-NRt"/>
+                            <constraint firstItem="8u3-Fj-jtW" firstAttribute="bottom" secondItem="QLq-XR-7gY" secondAttribute="bottom" constant="-5" id="XT8-IP-cDg"/>
+                            <constraint firstItem="JDF-Li-6QJ" firstAttribute="trailing" secondItem="ZxQ-am-eW9" secondAttribute="trailing" constant="8" id="aGu-xr-Azd"/>
+                            <constraint firstItem="JDF-Li-6QJ" firstAttribute="trailing" secondItem="D6c-sj-lsu" secondAttribute="trailing" constant="100" id="bPh-JZ-2lt"/>
+                            <constraint firstItem="jZO-Hq-7PC" firstAttribute="top" secondItem="zBd-cE-YAh" secondAttribute="top" id="fGG-Cn-ClH"/>
+                            <constraint firstItem="jZO-Hq-7PC" firstAttribute="trailing" secondItem="D6c-sj-lsu" secondAttribute="trailing" id="q3e-se-Uis"/>
+                            <constraint firstItem="kh2-GH-Zgu" firstAttribute="leading" secondItem="JDF-Li-6QJ" secondAttribute="leading" constant="120" id="rkY-uK-2uC"/>
+                            <constraint firstItem="jZO-Hq-7PC" firstAttribute="leading" secondItem="D6c-sj-lsu" secondAttribute="leading" id="seH-lQ-0MN"/>
+                            <constraint firstItem="8u3-Fj-jtW" firstAttribute="trailing" secondItem="QLq-XR-7gY" secondAttribute="trailing" constant="-5" id="tz7-nz-lUi"/>
+                            <constraint firstItem="mYP-CC-ykK" firstAttribute="centerX" secondItem="jZO-Hq-7PC" secondAttribute="centerX" id="ult-9B-CQL"/>
+                            <constraint firstItem="xTe-Da-uyn" firstAttribute="leading" secondItem="JDF-Li-6QJ" secondAttribute="leading" constant="5" id="wd4-Se-OJA"/>
+                            <constraint firstItem="kh2-GH-Zgu" firstAttribute="top" secondItem="JDF-Li-6QJ" secondAttribute="top" constant="120" id="wpP-Y9-BVZ"/>
+                            <constraint firstItem="D6c-sj-lsu" firstAttribute="leading" secondItem="kh2-GH-Zgu" secondAttribute="trailing" constant="88" id="xJt-nf-UZU"/>
+                            <constraint firstItem="4i2-2S-LdT" firstAttribute="top" secondItem="mYP-CC-ykK" secondAttribute="top" id="y8i-eK-9Qz"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="JDF-Li-6QJ"/>
+                    </view>
+                    <connections>
+                        <outlet property="backToTopBtn" destination="xTe-Da-uyn" id="ivU-30-2gT"/>
+                        <outlet property="cameraBtn" destination="4i2-2S-LdT" id="TuO-GX-Fel"/>
+                        <outlet property="closeBtn" destination="ZxQ-am-eW9" id="zte-ir-Kma"/>
+                        <outlet property="logoutBtn" destination="8u3-Fj-jtW" id="8wj-jj-7W9"/>
+                        <outlet property="mapBtn" destination="kh2-GH-Zgu" id="7ew-se-DSB"/>
+                        <outlet property="myPageBtn" destination="jZO-Hq-7PC" id="fAe-c1-Snw"/>
+                        <outlet property="nearbyBtn" destination="D6c-sj-lsu" id="38c-T8-2Ox"/>
+                        <outlet property="noteBtn" destination="mYP-CC-ykK" id="L2T-Mc-aeF"/>
+                        <outlet property="searchBtn" destination="zBd-cE-YAh" id="PiT-x9-UcI"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="NzE-h8-87L" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-815" y="83.703703703703695"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="btn_backtotop" width="131" height="131"/>
+        <image name="btn_exit" width="131" height="131"/>
+        <image name="btn_memo" width="380.5" height="105.5"/>
+        <image name="btn_menu_map" width="506" height="234"/>
+        <image name="btn_menu_mypage" width="506" height="234"/>
+        <image name="btn_menu_neighborhood" width="506" height="234"/>
+        <image name="btn_menu_search" width="506" height="234"/>
+        <image name="btn_photo" width="380.5" height="105.5"/>
+        <image name="close" width="60.5" height="60.5"/>
+    </resources>
+</document>

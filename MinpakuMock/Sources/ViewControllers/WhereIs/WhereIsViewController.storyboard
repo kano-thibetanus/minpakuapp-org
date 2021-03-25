@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="4Ri-xa-tuA">
+    <device id="ipad11_0rounded" orientation="landscape">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Where Is View Controller-->
+        <scene sceneID="adK-bD-8EU">
+            <objects>
+                <viewController storyboardIdentifier="WhereIsViewController" modalPresentationStyle="overCurrentContext" id="4Ri-xa-tuA" customClass="WhereIsViewController" customModule="MinpakuMock" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="W9i-zM-u4h">
+                        <rect key="frame" x="0.0" y="0.0" width="1194" height="834"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="background_where" translatesAutoresizingMaskIntoConstraints="NO" id="FVu-mw-Fow">
+                                <rect key="frame" x="207" y="18" width="780" height="780"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="780" id="PPs-ZW-1hj"/>
+                                    <constraint firstAttribute="height" constant="780" id="hZA-cD-it5"/>
+                                </constraints>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="map_all" translatesAutoresizingMaskIntoConstraints="NO" id="jHc-TB-OgR" customClass="WhereIsView" customModule="MinpakuMock" customModuleProvider="target">
+                                <rect key="frame" x="307" y="106.5" width="580" height="600"/>
+                                <color key="backgroundColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="600" id="XT1-he-ERa"/>
+                                    <constraint firstAttribute="width" constant="580" id="ZNP-YK-uvd"/>
+                                </constraints>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pJn-nk-avI">
+                                <rect key="frame" x="1104" y="54" width="60" height="60"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="60" id="Jpu-Bb-Ppb"/>
+                                    <constraint firstAttribute="height" constant="60" id="mgQ-w3-baJ"/>
+                                </constraints>
+                                <state key="normal" image="close"/>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UTN-6O-S64">
+                                <rect key="frame" x="564" y="750.5" width="66.5" height="31.5"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="26"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.59999999999999998" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="haY-q3-bYb" firstAttribute="bottom" secondItem="FVu-mw-Fow" secondAttribute="bottom" constant="16" id="2Xs-pS-Fz1"/>
+                            <constraint firstItem="haY-q3-bYb" firstAttribute="trailing" secondItem="pJn-nk-avI" secondAttribute="trailing" constant="30" id="6Ht-Cn-p97"/>
+                            <constraint firstItem="FVu-mw-Fow" firstAttribute="centerX" secondItem="W9i-zM-u4h" secondAttribute="centerX" id="7bL-ox-8l6"/>
+                            <constraint firstItem="haY-q3-bYb" firstAttribute="bottom" secondItem="UTN-6O-S64" secondAttribute="bottom" constant="32" id="AHj-bY-i1j"/>
+                            <constraint firstItem="jHc-TB-OgR" firstAttribute="centerX" secondItem="W9i-zM-u4h" secondAttribute="centerX" id="D7T-ZP-ctV"/>
+                            <constraint firstItem="UTN-6O-S64" firstAttribute="top" secondItem="jHc-TB-OgR" secondAttribute="bottom" constant="44" id="TDE-X7-9MK"/>
+                            <constraint firstItem="pJn-nk-avI" firstAttribute="top" secondItem="haY-q3-bYb" secondAttribute="top" constant="30" id="Wx6-ct-i3u"/>
+                            <constraint firstItem="UTN-6O-S64" firstAttribute="centerX" secondItem="W9i-zM-u4h" secondAttribute="centerX" id="wgO-Hp-a15"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="haY-q3-bYb"/>
+                    </view>
+                    <connections>
+                        <outlet property="closeBtn" destination="pJn-nk-avI" id="Dld-Ch-xw7"/>
+                        <outlet property="whereIsLbl" destination="UTN-6O-S64" id="ola-9S-lEA"/>
+                        <outlet property="whreIsView" destination="jHc-TB-OgR" id="Qf1-uf-Cjf"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ZkC-pv-HBA" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-199.49748743718592" y="181.294964028777"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="background_where" width="650" height="650"/>
+        <image name="close" width="60.5" height="60.5"/>
+        <image name="map_all" width="1550" height="1600"/>
+    </resources>
+</document>

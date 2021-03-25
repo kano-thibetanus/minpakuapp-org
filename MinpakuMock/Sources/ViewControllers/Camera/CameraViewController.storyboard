@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="hN1-VZ-t32">
+    <device id="ipad11_0rounded" orientation="landscape">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Camera View Controller-->
+        <scene sceneID="CpD-Gv-HlG">
+            <objects>
+                <viewController storyboardIdentifier="CameraViewController" id="hN1-VZ-t32" customClass="CameraViewController" customModule="MinpakuMock" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="0NZ-8V-F9d">
+                        <rect key="frame" x="0.0" y="0.0" width="1194" height="834"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7RY-VA-wag">
+                                <rect key="frame" x="0.0" y="24" width="60" height="60"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.19501819349999999" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="60" id="UIU-BO-VRc"/>
+                                    <constraint firstAttribute="height" constant="60" id="lda-ha-IeY"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="45"/>
+                                <state key="normal" title="✗">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="CRo-aS-KEz">
+                                <rect key="frame" x="553" y="726" width="88" height="88"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="88" id="sn5-GK-DnX"/>
+                                    <constraint firstAttribute="width" constant="88" id="vAa-ng-3PZ"/>
+                                </constraints>
+                                <state key="normal" image="btn_camera"/>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="CRo-aS-KEz" firstAttribute="centerX" secondItem="0NZ-8V-F9d" secondAttribute="centerX" id="AnT-dk-BE3"/>
+                            <constraint firstItem="CRo-aS-KEz" firstAttribute="bottom" secondItem="m2n-Ye-onU" secondAttribute="bottom" id="MWQ-bz-jrq"/>
+                            <constraint firstItem="7RY-VA-wag" firstAttribute="leading" secondItem="m2n-Ye-onU" secondAttribute="leading" id="gNq-Za-Q5k"/>
+                            <constraint firstItem="7RY-VA-wag" firstAttribute="top" secondItem="m2n-Ye-onU" secondAttribute="top" id="ktl-Sy-EDQ"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="m2n-Ye-onU"/>
+                    </view>
+                    <connections>
+                        <outlet property="backBtn" destination="7RY-VA-wag" id="ISF-Ko-Z7e"/>
+                        <outlet property="cameraBtn" destination="CRo-aS-KEz" id="7Kn-fg-tMZ"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="6RC-DB-vPG" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="116.54676258992806" y="-56.115107913669071"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="btn_camera" width="256" height="256"/>
+    </resources>
+</document>

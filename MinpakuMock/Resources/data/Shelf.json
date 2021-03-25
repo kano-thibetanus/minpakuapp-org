@@ -1,0 +1,2636 @@
+[
+  {
+    "shelf": "A-1-1-G",
+    "mm_x": 1033,
+    "mm_y": 566,
+    "category": 120101
+  },
+  {
+    "shelf": "A-1-1-W",
+    "mm_x": 1033,
+    "mm_y": 578,
+    "category": 120101
+  },
+  {
+    "shelf": "A-1-2-G",
+    "mm_x": 1016,
+    "mm_y": 566,
+    "category": 120101
+  },
+  {
+    "shelf": "A-10-1-G",
+    "mm_x": 845,
+    "mm_y": 573,
+    "category": 120103
+  },
+  {
+    "shelf": "A-10-1-W",
+    "mm_x": 836,
+    "mm_y": 573,
+    "category": 120103
+  },
+  {
+    "shelf": "A-10-2-G",
+    "mm_x": 845,
+    "mm_y": 579,
+    "category": 120103
+  },
+  {
+    "shelf": "A-10-2-W",
+    "mm_x": 836,
+    "mm_y": 579,
+    "category": 120103
+  },
+  {
+    "shelf": "A-10-3-G",
+    "mm_x": 845,
+    "mm_y": 595,
+    "category": 120103
+  },
+  {
+    "shelf": "A-10-3-W",
+    "mm_x": 836,
+    "mm_y": 595,
+    "category": 120103
+  },
+  {
+    "shelf": "A-10-4-G",
+    "mm_x": 845,
+    "mm_y": 601,
+    "category": 120103
+  },
+  {
+    "shelf": "A-10-4-W",
+    "mm_x": 836,
+    "mm_y": 601,
+    "category": 120103
+  },
+  {
+    "shelf": "A-10-5-G",
+    "mm_x": 845,
+    "mm_y": 607,
+    "category": 120103
+  },
+  {
+    "shelf": "A-10-5-W",
+    "mm_x": 836,
+    "mm_y": 607,
+    "category": 120103
+  },
+  {
+    "shelf": "A-11-1",
+    "mm_x": 1012,
+    "mm_y": 643,
+    "category": 120201
+  },
+  {
+    "shelf": "A-12-1",
+    "mm_x": 936,
+    "mm_y": 656,
+    "category": 120105
+  },
+  {
+    "shelf": "A-12-2",
+    "mm_x": 955,
+    "mm_y": 656,
+    "category": 120105
+  },
+  {
+    "shelf": "A-12-3",
+    "mm_x": 972,
+    "mm_y": 656,
+    "category": 120105
+  },
+  {
+    "shelf": "A-13-1-G",
+    "mm_x": 898,
+    "mm_y": 654,
+    "category": 120104
+  },
+  {
+    "shelf": "A-13-1-W",
+    "mm_x": 898,
+    "mm_y": 662,
+    "category": 120104
+  },
+  {
+    "shelf": "A-13-2-G",
+    "mm_x": 905,
+    "mm_y": 654,
+    "category": 120104
+  },
+  {
+    "shelf": "A-13-2-W",
+    "mm_x": 905,
+    "mm_y": 662,
+    "category": 120104
+  },
+  {
+    "shelf": "A-13-3-G",
+    "mm_x": 914,
+    "mm_y": 654,
+    "category": 120104
+  },
+  {
+    "shelf": "A-13-3-W",
+    "mm_x": 914,
+    "mm_y": 662,
+    "category": 120104
+  },
+  {
+    "shelf": "A-13-4-G",
+    "mm_x": 923,
+    "mm_y": 654,
+    "category": 120104
+  },
+  {
+    "shelf": "A-13-4-W",
+    "mm_x": 923,
+    "mm_y": 662,
+    "category": 120104
+  },
+  {
+    "shelf": "A-14-1",
+    "mm_x": 849,
+    "mm_y": 641,
+    "category": 120104
+  },
+  {
+    "shelf": "A-14-2",
+    "mm_x": 834,
+    "mm_y": 651,
+    "category": 120104
+  },
+  {
+    "shelf": "A-14-3",
+    "mm_x": 860,
+    "mm_y": 661,
+    "category": 120104
+  },
+  {
+    "shelf": "A-2-1-G",
+    "mm_x": 975,
+    "mm_y": 536,
+    "category": 120102
+  },
+  {
+    "shelf": "A-2-1-W",
+    "mm_x": 975,
+    "mm_y": 527,
+    "category": 120102
+  },
+  {
+    "shelf": "A-2-2-G",
+    "mm_x": 966,
+    "mm_y": 536,
+    "category": 120102
+  },
+  {
+    "shelf": "A-2-2-W",
+    "mm_x": 966,
+    "mm_y": 527,
+    "category": 120102
+  },
+  {
+    "shelf": "A-2-3-G",
+    "mm_x": 958,
+    "mm_y": 536,
+    "category": 120102
+  },
+  {
+    "shelf": "A-2-3-W",
+    "mm_x": 958,
+    "mm_y": 527,
+    "category": 120102
+  },
+  {
+    "shelf": "A-2-4-G",
+    "mm_x": 949,
+    "mm_y": 536,
+    "category": 120102
+  },
+  {
+    "shelf": "A-2-4-W",
+    "mm_x": 949,
+    "mm_y": 527,
+    "category": 120102
+  },
+  {
+    "shelf": "A-3-1-G",
+    "mm_x": 923,
+    "mm_y": 536,
+    "category": 120102
+  },
+  {
+    "shelf": "A-3-1-W",
+    "mm_x": 923,
+    "mm_y": 527,
+    "category": 120102
+  },
+  {
+    "shelf": "A-3-2-G",
+    "mm_x": 910,
+    "mm_y": 536,
+    "category": 120102
+  },
+  {
+    "shelf": "A-3-2-W",
+    "mm_x": 910,
+    "mm_y": 527,
+    "category": 120102
+  },
+  {
+    "shelf": "A-3-3-G",
+    "mm_x": 897,
+    "mm_y": 536,
+    "category": 120102
+  },
+  {
+    "shelf": "A-3-3-W",
+    "mm_x": 897,
+    "mm_y": 527,
+    "category": 120102
+  },
+  {
+    "shelf": "A-3-4",
+    "mm_x": 937,
+    "mm_y": 530,
+    "category": 120102
+  },
+  {
+    "shelf": "A-4-1",
+    "mm_x": 850,
+    "mm_y": 550,
+    "category": 120103
+  },
+  {
+    "shelf": "A-4-2",
+    "mm_x": 858,
+    "mm_y": 527,
+    "category": 120103
+  },
+  {
+    "shelf": "A-4-3",
+    "mm_x": 835,
+    "mm_y": 538,
+    "category": 120103
+  },
+  {
+    "shelf": "A-5-1-G",
+    "mm_x": 980,
+    "mm_y": 578,
+    "category": 120101
+  },
+  {
+    "shelf": "A-5-1-W",
+    "mm_x": 976,
+    "mm_y": 578,
+    "category": 120101
+  },
+  {
+    "shelf": "A-5-2-G",
+    "mm_x": 980,
+    "mm_y": 586,
+    "category": 120101
+  },
+  {
+    "shelf": "A-5-2-W",
+    "mm_x": 976,
+    "mm_y": 586,
+    "category": 120101
+  },
+  {
+    "shelf": "A-5-3-G",
+    "mm_x": 980,
+    "mm_y": 595,
+    "category": 120101
+  },
+  {
+    "shelf": "A-5-3-Ｗ",
+    "mm_x": 976,
+    "mm_y": 595,
+    "category": 120101
+  },
+  {
+    "shelf": "A-5-4-G",
+    "mm_x": 982,
+    "mm_y": 612,
+    "category": 120101
+  },
+  {
+    "shelf": "A-6-1",
+    "mm_x": 958,
+    "mm_y": 597,
+    "category": 120101
+  },
+  {
+    "shelf": "A-7-1",
+    "mm_x": 924,
+    "mm_y": 578,
+    "category": 120101
+  },
+  {
+    "shelf": "A-7-2",
+    "mm_x": 924,
+    "mm_y": 595,
+    "category": 120101
+  },
+  {
+    "shelf": "A-7-3",
+    "mm_x": 924,
+    "mm_y": 610,
+    "category": 120101
+  },
+  {
+    "shelf": "A-8-1",
+    "mm_x": 888,
+    "mm_y": 573,
+    "category": 120103
+  },
+  {
+    "shelf": "A-8-2",
+    "mm_x": 888,
+    "mm_y": 582,
+    "category": 120103
+  },
+  {
+    "shelf": "A-8-3",
+    "mm_x": 888,
+    "mm_y": 591,
+    "category": 120103
+  },
+  {
+    "shelf": "A-8-4",
+    "mm_x": 888,
+    "mm_y": 600,
+    "category": 120103
+  },
+  {
+    "shelf": "A-8-5",
+    "mm_x": 888,
+    "mm_y": 609,
+    "category": 120103
+  },
+  {
+    "shelf": "A-8-6",
+    "mm_x": 888,
+    "mm_y": 617,
+    "category": 120103
+  },
+  {
+    "shelf": "A-9-1",
+    "mm_x": 880,
+    "mm_y": 573,
+    "category": 120103
+  },
+  {
+    "shelf": "A-9-2",
+    "mm_x": 880,
+    "mm_y": 582,
+    "category": 120103
+  },
+  {
+    "shelf": "A-9-3",
+    "mm_x": 880,
+    "mm_y": 591,
+    "category": 120103
+  },
+  {
+    "shelf": "A-9-4",
+    "mm_x": 880,
+    "mm_y": 600,
+    "category": 120103
+  },
+  {
+    "shelf": "A-9-5",
+    "mm_x": 880,
+    "mm_y": 609,
+    "category": 120103
+  },
+  {
+    "shelf": "A-9-6",
+    "mm_x": 880,
+    "mm_y": 617,
+    "category": 120103
+  },
+  {
+    "shelf": "C-1-1-G",
+    "mm_x": 985,
+    "mm_y": 686,
+    "category": 120201
+  },
+  {
+    "shelf": "C-1-2-W",
+    "mm_x": 981,
+    "mm_y": 696,
+    "category": 120201
+  },
+  {
+    "shelf": "C-1-3-W",
+    "mm_x": 981,
+    "mm_y": 706,
+    "category": 120201
+  },
+  {
+    "shelf": "C-10-1-G",
+    "mm_x": 1011,
+    "mm_y": 771,
+    "category": 120203
+  },
+  {
+    "shelf": "C-10-1-W",
+    "mm_x": 1014,
+    "mm_y": 771,
+    "category": 120203
+  },
+  {
+    "shelf": "C-10-2-G",
+    "mm_x": 1011,
+    "mm_y": 780,
+    "category": 120203
+  },
+  {
+    "shelf": "C-10-2-W",
+    "mm_x": 1014,
+    "mm_y": 780,
+    "category": 120203
+  },
+  {
+    "shelf": "C-11-1-G",
+    "mm_x": 1019,
+    "mm_y": 771,
+    "category": 120203
+  },
+  {
+    "shelf": "C-11-1-W",
+    "mm_x": 1014,
+    "mm_y": 771,
+    "category": 120203
+  },
+  {
+    "shelf": "C-11-2-G",
+    "mm_x": 1019,
+    "mm_y": 780,
+    "category": 120203
+  },
+  {
+    "shelf": "C-11-2-W",
+    "mm_x": 1014,
+    "mm_y": 780,
+    "category": 120203
+  },
+  {
+    "shelf": "C-13",
+    "mm_x": 1031,
+    "mm_y": 809,
+    "category": 120204
+  },
+  {
+    "shelf": "C-2-1-G",
+    "mm_x": 1011,
+    "mm_y": 682,
+    "category": 120201
+  },
+  {
+    "shelf": "C-2-1-W",
+    "mm_x": 1014,
+    "mm_y": 682,
+    "category": 120201
+  },
+  {
+    "shelf": "C-2-2-G",
+    "mm_x": 1011,
+    "mm_y": 691,
+    "category": 120201
+  },
+  {
+    "shelf": "C-2-2-W",
+    "mm_x": 1014,
+    "mm_y": 691,
+    "category": 120201
+  },
+  {
+    "shelf": "C-2-3-G",
+    "mm_x": 1011,
+    "mm_y": 700,
+    "category": 120201
+  },
+  {
+    "shelf": "C-2-3-W",
+    "mm_x": 1014,
+    "mm_y": 700,
+    "category": 120201
+  },
+  {
+    "shelf": "C-2-4-G",
+    "mm_x": 1011,
+    "mm_y": 708,
+    "category": 120201
+  },
+  {
+    "shelf": "C-2-4-W",
+    "mm_x": 1014,
+    "mm_y": 708,
+    "category": 120201
+  },
+  {
+    "shelf": "C-4-1-W",
+    "mm_x": 1046,
+    "mm_y": 674,
+    "category": 120201
+  },
+  {
+    "shelf": "C-4-2-G",
+    "mm_x": 1041,
+    "mm_y": 682,
+    "category": 120201
+  },
+  {
+    "shelf": "C-4-2-W",
+    "mm_x": 1046,
+    "mm_y": 682,
+    "category": 120201
+  },
+  {
+    "shelf": "C-4-3-G",
+    "mm_x": 1041,
+    "mm_y": 691,
+    "category": 120201
+  },
+  {
+    "shelf": "C-4-3-W",
+    "mm_x": 1046,
+    "mm_y": 691,
+    "category": 120201
+  },
+  {
+    "shelf": "C-4-4-G",
+    "mm_x": 1041,
+    "mm_y": 700,
+    "category": 120201
+  },
+  {
+    "shelf": "C-4-4-W",
+    "mm_x": 1046,
+    "mm_y": 700,
+    "category": 120201
+  },
+  {
+    "shelf": "C-4-5-W",
+    "mm_x": 1046,
+    "mm_y": 708,
+    "category": 120201
+  },
+  {
+    "shelf": "C-5-2",
+    "mm_x": 986,
+    "mm_y": 748,
+    "category": 120202
+  },
+  {
+    "shelf": "C-5-3-G",
+    "mm_x": 986,
+    "mm_y": 756,
+    "category": 120202
+  },
+  {
+    "shelf": "C-5-3-W",
+    "mm_x": 981,
+    "mm_y": 756,
+    "category": 120202
+  },
+  {
+    "shelf": "C-6-2-G",
+    "mm_x": 1011,
+    "mm_y": 736,
+    "category": 120202
+  },
+  {
+    "shelf": "C-6-3-G",
+    "mm_x": 1011,
+    "mm_y": 745,
+    "category": 120202
+  },
+  {
+    "shelf": "C-6-4-G",
+    "mm_x": 1011,
+    "mm_y": 753,
+    "category": 120202
+  },
+  {
+    "shelf": "C-6-4-W",
+    "mm_x": 1014,
+    "mm_y": 753,
+    "category": 120202
+  },
+  {
+    "shelf": "C-7",
+    "mm_x": 1020,
+    "mm_y": 740,
+    "category": 120202
+  },
+  {
+    "shelf": "C-8-1-G",
+    "mm_x": 1041,
+    "mm_y": 727,
+    "category": 120202
+  },
+  {
+    "shelf": "C-8-1-W",
+    "mm_x": 1046,
+    "mm_y": 727,
+    "category": 120202
+  },
+  {
+    "shelf": "C-8-2-G",
+    "mm_x": 1041,
+    "mm_y": 736,
+    "category": 120202
+  },
+  {
+    "shelf": "C-8-2-W",
+    "mm_x": 1046,
+    "mm_y": 736,
+    "category": 120202
+  },
+  {
+    "shelf": "C-8-3-G",
+    "mm_x": 1041,
+    "mm_y": 745,
+    "category": 120202
+  },
+  {
+    "shelf": "C-8-4-G",
+    "mm_x": 1041,
+    "mm_y": 753,
+    "category": 120202
+  },
+  {
+    "shelf": "C-8-4-W",
+    "mm_x": 1046,
+    "mm_y": 753,
+    "category": 120202
+  },
+  {
+    "shelf": "C-8-5-G",
+    "mm_x": 1041,
+    "mm_y": 761,
+    "category": 120202
+  },
+  {
+    "shelf": "C-8-5-W",
+    "mm_x": 1046,
+    "mm_y": 761,
+    "category": 120202
+  },
+  {
+    "shelf": "C-9-1",
+    "mm_x": 986,
+    "mm_y": 789,
+    "category": 120203
+  },
+  {
+    "shelf": "C-9-2",
+    "mm_x": 986,
+    "mm_y": 806,
+    "category": 120203
+  },
+  {
+    "shelf": "IF-A-1",
+    "mm_x": 105,
+    "mm_y": 51,
+    "category": 0
+  },
+  {
+    "shelf": "IF-A-2",
+    "mm_x": 105,
+    "mm_y": 127,
+    "category": 0
+  },
+  {
+    "shelf": "IF-A-3",
+    "mm_x": 105,
+    "mm_y": 203,
+    "category": 0
+  },
+  {
+    "shelf": "IF-A-4",
+    "mm_x": 105,
+    "mm_y": 279,
+    "category": 40000
+  },
+  {
+    "shelf": "IF-A-5",
+    "mm_x": 105,
+    "mm_y": 355,
+    "category": 40000
+  },
+  {
+    "shelf": "IF-A-6",
+    "mm_x": 105,
+    "mm_y": 431,
+    "category": 40000
+  },
+  {
+    "shelf": "IF-A-7",
+    "mm_x": 105,
+    "mm_y": 507,
+    "category": 40000
+  },
+  {
+    "shelf": "IF-A-8",
+    "mm_x": 105,
+    "mm_y": 583,
+    "category": 40000
+  },
+  {
+    "shelf": "IF-A-9",
+    "mm_x": 105,
+    "mm_y": 659,
+    "category": 40000
+  },
+  {
+    "shelf": "IF-A-10",
+    "mm_x": 105,
+    "mm_y": 735,
+    "category": 30000
+  },
+  {
+    "shelf": "IF-A-11",
+    "mm_x": 105,
+    "mm_y": 811,
+    "category": 30000
+  },
+  {
+    "shelf": "IF-A-12",
+    "mm_x": 105,
+    "mm_y": 887,
+    "category": 30000
+  },
+  {
+    "shelf": "IF-A-13",
+    "mm_x": 105,
+    "mm_y": 964,
+    "category": 0
+  },
+  {
+    "shelf": "IF-B-1",
+    "mm_x": 180,
+    "mm_y": 51,
+    "category": 0
+  },
+  {
+    "shelf": "IF-B-2",
+    "mm_x": 180,
+    "mm_y": 127,
+    "category": 0
+  },
+  {
+    "shelf": "IF-B-3",
+    "mm_x": 180,
+    "mm_y": 203,
+    "category": 0
+  },
+  {
+    "shelf": "IF-B-4",
+    "mm_x": 180,
+    "mm_y": 279,
+    "category": 50000
+  },
+  {
+    "shelf": "IF-B-5",
+    "mm_x": 180,
+    "mm_y": 355,
+    "category": 50000
+  },
+  {
+    "shelf": "IF-B-6",
+    "mm_x": 180,
+    "mm_y": 431,
+    "category": 0
+  },
+  {
+    "shelf": "IF-B-7",
+    "mm_x": 180,
+    "mm_y": 507,
+    "category": 10000
+  },
+  {
+    "shelf": "IF-B-8",
+    "mm_x": 180,
+    "mm_y": 583,
+    "category": 10000
+  },
+  {
+    "shelf": "IF-B-9",
+    "mm_x": 180,
+    "mm_y": 659,
+    "category": 10000
+  },
+  {
+    "shelf": "IF-B-10",
+    "mm_x": 180,
+    "mm_y": 735,
+    "category": 0
+  },
+  {
+    "shelf": "IF-B-11",
+    "mm_x": 180,
+    "mm_y": 811,
+    "category": 20000
+  },
+  {
+    "shelf": "IF-B-12",
+    "mm_x": 180,
+    "mm_y": 887,
+    "category": 20000
+  },
+  {
+    "shelf": "IF-B-13",
+    "mm_x": 180,
+    "mm_y": 964,
+    "category": 0
+  },
+  {
+    "shelf": "IF-C-1",
+    "mm_x": 256,
+    "mm_y": 51,
+    "category": 0
+  },
+  {
+    "shelf": "IF-C-2",
+    "mm_x": 256,
+    "mm_y": 127,
+    "category": 0
+  },
+  {
+    "shelf": "IF-C-3",
+    "mm_x": 256,
+    "mm_y": 203,
+    "category": 0
+  },
+  {
+    "shelf": "IF-C-4",
+    "mm_x": 256,
+    "mm_y": 279,
+    "category": 50000
+  },
+  {
+    "shelf": "IF-C-5",
+    "mm_x": 256,
+    "mm_y": 355,
+    "category": 50000
+  },
+  {
+    "shelf": "IF-C-6",
+    "mm_x": 256,
+    "mm_y": 431,
+    "category": 130000
+  },
+  {
+    "shelf": "IF-C-7",
+    "mm_x": 256,
+    "mm_y": 507,
+    "category": 130000
+  },
+  {
+    "shelf": "IF-C-8",
+    "mm_x": 256,
+    "mm_y": 583,
+    "category": 10000
+  },
+  {
+    "shelf": "IF-C-9",
+    "mm_x": 256,
+    "mm_y": 659,
+    "category": 10000
+  },
+  {
+    "shelf": "IF-C-10",
+    "mm_x": 256,
+    "mm_y": 735,
+    "category": 0
+  },
+  {
+    "shelf": "IF-C-11",
+    "mm_x": 256,
+    "mm_y": 811,
+    "category": 20000
+  },
+  {
+    "shelf": "IF-C-12",
+    "mm_x": 256,
+    "mm_y": 887,
+    "category": 20000
+  },
+  {
+    "shelf": "IF-C-13",
+    "mm_x": 256,
+    "mm_y": 964,
+    "category": 0
+  },
+  {
+    "shelf": "IF-D-1",
+    "mm_x": 332,
+    "mm_y": 51,
+    "category": 0
+  },
+  {
+    "shelf": "IF-D-2",
+    "mm_x": 332,
+    "mm_y": 127,
+    "category": 0
+  },
+  {
+    "shelf": "IF-D-3",
+    "mm_x": 332,
+    "mm_y": 203,
+    "category": 0
+  },
+  {
+    "shelf": "IF-D-4",
+    "mm_x": 332,
+    "mm_y": 279,
+    "category": 50000
+  },
+  {
+    "shelf": "IF-D-5",
+    "mm_x": 332,
+    "mm_y": 355,
+    "category": 50000
+  },
+  {
+    "shelf": "IF-D-6",
+    "mm_x": 332,
+    "mm_y": 431,
+    "category": 130000
+  },
+  {
+    "shelf": "IF-D-7",
+    "mm_x": 332,
+    "mm_y": 507,
+    "category": 130000
+  },
+  {
+    "shelf": "IF-D-8",
+    "mm_x": 332,
+    "mm_y": 583,
+    "category": 10000
+  },
+  {
+    "shelf": "IF-D-9",
+    "mm_x": 332,
+    "mm_y": 659,
+    "category": 10000
+  },
+  {
+    "shelf": "IF-D-10",
+    "mm_x": 332,
+    "mm_y": 735,
+    "category": 10000
+  },
+  {
+    "shelf": "IF-D-11",
+    "mm_x": 332,
+    "mm_y": 811,
+    "category": 20000
+  },
+  {
+    "shelf": "IF-D-12",
+    "mm_x": 332,
+    "mm_y": 887,
+    "category": 20000
+  },
+  {
+    "shelf": "IF-D-13",
+    "mm_x": 332,
+    "mm_y": 964,
+    "category": 0
+  },
+  {
+    "shelf": "IF-E-1",
+    "mm_x": 408,
+    "mm_y": 51,
+    "category": 0
+  },
+  {
+    "shelf": "IF-E-2",
+    "mm_x": 408,
+    "mm_y": 127,
+    "category": 0
+  },
+  {
+    "shelf": "IF-E-3",
+    "mm_x": 408,
+    "mm_y": 203,
+    "category": 140000
+  },
+  {
+    "shelf": "IF-E-4",
+    "mm_x": 408,
+    "mm_y": 279,
+    "category": 140000
+  },
+  {
+    "shelf": "IF-E-5",
+    "mm_x": 408,
+    "mm_y": 355,
+    "category": 130000
+  },
+  {
+    "shelf": "IF-E-6",
+    "mm_x": 408,
+    "mm_y": 431,
+    "category": 130000
+  },
+  {
+    "shelf": "IF-E-7",
+    "mm_x": 408,
+    "mm_y": 507,
+    "category": 130000
+  },
+  {
+    "shelf": "IF-E-8",
+    "mm_x": 408,
+    "mm_y": 583,
+    "category": 0
+  },
+  {
+    "shelf": "IF-E-9",
+    "mm_x": 408,
+    "mm_y": 659,
+    "category": 0
+  },
+  {
+    "shelf": "IF-E-10",
+    "mm_x": 408,
+    "mm_y": 735,
+    "category": 0
+  },
+  {
+    "shelf": "IF-E-11",
+    "mm_x": 408,
+    "mm_y": 811,
+    "category": 0
+  },
+  {
+    "shelf": "IF-E-12",
+    "mm_x": 408,
+    "mm_y": 887,
+    "category": 0
+  },
+  {
+    "shelf": "IF-E-13",
+    "mm_x": 408,
+    "mm_y": 964,
+    "category": 0
+  },
+  {
+    "shelf": "IF-F-1",
+    "mm_x": 484,
+    "mm_y": 51,
+    "category": 0
+  },
+  {
+    "shelf": "IF-F-2",
+    "mm_x": 484,
+    "mm_y": 127,
+    "category": 0
+  },
+  {
+    "shelf": "IF-F-3",
+    "mm_x": 484,
+    "mm_y": 203,
+    "category": 60000
+  },
+  {
+    "shelf": "IF-F-4",
+    "mm_x": 484,
+    "mm_y": 279,
+    "category": 60000
+  },
+  {
+    "shelf": "IF-F-5",
+    "mm_x": 484,
+    "mm_y": 355,
+    "category": 70000
+  },
+  {
+    "shelf": "IF-F-6",
+    "mm_x": 484,
+    "mm_y": 431,
+    "category": 0
+  },
+  {
+    "shelf": "IF-F-7",
+    "mm_x": 484,
+    "mm_y": 507,
+    "category": 0
+  },
+  {
+    "shelf": "IF-F-8",
+    "mm_x": 484,
+    "mm_y": 583,
+    "category": 0
+  },
+  {
+    "shelf": "IF-F-9",
+    "mm_x": 484,
+    "mm_y": 659,
+    "category": 0
+  },
+  {
+    "shelf": "IF-F-10",
+    "mm_x": 484,
+    "mm_y": 735,
+    "category": 0
+  },
+  {
+    "shelf": "IF-F-11",
+    "mm_x": 484,
+    "mm_y": 811,
+    "category": 0
+  },
+  {
+    "shelf": "IF-F-12",
+    "mm_x": 484,
+    "mm_y": 887,
+    "category": 0
+  },
+  {
+    "shelf": "IF-F-13",
+    "mm_x": 484,
+    "mm_y": 964,
+    "category": 0
+  },
+  {
+    "shelf": "IF-G-1",
+    "mm_x": 560,
+    "mm_y": 51,
+    "category": 0
+  },
+  {
+    "shelf": "IF-G-2",
+    "mm_x": 560,
+    "mm_y": 127,
+    "category": 0
+  },
+  {
+    "shelf": "IF-G-3",
+    "mm_x": 560,
+    "mm_y": 203,
+    "category": 60000
+  },
+  {
+    "shelf": "IF-G-4",
+    "mm_x": 560,
+    "mm_y": 279,
+    "category": 60000
+  },
+  {
+    "shelf": "IF-G-5",
+    "mm_x": 560,
+    "mm_y": 355,
+    "category": 70000
+  },
+  {
+    "shelf": "IF-G-6",
+    "mm_x": 560,
+    "mm_y": 431,
+    "category": 70000
+  },
+  {
+    "shelf": "IF-G-7",
+    "mm_x": 560,
+    "mm_y": 507,
+    "category": 70000
+  },
+  {
+    "shelf": "IF-G-8",
+    "mm_x": 560,
+    "mm_y": 583,
+    "category": 70000
+  },
+  {
+    "shelf": "IF-G-9",
+    "mm_x": 560,
+    "mm_y": 659,
+    "category": 0
+  },
+  {
+    "shelf": "IF-G-10",
+    "mm_x": 560,
+    "mm_y": 735,
+    "category": 0
+  },
+  {
+    "shelf": "IF-G-11",
+    "mm_x": 560,
+    "mm_y": 811,
+    "category": 0
+  },
+  {
+    "shelf": "IF-G-12",
+    "mm_x": 560,
+    "mm_y": 887,
+    "category": 0
+  },
+  {
+    "shelf": "IF-G-13",
+    "mm_x": 560,
+    "mm_y": 964,
+    "category": 0
+  },
+  {
+    "shelf": "IF-H-1",
+    "mm_x": 636,
+    "mm_y": 51,
+    "category": 60000
+  },
+  {
+    "shelf": "IF-H-2",
+    "mm_x": 636,
+    "mm_y": 127,
+    "category": 60000
+  },
+  {
+    "shelf": "IF-H-3",
+    "mm_x": 636,
+    "mm_y": 203,
+    "category": 60000
+  },
+  {
+    "shelf": "IF-H-4",
+    "mm_x": 636,
+    "mm_y": 279,
+    "category": 60000
+  },
+  {
+    "shelf": "IF-H-5",
+    "mm_x": 636,
+    "mm_y": 355,
+    "category": 70000
+  },
+  {
+    "shelf": "IF-H-6",
+    "mm_x": 636,
+    "mm_y": 431,
+    "category": 70000
+  },
+  {
+    "shelf": "IF-H-7",
+    "mm_x": 636,
+    "mm_y": 507,
+    "category": 70000
+  },
+  {
+    "shelf": "IF-H-8",
+    "mm_x": 636,
+    "mm_y": 583,
+    "category": 70000
+  },
+  {
+    "shelf": "IF-H-9",
+    "mm_x": 636,
+    "mm_y": 659,
+    "category": 0
+  },
+  {
+    "shelf": "IF-H-10",
+    "mm_x": 636,
+    "mm_y": 735,
+    "category": 0
+  },
+  {
+    "shelf": "IF-H-11",
+    "mm_x": 636,
+    "mm_y": 811,
+    "category": 0
+  },
+  {
+    "shelf": "IF-H-12",
+    "mm_x": 636,
+    "mm_y": 887,
+    "category": 0
+  },
+  {
+    "shelf": "IF-H-13",
+    "mm_x": 636,
+    "mm_y": 964,
+    "category": 0
+  },
+  {
+    "shelf": "IF-I-1",
+    "mm_x": 712,
+    "mm_y": 51,
+    "category": 0
+  },
+  {
+    "shelf": "IF-I-2",
+    "mm_x": 712,
+    "mm_y": 127,
+    "category": 0
+  },
+  {
+    "shelf": "IF-I-3",
+    "mm_x": 712,
+    "mm_y": 203,
+    "category": 0
+  },
+  {
+    "shelf": "IF-I-4",
+    "mm_x": 712,
+    "mm_y": 279,
+    "category": 0
+  },
+  {
+    "shelf": "IF-I-5",
+    "mm_x": 712,
+    "mm_y": 355,
+    "category": 0
+  },
+  {
+    "shelf": "IF-I-6",
+    "mm_x": 712,
+    "mm_y": 431,
+    "category": 0
+  },
+  {
+    "shelf": "IF-I-7",
+    "mm_x": 712,
+    "mm_y": 507,
+    "category": 0
+  },
+  {
+    "shelf": "IF-I-8",
+    "mm_x": 712,
+    "mm_y": 583,
+    "category": 0
+  },
+  {
+    "shelf": "IF-I-9",
+    "mm_x": 712,
+    "mm_y": 659,
+    "category": 0
+  },
+  {
+    "shelf": "IF-I-10",
+    "mm_x": 712,
+    "mm_y": 735,
+    "category": 0
+  },
+  {
+    "shelf": "IF-I-11",
+    "mm_x": 712,
+    "mm_y": 811,
+    "category": 0
+  },
+  {
+    "shelf": "IF-I-12",
+    "mm_x": 712,
+    "mm_y": 887,
+    "category": 0
+  },
+  {
+    "shelf": "IF-I-13",
+    "mm_x": 712,
+    "mm_y": 964,
+    "category": 0
+  },
+  {
+    "shelf": "IF-J-1",
+    "mm_x": 750,
+    "mm_y": 51,
+    "category": 100000
+  },
+  {
+    "shelf": "IF-J-2",
+    "mm_x": 750,
+    "mm_y": 127,
+    "category": 100000
+  },
+  {
+    "shelf": "IF-J-3",
+    "mm_x": 750,
+    "mm_y": 203,
+    "category": 90000
+  },
+  {
+    "shelf": "IF-J-4",
+    "mm_x": 750,
+    "mm_y": 279,
+    "category": 90000
+  },
+  {
+    "shelf": "IF-J-5",
+    "mm_x": 750,
+    "mm_y": 355,
+    "category": 80000
+  },
+  {
+    "shelf": "IF-J-6",
+    "mm_x": 750,
+    "mm_y": 431,
+    "category": 80000
+  },
+  {
+    "shelf": "IF-J-7",
+    "mm_x": 750,
+    "mm_y": 507,
+    "category": 80000
+  },
+  {
+    "shelf": "IF-J-8",
+    "mm_x": 750,
+    "mm_y": 583,
+    "category": 120000
+  },
+  {
+    "shelf": "IF-J-9",
+    "mm_x": 750,
+    "mm_y": 659,
+    "category": 120000
+  },
+  {
+    "shelf": "IF-J-10",
+    "mm_x": 750,
+    "mm_y": 735,
+    "category": 120000
+  },
+  {
+    "shelf": "IF-J-11",
+    "mm_x": 750,
+    "mm_y": 811,
+    "category": 120000
+  },
+  {
+    "shelf": "IF-J-12",
+    "mm_x": 750,
+    "mm_y": 887,
+    "category": 120000
+  },
+  {
+    "shelf": "IF-J-13",
+    "mm_x": 750,
+    "mm_y": 964,
+    "category": 0
+  },
+  {
+    "shelf": "IF-K-1",
+    "mm_x": 788,
+    "mm_y": 51,
+    "category": 100000
+  },
+  {
+    "shelf": "IF-K-2",
+    "mm_x": 788,
+    "mm_y": 127,
+    "category": 100000
+  },
+  {
+    "shelf": "IF-K-3",
+    "mm_x": 788,
+    "mm_y": 203,
+    "category": 90000
+  },
+  {
+    "shelf": "IF-K-4",
+    "mm_x": 788,
+    "mm_y": 279,
+    "category": 90000
+  },
+  {
+    "shelf": "IF-K-5",
+    "mm_x": 788,
+    "mm_y": 355,
+    "category": 80000
+  },
+  {
+    "shelf": "IF-K-6",
+    "mm_x": 788,
+    "mm_y": 431,
+    "category": 80000
+  },
+  {
+    "shelf": "IF-K-7",
+    "mm_x": 788,
+    "mm_y": 507,
+    "category": 80000
+  },
+  {
+    "shelf": "IF-K-8",
+    "mm_x": 788,
+    "mm_y": 583,
+    "category": 120000
+  },
+  {
+    "shelf": "IF-K-9",
+    "mm_x": 788,
+    "mm_y": 659,
+    "category": 120000
+  },
+  {
+    "shelf": "IF-K-10",
+    "mm_x": 788,
+    "mm_y": 735,
+    "category": 120000
+  },
+  {
+    "shelf": "IF-K-11",
+    "mm_x": 788,
+    "mm_y": 811,
+    "category": 120000
+  },
+  {
+    "shelf": "IF-K-12",
+    "mm_x": 788,
+    "mm_y": 887,
+    "category": 120000
+  },
+  {
+    "shelf": "IF-K-13",
+    "mm_x": 788,
+    "mm_y": 964,
+    "category": 0
+  },
+  {
+    "shelf": "IF-L-1",
+    "mm_x": 864,
+    "mm_y": 51,
+    "category": 100000
+  },
+  {
+    "shelf": "IF-L-2",
+    "mm_x": 864,
+    "mm_y": 127,
+    "category": 100000
+  },
+  {
+    "shelf": "IF-L-3",
+    "mm_x": 864,
+    "mm_y": 203,
+    "category": 90000
+  },
+  {
+    "shelf": "IF-L-4",
+    "mm_x": 864,
+    "mm_y": 279,
+    "category": 90000
+  },
+  {
+    "shelf": "IF-L-5",
+    "mm_x": 864,
+    "mm_y": 355,
+    "category": 90000
+  },
+  {
+    "shelf": "IF-L-6",
+    "mm_x": 864,
+    "mm_y": 431,
+    "category": 80000
+  },
+  {
+    "shelf": "IF-L-7",
+    "mm_x": 864,
+    "mm_y": 507,
+    "category": 80000
+  },
+  {
+    "shelf": "IF-L-8",
+    "mm_x": 864,
+    "mm_y": 583,
+    "category": 120000
+  },
+  {
+    "shelf": "IF-L-9",
+    "mm_x": 864,
+    "mm_y": 659,
+    "category": 120000
+  },
+  {
+    "shelf": "IF-L-10",
+    "mm_x": 864,
+    "mm_y": 735,
+    "category": 120000
+  },
+  {
+    "shelf": "IF-L-11",
+    "mm_x": 864,
+    "mm_y": 811,
+    "category": 120000
+  },
+  {
+    "shelf": "IF-L-12",
+    "mm_x": 864,
+    "mm_y": 887,
+    "category": 120000
+  },
+  {
+    "shelf": "IF-L-13",
+    "mm_x": 864,
+    "mm_y": 964,
+    "category": 0
+  },
+  {
+    "shelf": "IF-M-1",
+    "mm_x": 940,
+    "mm_y": 51,
+    "category": 100000
+  },
+  {
+    "shelf": "IF-M-2",
+    "mm_x": 940,
+    "mm_y": 127,
+    "category": 100000
+  },
+  {
+    "shelf": "IF-M-3",
+    "mm_x": 940,
+    "mm_y": 203,
+    "category": 90000
+  },
+  {
+    "shelf": "IF-M-4",
+    "mm_x": 940,
+    "mm_y": 279,
+    "category": 90000
+  },
+  {
+    "shelf": "IF-M-5",
+    "mm_x": 940,
+    "mm_y": 355,
+    "category": 90000
+  },
+  {
+    "shelf": "IF-M-6",
+    "mm_x": 940,
+    "mm_y": 431,
+    "category": 80000
+  },
+  {
+    "shelf": "IF-M-7",
+    "mm_x": 940,
+    "mm_y": 507,
+    "category": 80000
+  },
+  {
+    "shelf": "IF-M-8",
+    "mm_x": 940,
+    "mm_y": 583,
+    "category": 120000
+  },
+  {
+    "shelf": "IF-M-9",
+    "mm_x": 940,
+    "mm_y": 659,
+    "category": 120000
+  },
+  {
+    "shelf": "IF-M-10",
+    "mm_x": 940,
+    "mm_y": 735,
+    "category": 0
+  },
+  {
+    "shelf": "IF-M-11",
+    "mm_x": 940,
+    "mm_y": 811,
+    "category": 120000
+  },
+  {
+    "shelf": "IF-M-12",
+    "mm_x": 940,
+    "mm_y": 887,
+    "category": 120000
+  },
+  {
+    "shelf": "IF-M-13",
+    "mm_x": 940,
+    "mm_y": 964,
+    "category": 0
+  },
+  {
+    "shelf": "IF-N-1",
+    "mm_x": 1016,
+    "mm_y": 51,
+    "category": 100000
+  },
+  {
+    "shelf": "IF-N-2",
+    "mm_x": 1016,
+    "mm_y": 127,
+    "category": 100000
+  },
+  {
+    "shelf": "IF-N-3",
+    "mm_x": 1016,
+    "mm_y": 203,
+    "category": 100000
+  },
+  {
+    "shelf": "IF-N-4",
+    "mm_x": 1016,
+    "mm_y": 279,
+    "category": 100000
+  },
+  {
+    "shelf": "IF-N-5",
+    "mm_x": 1016,
+    "mm_y": 355,
+    "category": 110000
+  },
+  {
+    "shelf": "IF-N-6",
+    "mm_x": 1016,
+    "mm_y": 431,
+    "category": 110000
+  },
+  {
+    "shelf": "IF-N-7",
+    "mm_x": 1016,
+    "mm_y": 507,
+    "category": 110000
+  },
+  {
+    "shelf": "IF-N-8",
+    "mm_x": 1016,
+    "mm_y": 583,
+    "category": 120000
+  },
+  {
+    "shelf": "IF-N-9",
+    "mm_x": 1016,
+    "mm_y": 659,
+    "category": 120000
+  },
+  {
+    "shelf": "IF-N-10",
+    "mm_x": 1016,
+    "mm_y": 735,
+    "category": 120000
+  },
+  {
+    "shelf": "IF-N-11",
+    "mm_x": 1016,
+    "mm_y": 811,
+    "category": 120000
+  },
+  {
+    "shelf": "IF-N-12",
+    "mm_x": 1016,
+    "mm_y": 887,
+    "category": 120000
+  },
+  {
+    "shelf": "IF-N-13",
+    "mm_x": 1016,
+    "mm_y": 964,
+    "category": 0
+  },
+  {
+    "shelf": "B-10-G-1",
+    "mm_x": 823,
+    "mm_y": 876,
+    "category": 120205
+  },
+  {
+    "shelf": "B-10-G-2",
+    "mm_x": 814,
+    "mm_y": 876,
+    "category": 120205
+  },
+  {
+    "shelf": "B-10-G-3",
+    "mm_x": 805,
+    "mm_y": 876,
+    "category": 120205
+  },
+  {
+    "shelf": "B-10-G-4",
+    "mm_x": 796,
+    "mm_y": 876,
+    "category": 120205
+  },
+  {
+    "shelf": "B-10-G-5",
+    "mm_x": 788,
+    "mm_y": 876,
+    "category": 120205
+  },
+  {
+    "shelf": "B-10-W-1",
+    "mm_x": 823,
+    "mm_y": 879,
+    "category": 120205
+  },
+  {
+    "shelf": "B-10-W-2",
+    "mm_x": 814,
+    "mm_y": 879,
+    "category": 120205
+  },
+  {
+    "shelf": "B-10-W-3",
+    "mm_x": 805,
+    "mm_y": 879,
+    "category": 120205
+  },
+  {
+    "shelf": "B-10-W-4",
+    "mm_x": 796,
+    "mm_y": 879,
+    "category": 120205
+  },
+  {
+    "shelf": "B-10-W-5",
+    "mm_x": 788,
+    "mm_y": 879,
+    "category": 120205
+  },
+  {
+    "shelf": "B-11-G-1",
+    "mm_x": 805,
+    "mm_y": 848,
+    "category": 120205
+  },
+  {
+    "shelf": "B-12-G-1",
+    "mm_x": 825,
+    "mm_y": 802,
+    "category": 120301
+  },
+  {
+    "shelf": "B-12-G-2",
+    "mm_x": 818,
+    "mm_y": 783,
+    "category": 120301
+  },
+  {
+    "shelf": "B-12-W-1",
+    "mm_x": 830,
+    "mm_y": 808,
+    "category": 120301
+  },
+  {
+    "shelf": "B-12-W-2",
+    "mm_x": 830,
+    "mm_y": 801,
+    "category": 120301
+  },
+  {
+    "shelf": "B-12-W-3",
+    "mm_x": 830,
+    "mm_y": 787,
+    "category": 120301
+  },
+  {
+    "shelf": "B-13-G-1",
+    "mm_x": 787,
+    "mm_y": 802,
+    "category": 120301
+  },
+  {
+    "shelf": "B-13-G-2",
+    "mm_x": 787,
+    "mm_y": 793,
+    "category": 120301
+  },
+  {
+    "shelf": "B-13-G-3",
+    "mm_x": 787,
+    "mm_y": 784,
+    "category": 120301
+  },
+  {
+    "shelf": "B-13-G-4",
+    "mm_x": 787,
+    "mm_y": 775,
+    "category": 120301
+  },
+  {
+    "shelf": "B-13-W-1",
+    "mm_x": 783,
+    "mm_y": 802,
+    "category": 120301
+  },
+  {
+    "shelf": "B-13-W-2",
+    "mm_x": 783,
+    "mm_y": 793,
+    "category": 120301
+  },
+  {
+    "shelf": "B-13-W-3",
+    "mm_x": 783,
+    "mm_y": 784,
+    "category": 120301
+  },
+  {
+    "shelf": "B-13-W-4",
+    "mm_x": 783,
+    "mm_y": 775,
+    "category": 120301
+  },
+  {
+    "shelf": "B-14-G-1",
+    "mm_x": 811,
+    "mm_y": 763,
+    "category": 120303
+  },
+  {
+    "shelf": "B-14-G-2",
+    "mm_x": 820,
+    "mm_y": 763,
+    "category": 120303
+  },
+  {
+    "shelf": "B-14-G-3",
+    "mm_x": 830,
+    "mm_y": 756,
+    "category": 120303
+  },
+  {
+    "shelf": "B-14-G-4",
+    "mm_x": 822,
+    "mm_y": 742,
+    "category": 120303
+  },
+  {
+    "shelf": "B-14-G-5",
+    "mm_x": 813,
+    "mm_y": 724,
+    "category": 120303
+  },
+  {
+    "shelf": "B-14-G-6",
+    "mm_x": 826,
+    "mm_y": 717,
+    "category": 120303
+  },
+  {
+    "shelf": "B-14-W-1",
+    "mm_x": 838,
+    "mm_y": 744,
+    "category": 120303
+  },
+  {
+    "shelf": "B-15-G-1",
+    "mm_x": 787,
+    "mm_y": 762,
+    "category": 120302
+  },
+  {
+    "shelf": "B-15-G-2",
+    "mm_x": 787,
+    "mm_y": 752,
+    "category": 120302
+  },
+  {
+    "shelf": "B-15-G-3",
+    "mm_x": 787,
+    "mm_y": 743,
+    "category": 120302
+  },
+  {
+    "shelf": "B-15-G-4",
+    "mm_x": 787,
+    "mm_y": 734,
+    "category": 120302
+  },
+  {
+    "shelf": "B-15-W-1",
+    "mm_x": 783,
+    "mm_y": 762,
+    "category": 120302
+  },
+  {
+    "shelf": "B-15-W-2",
+    "mm_x": 783,
+    "mm_y": 755,
+    "category": 120302
+  },
+  {
+    "shelf": "B-15-W-3",
+    "mm_x": 783,
+    "mm_y": 748,
+    "category": 120302
+  },
+  {
+    "shelf": "B-15-W-4",
+    "mm_x": 783,
+    "mm_y": 741,
+    "category": 120302
+  },
+  {
+    "shelf": "B-15-W-5",
+    "mm_x": 783,
+    "mm_y": 734,
+    "category": 120302
+  },
+  {
+    "shelf": "B-16-G-1",
+    "mm_x": 825,
+    "mm_y": 705,
+    "category": 120305
+  },
+  {
+    "shelf": "B-16-G-2",
+    "mm_x": 825,
+    "mm_y": 696,
+    "category": 120305
+  },
+  {
+    "shelf": "B-16-G-3",
+    "mm_x": 825,
+    "mm_y": 687,
+    "category": 120305
+  },
+  {
+    "shelf": "B-16-G-4",
+    "mm_x": 825,
+    "mm_y": 679,
+    "category": 120305
+  },
+  {
+    "shelf": "B-16-G-5",
+    "mm_x": 827,
+    "mm_y": 670,
+    "category": 120305
+  },
+  {
+    "shelf": "B-16-G-6",
+    "mm_x": 820,
+    "mm_y": 670,
+    "category": 120305
+  },
+  {
+    "shelf": "B-16-G-7",
+    "mm_x": 813,
+    "mm_y": 670,
+    "category": 120305
+  },
+  {
+    "shelf": "B-16-W-1",
+    "mm_x": 830,
+    "mm_y": 713,
+    "category": 120305
+  },
+  {
+    "shelf": "B-16-W-2",
+    "mm_x": 830,
+    "mm_y": 704,
+    "category": 120305
+  },
+  {
+    "shelf": "B-16-W-3",
+    "mm_x": 830,
+    "mm_y": 695,
+    "category": 120305
+  },
+  {
+    "shelf": "B-16-W-4",
+    "mm_x": 830,
+    "mm_y": 686,
+    "category": 120305
+  },
+  {
+    "shelf": "B-16-W-5",
+    "mm_x": 830,
+    "mm_y": 678,
+    "category": 120305
+  },
+  {
+    "shelf": "B-17-G-1",
+    "mm_x": 787,
+    "mm_y": 718,
+    "category": 120304
+  },
+  {
+    "shelf": "B-17-G-2",
+    "mm_x": 787,
+    "mm_y": 709,
+    "category": 120304
+  },
+  {
+    "shelf": "B-17-G-3",
+    "mm_x": 787,
+    "mm_y": 700,
+    "category": 120304
+  },
+  {
+    "shelf": "B-17-G-4",
+    "mm_x": 787,
+    "mm_y": 691,
+    "category": 120304
+  },
+  {
+    "shelf": "B-17-G-5",
+    "mm_x": 787,
+    "mm_y": 682,
+    "category": 120304
+  },
+  {
+    "shelf": "B-17-W-1",
+    "mm_x": 783,
+    "mm_y": 718,
+    "category": 120304
+  },
+  {
+    "shelf": "B-17-W-2",
+    "mm_x": 783,
+    "mm_y": 710,
+    "category": 120304
+  },
+  {
+    "shelf": "B-17-W-3",
+    "mm_x": 783,
+    "mm_y": 703,
+    "category": 120304
+  },
+  {
+    "shelf": "B-17-W-4",
+    "mm_x": 783,
+    "mm_y": 696,
+    "category": 120304
+  },
+  {
+    "shelf": "B-17-W-5",
+    "mm_x": 783,
+    "mm_y": 689,
+    "category": 120304
+  },
+  {
+    "shelf": "B-17-W-6",
+    "mm_x": 783,
+    "mm_y": 682,
+    "category": 120304
+  },
+  {
+    "shelf": "B-18-G-1",
+    "mm_x": 811,
+    "mm_y": 660,
+    "category": 120401
+  },
+  {
+    "shelf": "B-18-G-2",
+    "mm_x": 820,
+    "mm_y": 660,
+    "category": 120401
+  },
+  {
+    "shelf": "B-18-G-3",
+    "mm_x": 826,
+    "mm_y": 661,
+    "category": 120401
+  },
+  {
+    "shelf": "B-18-G-4",
+    "mm_x": 827,
+    "mm_y": 657,
+    "category": 120401
+  },
+  {
+    "shelf": "B-18-G-5",
+    "mm_x": 827,
+    "mm_y": 653,
+    "category": 120401
+  },
+  {
+    "shelf": "B-18-G-6",
+    "mm_x": 827,
+    "mm_y": 648,
+    "category": 120401
+  },
+  {
+    "shelf": "B-18-G-7",
+    "mm_x": 827,
+    "mm_y": 644,
+    "category": 120401
+  },
+  {
+    "shelf": "B-18-G-8",
+    "mm_x": 827,
+    "mm_y": 640,
+    "category": 120401
+  },
+  {
+    "shelf": "B-18-G-9",
+    "mm_x": 827,
+    "mm_y": 636,
+    "category": 120401
+  },
+  {
+    "shelf": "B-18-W-1",
+    "mm_x": 815,
+    "mm_y": 663,
+    "category": 120401
+  },
+  {
+    "shelf": "B-18-W-2",
+    "mm_x": 828,
+    "mm_y": 661,
+    "category": 120401
+  },
+  {
+    "shelf": "B-18-W-3",
+    "mm_x": 830,
+    "mm_y": 651,
+    "category": 120401
+  },
+  {
+    "shelf": "B-19-G-1",
+    "mm_x": 812,
+    "mm_y": 639,
+    "category": 120401
+  },
+  {
+    "shelf": "B-19-G-2",
+    "mm_x": 803,
+    "mm_y": 639,
+    "category": 120401
+  },
+  {
+    "shelf": "B-19-G-3",
+    "mm_x": 807,
+    "mm_y": 632,
+    "category": 120402
+  },
+  {
+    "shelf": "B-1-G-1",
+    "mm_x": 970,
+    "mm_y": 818,
+    "category": 120204
+  },
+  {
+    "shelf": "B-1-W-1",
+    "mm_x": 947,
+    "mm_y": 818,
+    "category": 120204
+  },
+  {
+    "shelf": "B-1-W-2",
+    "mm_x": 953,
+    "mm_y": 818,
+    "category": 120204
+  },
+  {
+    "shelf": "B-20-G-1",
+    "mm_x": 822,
+    "mm_y": 617,
+    "category": 120403
+  },
+  {
+    "shelf": "B-20-G-2",
+    "mm_x": 822,
+    "mm_y": 608,
+    "category": 120403
+  },
+  {
+    "shelf": "B-20-G-3",
+    "mm_x": 822,
+    "mm_y": 599,
+    "category": 120403
+  },
+  {
+    "shelf": "B-20-G-4",
+    "mm_x": 822,
+    "mm_y": 590,
+    "category": 120403
+  },
+  {
+    "shelf": "B-20-G-5",
+    "mm_x": 822,
+    "mm_y": 581,
+    "category": 120403
+  },
+  {
+    "shelf": "B-20-G-6",
+    "mm_x": 822,
+    "mm_y": 572,
+    "category": 120403
+  },
+  {
+    "shelf": "B-20-G-7",
+    "mm_x": 813,
+    "mm_y": 572,
+    "category": 120403
+  },
+  {
+    "shelf": "B-20-G-8",
+    "mm_x": 805,
+    "mm_y": 572,
+    "category": 120403
+  },
+  {
+    "shelf": "B-20-G-9",
+    "mm_x": 796,
+    "mm_y": 572,
+    "category": 120403
+  },
+  {
+    "shelf": "B-20-W-1",
+    "mm_x": 827,
+    "mm_y": 616,
+    "category": 120403
+  },
+  {
+    "shelf": "B-20-W-2",
+    "mm_x": 827,
+    "mm_y": 602,
+    "category": 120403
+  },
+  {
+    "shelf": "B-20-W-3",
+    "mm_x": 827,
+    "mm_y": 588,
+    "category": 120403
+  },
+  {
+    "shelf": "B-20-W-4",
+    "mm_x": 827,
+    "mm_y": 574,
+    "category": 120403
+  },
+  {
+    "shelf": "B-21-G-1",
+    "mm_x": 786,
+    "mm_y": 623,
+    "category": 120404
+  },
+  {
+    "shelf": "B-21-G-2",
+    "mm_x": 794,
+    "mm_y": 616,
+    "category": 120404
+  },
+  {
+    "shelf": "B-21-G-3",
+    "mm_x": 799,
+    "mm_y": 607,
+    "category": 120404
+  },
+  {
+    "shelf": "B-21-G-4",
+    "mm_x": 801,
+    "mm_y": 592,
+    "category": 120404
+  },
+  {
+    "shelf": "B-21-W-1",
+    "mm_x": 789,
+    "mm_y": 618,
+    "category": 120404
+  },
+  {
+    "shelf": "B-21-W-2",
+    "mm_x": 793,
+    "mm_y": 612,
+    "category": 120404
+  },
+  {
+    "shelf": "B-21-W-3",
+    "mm_x": 796,
+    "mm_y": 605,
+    "category": 120404
+  },
+  {
+    "shelf": "B-21-W-4",
+    "mm_x": 797,
+    "mm_y": 599,
+    "category": 120404
+  },
+  {
+    "shelf": "B-21-W-5",
+    "mm_x": 797,
+    "mm_y": 590,
+    "category": 120404
+  },
+  {
+    "shelf": "B-2-G-1",
+    "mm_x": 972,
+    "mm_y": 845,
+    "category": 120204
+  },
+  {
+    "shelf": "B-2-G-2",
+    "mm_x": 972,
+    "mm_y": 854,
+    "category": 120204
+  },
+  {
+    "shelf": "B-2-G-3",
+    "mm_x": 963,
+    "mm_y": 845,
+    "category": 120204
+  },
+  {
+    "shelf": "B-2-G-4",
+    "mm_x": 963,
+    "mm_y": 854,
+    "category": 120204
+  },
+  {
+    "shelf": "B-2-G-5",
+    "mm_x": 954,
+    "mm_y": 845,
+    "category": 120204
+  },
+  {
+    "shelf": "B-2-G-6",
+    "mm_x": 954,
+    "mm_y": 854,
+    "category": 120204
+  },
+  {
+    "shelf": "B-2-G-7",
+    "mm_x": 945,
+    "mm_y": 845,
+    "category": 120204
+  },
+  {
+    "shelf": "B-2-G-8",
+    "mm_x": 945,
+    "mm_y": 854,
+    "category": 120204
+  },
+  {
+    "shelf": "B-2-W-1",
+    "mm_x": 959,
+    "mm_y": 849,
+    "category": 120204
+  },
+  {
+    "shelf": "B-2-W-2",
+    "mm_x": 958,
+    "mm_y": 849,
+    "category": 120204
+  },
+  {
+    "shelf": "B-3-G-1",
+    "mm_x": 980,
+    "mm_y": 876,
+    "category": 120204
+  },
+  {
+    "shelf": "B-3-G-2",
+    "mm_x": 971,
+    "mm_y": 876,
+    "category": 120204
+  },
+  {
+    "shelf": "B-3-G-3",
+    "mm_x": 962,
+    "mm_y": 876,
+    "category": 120204
+  },
+  {
+    "shelf": "B-3-G-4",
+    "mm_x": 953,
+    "mm_y": 876,
+    "category": 120204
+  },
+  {
+    "shelf": "B-3-G-5",
+    "mm_x": 945,
+    "mm_y": 876,
+    "category": 120204
+  },
+  {
+    "shelf": "B-3-W-1",
+    "mm_x": 980,
+    "mm_y": 879,
+    "category": 120204
+  },
+  {
+    "shelf": "B-3-W-2",
+    "mm_x": 971,
+    "mm_y": 879,
+    "category": 120204
+  },
+  {
+    "shelf": "B-3-W-3",
+    "mm_x": 962,
+    "mm_y": 879,
+    "category": 120204
+  },
+  {
+    "shelf": "B-3-W-4",
+    "mm_x": 953,
+    "mm_y": 879,
+    "category": 120204
+  },
+  {
+    "shelf": "B-3-W-5",
+    "mm_x": 945,
+    "mm_y": 879,
+    "category": 120204
+  },
+  {
+    "shelf": "B-4-W-1",
+    "mm_x": 919,
+    "mm_y": 818,
+    "category": 120204
+  },
+  {
+    "shelf": "B-4-W-2",
+    "mm_x": 901,
+    "mm_y": 818,
+    "category": 120204
+  },
+  {
+    "shelf": "B-5-G-1",
+    "mm_x": 912,
+    "mm_y": 849,
+    "category": 120204
+  },
+  {
+    "shelf": "B-6-W-1",
+    "mm_x": 927,
+    "mm_y": 878,
+    "category": 120204
+  },
+  {
+    "shelf": "B-6-W-2",
+    "mm_x": 917,
+    "mm_y": 878,
+    "category": 120204
+  },
+  {
+    "shelf": "B-6-W-3",
+    "mm_x": 903,
+    "mm_y": 878,
+    "category": 120204
+  },
+  {
+    "shelf": "B-6-W-4",
+    "mm_x": 893,
+    "mm_y": 878,
+    "category": 120204
+  },
+  {
+    "shelf": "B-7-W-1",
+    "mm_x": 870,
+    "mm_y": 825,
+    "category": 120205
+  },
+  {
+    "shelf": "B-7-W-2",
+    "mm_x": 862,
+    "mm_y": 825,
+    "category": 120205
+  },
+  {
+    "shelf": "B-7-W-3",
+    "mm_x": 853,
+    "mm_y": 825,
+    "category": 120205
+  },
+  {
+    "shelf": "B-7-W-4",
+    "mm_x": 844,
+    "mm_y": 825,
+    "category": 120205
+  },
+  {
+    "shelf": "B-8-G-1",
+    "mm_x": 869,
+    "mm_y": 850,
+    "category": 120205
+  },
+  {
+    "shelf": "B-8-G-2",
+    "mm_x": 869,
+    "mm_y": 855,
+    "category": 120205
+  },
+  {
+    "shelf": "B-9-W-1",
+    "mm_x": 875,
+    "mm_y": 873,
+    "category": 120205
+  },
+  {
+    "shelf": "B-9-W-2",
+    "mm_x": 866,
+    "mm_y": 873,
+    "category": 120205
+  },
+  {
+    "shelf": "B-9-W-3",
+    "mm_x": 857,
+    "mm_y": 873,
+    "category": 120205
+  },
+  {
+    "shelf": "B-9-W-4",
+    "mm_x": 848,
+    "mm_y": 873,
+    "category": 120205
+  },
+  {
+    "shelf": "B-9-W-5",
+    "mm_x": 840,
+    "mm_y": 873,
+    "category": 120205
+  }
+]

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="ipad11_0rounded" orientation="landscape">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SearchHeader" customModule="MinpakuMock" customModuleProvider="target">
+            <connections>
+                <outlet property="collectionView" destination="GeC-Xa-CFS" id="lXx-j3-IJb"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="adT-D6-FQc">
+            <rect key="frame" x="0.0" y="0.0" width="767" height="72"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="background_search_keys" translatesAutoresizingMaskIntoConstraints="NO" id="t2m-lN-hbh">
+                    <rect key="frame" x="0.0" y="0.0" width="767" height="72"/>
+                </imageView>
+                <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="GeC-Xa-CFS">
+                    <rect key="frame" x="0.0" y="0.0" width="767" height="72"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="jk9-Ky-xof">
+                        <size key="itemSize" width="50" height="50"/>
+                        <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                        <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                        <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    </collectionViewFlowLayout>
+                </collectionView>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="t2m-lN-hbh" firstAttribute="leading" secondItem="ElQ-bv-Ymf" secondAttribute="leading" id="6wS-tE-IFl"/>
+                <constraint firstAttribute="bottom" secondItem="t2m-lN-hbh" secondAttribute="bottom" id="MLb-Gi-mSW"/>
+                <constraint firstAttribute="bottom" secondItem="GeC-Xa-CFS" secondAttribute="bottom" id="Nz4-WO-jXd"/>
+                <constraint firstItem="ElQ-bv-Ymf" firstAttribute="trailing" secondItem="t2m-lN-hbh" secondAttribute="trailing" id="ZQ6-DJ-4D0"/>
+                <constraint firstItem="ElQ-bv-Ymf" firstAttribute="trailing" secondItem="GeC-Xa-CFS" secondAttribute="trailing" id="jXJ-qB-PUY"/>
+                <constraint firstItem="t2m-lN-hbh" firstAttribute="top" secondItem="adT-D6-FQc" secondAttribute="top" id="pqj-yG-NuW"/>
+                <constraint firstItem="GeC-Xa-CFS" firstAttribute="leading" secondItem="ElQ-bv-Ymf" secondAttribute="leading" id="qtJ-6S-Xe6"/>
+                <constraint firstItem="GeC-Xa-CFS" firstAttribute="top" secondItem="adT-D6-FQc" secondAttribute="top" id="vyd-n6-VaX"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="ElQ-bv-Ymf"/>
+            <point key="canvasLocation" x="113.81909547738694" y="171.22302158273382"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="background_search_keys" width="1150" height="54"/>
+    </resources>
+</document>
